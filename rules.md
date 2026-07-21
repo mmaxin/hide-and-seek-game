@@ -42,14 +42,16 @@ Score the most points by staying hidden or by finding Hiders.
   - *Use very visible, wearable items, such as hats, shirts, or necklaces.*
 {% endcomment %}
 
-- **Hiders** start wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 
-
+### Choose Game Boundaries
+- See below section but this should be talked about before starting the game!
 
 
 ## 3. Start the Game
-{: #general-rules }
+{: #start }
 
+- **Hiders** start wearing their ***Hider Item***, and must carry their ***Seeker Item***.
+- **Starting Seekers** start wearing their ***Seeker Item***.
 - Hiders receive 15 minutes to choose a hiding location within the game area.
 - Starting Seekers remain at the start area during the hide period and may not watch, follow, or track Hiders.
 
