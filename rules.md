@@ -1,9 +1,6 @@
 > **At a glance:** 2-hour game · 15-minute hide period · 4 clue photos
 
-## 1. Objective
-{: #objective }
-
-Score the most points by staying hidden or by finding Hiders.
+## 0. Timetable Summary
 
 | Time | Description | Points |
 | ---:| --- |:---:| 
@@ -13,6 +10,13 @@ Score the most points by staying hidden or by finding Hiders.
 | +1:10 | Round 3 Photo due | 6 |
 | +1:45 | Round 4 Photo due | 10 |
 | +2:00 | Game End · Remaining **Hiders** win! | - |
+
+## 1. Objective
+{: #objective }
+
+Score the most points by staying hidden or by finding Hiders.
+
+
 
 ## 2. Set Up
 ### Choose Teams
