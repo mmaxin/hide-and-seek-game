@@ -84,7 +84,7 @@ This could go first, but I always give players game objects as soon as possible 
 ### 15-minute Countdown
 
 - **Hiders** leave **Home Base**, and have 15 minutes to choose their hiding spot within the Map.
-- **Starting Seekers** must remain at **Home Base** during the Countdown.
+- **Starting Seekers** must remain at **Home Base** during the **Countdown**.
 {% comment %}
 - [this phase could be called the Countdown maybe?]
 - **Starting Seekers** must remain at the start area during the hide period.
@@ -95,10 +95,10 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 ## 4. Hiding Rules
 {: #locked-location }
 
-- Hiders may hide solo, in pairs, or in groups of up to three.
-- The Hider’s location is locked in at 0:00, when they submit their first photo.
-- Hiders must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
-- Hiders must still be able to see the Photo 1 location from their current position.
+- **Hiders** may hide solo, in pairs, or in groups of up to three.
+- The **Hider’s** location is locked in at 0:00, when they submit their first photo.
+- **Hiders** must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
+- **Hiders** must still be able to see the Photo 1 location from their current position.
 - Small adjustments are allowed. Re-hiding is not allowed.
 - **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
 
@@ -118,20 +118,20 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - Each photo must be taken from the locked hiding location.
 - Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
-- Each photo must be from the Hider’s point of view. No zooming.
-- Hiders must submit photos on time. They may be asked to resubmit photos that are unclear.
+- Each photo must be from the **Hider’s** point of view. No zooming.
+- **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
 
 ## 6. How a find works
 {: #finds }
 
-- A Seeker makes a valid find by reaching the Hider first, getting within about three metres, clearly identifying the Hider, and saying: **“Found—hand over your Hider item.”**
-- When a Hider is found, they hand over their Hider item, put on their Seeker item, and immediately become an **Infected Seeker**.
-- **First Seeker rule:** if multiple Seekers arrive, the Hider item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
+- A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying: **“Found—hand over your Hider Item.”**
+- When a **Hider** is found, they hand over their ***Hider Item***, put on their ***Seeker Item***, and immediately become a **Seeker**.
+- **First Seeker rule:** if multiple Seekers arrive, the Hider Item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
 - No tagging, grabbing, or chasing.
 
 ### Posting rules
 
-After a valid find, the found Hider posts in WhatsApp:
+After a valid find, the found **Hider** posts in WhatsApp:
 
 ```text
 FOUND
@@ -176,8 +176,11 @@ Hider: [Name]
 
 - The entire game is played inside the approved area.
 - Boundary streets count only on the inside sidewalk.
+- If a **Hider** is asked by ***any non-player*** to move, they must move the minimum amount necessary and remain as close as possible to their locked hiding location.
+{% comment %}
 - If a Hider is asked by staff, a resident, or the public to move, they must move the minimum amount necessary and remain as close as possible to their locked hiding location.
-- **Honour system:** if a Hider is forced to move, they must honestly stay within the spirit of the same hiding location and continue using that location for future photo clues.
+{% endcomment %}
+- **Honour system:** if a **Hider** is forced to move, they must honestly stay within the spirit of the same hiding location and continue using that location for future photo clues.
 
 ## 9. Safety, rulings & end of game
 {: #safety }
