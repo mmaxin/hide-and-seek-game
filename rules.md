@@ -11,7 +11,7 @@ Score the most points by staying hidden or by finding Hiders.
 - Each Hider receives two role items: one Hider item and one Seeker item.
 - Hiders start wearing the Hider item and carrying the Seeker item.
 - Starting Seekers receive only the Seeker item.
-- When a Hider is found, they hand over their Hider item, put on their Seeker item, and immediately become an **Infected Seeker**.
+
 
 ## 3. Game size & teams
 {: #teams }
@@ -92,6 +92,7 @@ Score the most points by staying hidden or by finding Hiders.
 {: #finds }
 
 - A Seeker makes a valid find by reaching the Hider first, getting within about three metres, clearly identifying the Hider, and saying: **“Found—hand over your Hider item.”**
+- When a Hider is found, they hand over their Hider item, put on their Seeker item, and immediately become an **Infected Seeker**.
 - **First Seeker rule:** if multiple Seekers arrive, the Hider item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
 - No tagging, grabbing, or chasing.
 
