@@ -40,14 +40,31 @@
     </header>
 
     <nav class="section-nav" aria-label="Rule sections">
-      <div class="section-nav__inner">
-        <a href="#objective">Start</a>
-        <a href="#teams">Teams</a>
-        <a href="#scoring">Scoring</a>
-        <a href="#photo-clues">Clues</a>
-        <a href="#finds">Finding</a>
-        <a href="#safety">Safety</a>
-        <a href="#map">Zones & map</a>
+      <div class="section-nav__bar">
+        <div class="section-nav__links">
+          <a href="#objective">Start</a>
+          <a href="#teams">Teams</a>
+          <a href="#scoring">Scoring</a>
+          <a href="#photo-clues">Clues</a>
+          <a href="#finds">Finding</a>
+          <a href="#safety">Safety</a>
+          <a href="#map">Zones & map</a>
+        </div>
+        <button class="section-nav__search-toggle" type="button" data-search-toggle aria-expanded="false" aria-controls="guide-search">Search guide</button>
+      </div>
+      <div class="guide-search" id="guide-search" data-search-panel hidden>
+        <div class="guide-search__inner">
+          <form class="guide-search__form" role="search" data-search-form>
+            <label for="guide-search-input">What rule do you need?</label>
+            <div class="guide-search__field">
+              <input id="guide-search-input" type="search" inputmode="search" autocomplete="off" placeholder="Try “when is Photo 3?” or “can I run?”" data-search-input aria-describedby="guide-search-hint guide-search-status">
+              <button type="button" data-search-clear hidden>Clear</button>
+            </div>
+          </form>
+          <p class="guide-search__hint" id="guide-search-hint">Searches section titles, rule text, and common game-day phrases.</p>
+          <p class="guide-search__status" id="guide-search-status" data-search-status aria-live="polite">Type a question or keyword to find the right section.</p>
+          <ol class="guide-search__results" data-search-results></ol>
+        </div>
       </div>
     </nav>
 

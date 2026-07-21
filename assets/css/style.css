@@ -180,17 +180,25 @@ button:focus-visible {
   backdrop-filter: blur(14px);
 }
 
-.section-nav__inner {
+.section-nav__bar {
   display: flex;
-  gap: 0.25rem;
+  gap: 0.5rem;
+  align-items: center;
   width: min(1120px, 100%);
   margin: 0 auto;
   padding: 0.55rem 1rem;
+}
+
+.section-nav__links {
+  display: flex;
+  flex: 1 1 auto;
+  gap: 0.25rem;
+  min-width: 0;
   overflow-x: auto;
   scrollbar-width: none;
 }
 
-.section-nav__inner::-webkit-scrollbar {
+.section-nav__links::-webkit-scrollbar {
   display: none;
 }
 
@@ -206,6 +214,131 @@ button:focus-visible {
 
 .section-nav a:hover {
   background: var(--blue-100);
+}
+
+.section-nav__search-toggle {
+  flex: 0 0 auto;
+  min-height: 2.25rem;
+  padding: 0.45rem 0.8rem;
+  color: white;
+  background: var(--navy-900);
+  border: 1px solid var(--navy-900);
+  border-radius: 999px;
+  font: inherit;
+  font-size: 0.88rem;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.section-nav__search-toggle:hover,
+.section-nav__search-toggle[aria-expanded="true"] {
+  color: var(--navy-950);
+  background: var(--gold-300);
+  border-color: var(--gold-500);
+}
+
+.guide-search {
+  background: white;
+  border-top: 1px solid var(--line);
+  box-shadow: 0 14px 28px rgb(7 27 55 / 12%);
+}
+
+.guide-search__inner {
+  width: min(760px, calc(100% - 2rem));
+  max-height: min(55vh, 30rem);
+  margin: 0 auto;
+  padding: 1rem 0 1.15rem;
+  overflow-y: auto;
+}
+
+.guide-search__form label {
+  display: block;
+  margin-bottom: 0.35rem;
+  color: var(--navy-900);
+  font-weight: 800;
+}
+
+.guide-search__field {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.guide-search__field input {
+  width: 100%;
+  min-width: 0;
+  padding: 0.7rem 0.85rem;
+  color: var(--ink);
+  background: white;
+  border: 2px solid #aabbd0;
+  border-radius: 0.65rem;
+  font: inherit;
+  line-height: 1.2;
+}
+
+.guide-search__field input:focus {
+  border-color: var(--navy-800);
+  outline: 3px solid rgb(244 182 61 / 35%);
+  outline-offset: 1px;
+}
+
+.guide-search__field button {
+  padding: 0.55rem 0.75rem;
+  color: var(--navy-900);
+  background: var(--blue-50);
+  border: 1px solid #aabbd0;
+  border-radius: 0.65rem;
+  font: inherit;
+  font-weight: 750;
+  cursor: pointer;
+}
+
+.guide-search__hint,
+.guide-search__status {
+  margin: 0.4rem 0 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+  line-height: 1.4;
+}
+
+.guide-search__status {
+  color: var(--navy-800);
+  font-weight: 700;
+}
+
+.guide-search__results {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0.65rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.guide-search__results a {
+  display: grid;
+  gap: 0.12rem;
+  padding: 0.65rem 0.75rem;
+  color: var(--ink);
+  background: var(--blue-50);
+  border: 1px solid var(--line);
+  border-radius: 0.65rem;
+  line-height: 1.35;
+  text-decoration: none;
+}
+
+.guide-search__results a:hover,
+.guide-search__results a:focus-visible {
+  color: var(--navy-950);
+  background: var(--blue-100);
+  border-color: #aabbd0;
+}
+
+.guide-search__results strong {
+  color: var(--navy-900);
+}
+
+.guide-search__results span {
+  color: var(--muted);
+  font-size: 0.88rem;
 }
 
 .page-shell {
@@ -405,6 +538,18 @@ code {
     margin-top: 0.8rem;
   }
 
+  .section-nav__bar {
+    padding-inline: 0.5rem;
+  }
+
+  .section-nav__search-toggle {
+    padding-inline: 0.65rem;
+  }
+
+  .guide-search__inner {
+    width: min(100% - 1rem, 760px);
+  }
+
   .rules-card {
     border-radius: 0.85rem;
   }
@@ -430,11 +575,15 @@ code {
   @page {
     size: letter portrait;
     margin: 0.34in 0.4in 0.4in;
+    padding: 0.06in;
+    border: 1.5px solid #0b2a55;
   }
 
   @page game-map {
     size: letter landscape;
     margin: 0.34in 0.4in 0.4in;
+    padding: 0.06in;
+    border: 1.5px solid #0b2a55;
   }
 
   body {
