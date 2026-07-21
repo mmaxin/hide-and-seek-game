@@ -16,8 +16,8 @@ Score the most points by staying hidden or by finding Hiders.
 ## 3. Game size & teams
 {: #teams }
 
-- **Starting Seekers** = max(2, total players ÷ 6, rounded up)
-- **Starting Hiders** = total players − Starting Seekers
+- ~~**Starting Seekers** = max(2, total players ÷ 6, rounded up)~~
+- ~~**Starting Hiders** = total players − Starting Seekers~~
 - Hiders may hide solo, in pairs, or in groups of up to three.
 
 | Players | Starting Seekers |
