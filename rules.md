@@ -37,8 +37,7 @@ Score the most points by staying hidden or by finding Hiders.
 
 - Hiders receive 15 minutes to choose a hiding location within the game area.
 - Starting Seekers remain at the start area during the hide period and may not watch, follow, or track Hiders.
-- Starting Seekers do not earn survival points.
-- Starting Seekers score only by collecting Hider items.
+
 
 ## 5. Locked hiding location
 {: #locked-location }
@@ -64,6 +63,8 @@ Score the most points by staying hidden or by finding Hiders.
 
 ### Seeker points
 
+- Starting Seekers do not earn survival points.
+- Starting Seekers score only by collecting Hider items.
 - Infected Seekers score **+1 point** for each Hider item collected.
 - Starting Seekers score:
   - **6–10 players:** +3 points per Hider item
