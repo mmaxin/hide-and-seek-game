@@ -2,14 +2,14 @@
 
 ## 0. Timetable Summary
 
-| Time | Description | Points |
-| ---:| --- |:---:| 
-| −0:15 | Game Start · **Hiders** hide! | 0 |
-|  0:00 | Round 1 Photo due · **Seekers** released! | 2 |
-| +0:35 | Round 2 Photo due | 4 |
-| +1:10 | Round 3 Photo due | 6 |
-| +1:45 | Round 4 Photo due | 10 |
-| +2:00 | Game End · Remaining **Hiders** win! | - |
+| Time | Description | | Points |
+| ---:| --- |:--- |:---:| 
+| −0:15 | **Countdown** | **Hiders** hide! | - |
+|  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
+| +0:35 | Round 2 · Photo due | | 4 |
+| +1:10 | Round 3 · Photo due | | 6 |
+| +1:45 | Round 4 · Photo due | | 10 |
+| +2:00 | Game End | Remaining **Hiders** win! | - |
 
 ## 1. Objective
 {: #objective }
@@ -29,6 +29,7 @@ Score the most points by staying hidden or by finding Hiders.
 {% comment %}
 - **Starting Seekers** = max(2, total players ÷ 6, rounded up)
 - **Starting Hiders** = total players − Starting Seekers
+·
 {% endcomment %}
 
 | Total Players | Starting Seekers |
@@ -77,11 +78,14 @@ This could go first, but I always give players game objects as soon as possible 
 ## 3. Start the Game
 {: #start }
 
+### 15-minute Countdown
 - **Hiders** start wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 - **Starting Seekers** start wearing their ***Seeker Item***.
 - **Hiders** receive 15 minutes to choose a hiding location within the game area.
-- **Starting Seekers** remain at the start area during the hide period.
+- **Starting Seekers** must remain at **Home Base** during the Countdown.
 {% comment %}
+- [this phase could be called the Countdown maybe?]
+- **Starting Seekers** must remain at the start area during the hide period.
 and may not watch, follow, or track Hiders. < Optimistic lol.
 {% endcomment %}
 
