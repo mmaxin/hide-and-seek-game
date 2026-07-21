@@ -27,7 +27,10 @@ Score the most points by staying hidden or by finding Hiders.
 | 11–15 | 3 |
 | 16–22 | 4 |
 | 23–30 | 5 |
+| 31-40 | 6 |
+{% comment %}
 | 31+ | 6+ or split into two games |
+{% endcomment %}
 
 ## 4. General rules
 {: #general-rules }
