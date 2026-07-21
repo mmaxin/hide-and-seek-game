@@ -21,7 +21,7 @@ Score the most points by staying hidden or by finding Hiders.
 - **Starting Hiders** = total players − Starting Seekers
 {% endcomment %}
 
-| Players | Starting Seekers |
+| Total Players | Starting Seekers |
 | --- | ---: |
 | 6–10 | 2 |
 | 11–15 | 3 |
