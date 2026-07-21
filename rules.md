@@ -47,7 +47,7 @@ Score the most points by staying hidden or by finding Hiders.
 
 
 
-## 3. General rules
+## 3. Start the Game
 {: #general-rules }
 
 - Hiders receive 15 minutes to choose a hiding location within the game area.
