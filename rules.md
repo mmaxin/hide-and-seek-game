@@ -43,8 +43,19 @@ Score the most points by staying hidden or by finding Hiders.
 {% endcomment %}
 
 
-### Choose Game Boundaries
-- See below section but this should be talked about before starting the game!
+### Review Map & Boundaries WIP
+{% comment %}
+This could go first, but I always give players game objects as soon as possible lol.
+{% endcomment %}
+- See below section, but this should be talked about and defined before starting the game!
+- Home Base: The starting area.
+  - Where exactly will Starting Seekers wait, while Hiders hide?
+- Map: The area for hiding.
+- Out of Bounds: Review the exact boundaries of the game.
+  - Which streets, paths, fences, etc. mark the edges of the map?
+  - Which buildings, structures, areas, etc. must not be entered?
+  - Which ones are allowed?
+
 
 
 ## 3. Start the Game
