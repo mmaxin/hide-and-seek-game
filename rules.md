@@ -78,9 +78,11 @@ This could go first, but I always give players game objects as soon as possible 
 ## 3. Start the Game
 {: #start }
 
-### 15-minute Countdown
 - **Hiders** start wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 - **Starting Seekers** start wearing their ***Seeker Item***.
+
+### 15-minute Countdown
+
 - **Hiders** receive 15 minutes to choose a hiding location within the game area.
 - **Starting Seekers** must remain at **Home Base** during the Countdown.
 {% comment %}
