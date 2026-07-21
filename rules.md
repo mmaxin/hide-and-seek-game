@@ -6,14 +6,6 @@
 Score the most points by staying hidden or by finding Hiders.
 
 ## 2. Set Up
-### Roles & items
-{: #roles }
-
-- Each Hider receives two role items: one Hider item and one Seeker item.
-- Hiders start wearing the Hider item and carrying the Seeker item.
-- Starting Seekers receive only the Seeker item.
-
-
 ### Choose Teams
 {: #teams }
 
@@ -33,14 +25,25 @@ Score the most points by staying hidden or by finding Hiders.
 | 31+ | 6+ or split into two games |
 {% endcomment %}
 
-## 4. General rules
+
+### Roles & items
+{: #roles }
+
+- Each Hider receives two role items: one Hider item and one Seeker item.
+- Hiders start wearing the Hider item and carrying the Seeker item.
+- Starting Seekers receive only the Seeker item.
+
+
+
+
+## 3. General rules
 {: #general-rules }
 
 - Hiders receive 15 minutes to choose a hiding location within the game area.
 - Starting Seekers remain at the start area during the hide period and may not watch, follow, or track Hiders.
 
 
-## 5. Locked hiding location
+## 4. Locked hiding location
 {: #locked-location }
 
 - Hiders may hide solo, in pairs, or in groups of up to three.
@@ -50,7 +53,7 @@ Score the most points by staying hidden or by finding Hiders.
 - Small adjustments are allowed. Re-hiding is not allowed.
 - **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
 
-## 6. Scoring
+## 5. Scoring
 {: #scoring }
 
 ### Hider survival points
@@ -73,7 +76,7 @@ Score the most points by staying hidden or by finding Hiders.
 
 > **Final score** = Hider items collected + survival points + any Starting Seeker bonus.
 
-## 7. Photo clues
+## 6. Photo clues
 {: #photo-clues }
 
 | Time | Event |
@@ -90,7 +93,7 @@ Score the most points by staying hidden or by finding Hiders.
 - Each photo must be from the Hider’s point of view. No zooming.
 - Hiders must submit photos on time. They may be asked to resubmit photos that are unclear.
 
-## 8. How a find works
+## 7. How a find works
 {: #finds }
 
 - A Seeker makes a valid find by reaching the Hider first, getting within about three metres, clearly identifying the Hider, and saying: **“Found—hand over your Hider item.”**
@@ -116,7 +119,7 @@ SURVIVED
 Hider: [Name]
 ```
 
-## 9. Boundaries & movement
+## 8. Boundaries & movement
 {: #boundaries }
 
 - The entire game is played inside the approved area.
@@ -124,7 +127,7 @@ Hider: [Name]
 - If a Hider is asked by staff, a resident, or the public to move, they must move the minimum amount necessary and remain as close as possible to their locked hiding location.
 - **Honour system:** if a Hider is forced to move, they must honestly stay within the spirit of the same hiding location and continue using that location for future photo clues.
 
-## 10. Safety, rulings & end of game
+## 9. Safety, rulings & end of game
 {: #safety }
 
 - Walking only. No running.
