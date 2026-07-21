@@ -24,10 +24,12 @@ Markdown basics:
 | Value | Value |
 ```
 
-## Update the map
+## Update zones or the map
 
-- Replace `assets/game-map.png` with a new image using the same filename.
-- If the interactive Google Map changes, update the two map links at the bottom of `rules.md`.
+- The live Google My Map is the source of truth. Changes made to zones in that map appear immediately without rebuilding this site.
+- Treat the current full boundary as the **Entire Zone** in player-facing rules. Add future zones to the live map, then describe any zone-specific rules in the map section at the bottom of `rules.md`.
+- Replace `assets/game-map.png` with a fresh screenshot using the same filename whenever the static Entire Zone preview becomes outdated.
+- If the site moves to a different Google My Map, update the two live-map links at the bottom of `rules.md`.
 
 ## Site structure
 

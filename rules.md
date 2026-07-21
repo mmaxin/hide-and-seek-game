@@ -126,11 +126,13 @@ Hider: [Name]
 - The Organizer has final say on rulings and scoring.
 - At 2:00, the game ends immediately. No late finds count.
 
-## Game map
+## Game map & zones
 {: #map }
 
-The red outline on the map marks the approved game area. Remember that boundary streets count only on the inside sidewalk.
+The live game map will continue to be updated as zones are added. For now, **Entire Zone** is the full playable area outlined in blue below. Remember that boundary streets count only on the inside sidewalk.
 
-[![Satellite map of the Unionville game area with the boundary outlined in red](assets/game-map.png)](https://www.google.com/maps/d/u/3/edit?mid=1DNPtxgDGn1xpDO45NaOz93r5RXSIxIc&usp=sharing)
+> **On game day:** use the live map as the source of truth. The image below is a quick reference for the current Entire Zone.
 
-<a class="button map-button" href="https://www.google.com/maps/d/u/3/edit?mid=1DNPtxgDGn1xpDO45NaOz93r5RXSIxIc&amp;usp=sharing" target="_blank" rel="noopener">Open the interactive game map →</a>
+[![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
+
+<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
