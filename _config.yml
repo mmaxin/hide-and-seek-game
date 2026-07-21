@@ -1,0 +1,14 @@
+title: Photo-Clue Infection Hide & Seek
+description: Rules, scoring, clue schedule, and boundary map for the game.
+url: "https://mmaxin.github.io"
+baseurl: "/hide-and-seek-game"
+repository_url: "https://github.com/mmaxin/hide-and-seek-game"
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+exclude:
+  - README.md
+  - tmp
+  - .codex-tmp
+  - vendor
