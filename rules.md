@@ -44,12 +44,12 @@ Score the most points by staying hidden or by finding Hiders.
 {% endcomment %}
 
 
-### Distribute Items
+### Hand-out Role Items
 {: #items }
 
 - **Every player** receives a ***Seeker Item***.
 - Only **Hiders** receive a ***Hider Item***.
-- *Distinct, wearable items in two variations work best (hats, shirts, necklaces, etc).*
+> Distinct, wearable items in two variations work best! Use hats, shirts, big necklaces, etc.
 {% comment %}
 
 - Each **Starting Seeker** receives a ***Seeker Item***.
@@ -78,8 +78,8 @@ This could go first, but I always give players game objects as soon as possible 
 ## 3. Start the Game
 {: #start }
 
-- **Hiders** start wearing their ***Hider Item***, and must carry their ***Seeker Item***.
-- **Starting Seekers** start wearing their ***Seeker Item***.
+- **Hiders** begin wearing their ***Hider Item***, and must carry their ***Seeker Item***.
+- **Starting Seekers** begin wearing their ***Seeker Item***.
 
 ### 15-minute Countdown
 
