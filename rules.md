@@ -9,8 +9,8 @@ Score the most points by staying hidden or by finding Hiders.
 ### Choose Teams
 {: #teams }
 
-- Starting Seekers spend the entire game searching for hiders.
-- Hiders begin the game by hiding, and become seekers once found.
+- **Starting Seekers** spend the entire game searching for **Hiders**.
+- **Hiders** begin the game by hiding, and become **Seekers** once found.
 
 
 {% comment %}
@@ -33,8 +33,11 @@ Score the most points by staying hidden or by finding Hiders.
 ### Hand Out Items
 {: #items }
 
-- Each Hider receives one Hider item and one Seeker item.
-- Hiders start wearing the Hider item and carrying the Seeker item.
+- Each **Hider** receives a Hider item and a Seeker item.
+{% comment %}
+  - *Use very visible, wearable items, such as hats, shirts, or necklaces.*
+{% endcomment %}
+- Hiders start wearing their Hider item, and carrying their Seeker item.
 - Starting Seekers receive only the Seeker item.
 
 
