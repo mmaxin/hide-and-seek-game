@@ -23,7 +23,7 @@ Score the most points by staying hidden or by finding Hiders.
 {: #teams }
 
 - **Starting Seekers** will spend the entire game searching for **Hiders**.
-- **Hiders** begin the game hiding, and become **Seekers** once found.
+- **Hiders** begin the game hiding, and become **Seekers** if found.
 
 
 {% comment %}
