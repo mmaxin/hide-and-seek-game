@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#0b2a55">
+    <meta name="description" content="{{ page.description }}">
+    <meta name="robots" content="noindex">
+    <title>{{ page.title }} · {{ site.title }}</title>
+    <link rel="icon" href="{{ '/assets/favicon.svg' | relative_url }}" type="image/svg+xml">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/testing.css' | relative_url }}">
+    <script src="{{ '/assets/vendor/marked.umd.js' | relative_url }}" defer></script>
+    <script src="{{ '/assets/js/testing.js' | relative_url }}" defer></script>
+  </head>
+  <body class="preview-page" data-rules-url="{{ '/rules.md' | relative_url }}">
+    <a class="skip-link" href="#markdown-editor">Skip to the Markdown editor</a>
+
+    <header class="preview-header">
+      <div class="preview-header__inner">
+        <div>
+          <p class="eyebrow">Maintainer tool</p>
+          <h1>Rules Markdown Previewer</h1>
+          <p>Draft rule changes and see them with the same styling as the live guide.</p>
+        </div>
+        <a class="preview-home-link" href="{{ '/' | relative_url }}">View live rules →</a>
+      </div>
+    </header>
+
+    <main class="preview-shell">
+      <section class="preview-intro" aria-labelledby="preview-intro-title">
+        <div>
+          <p class="preview-intro__label">Safe workspace</p>
+          <h2 id="preview-intro-title">Try changes without changing the public guide</h2>
+          <p>Your draft stays in this browser and autosaves on this device. Previewing does not publish anything.</p>
+        </div>
+        <ol>
+          <li>Edit or paste Markdown.</li>
+          <li>Check the live preview.</li>
+          <li>Copy the finished Markdown into <code>rules.md</code> on GitHub.</li>
+        </ol>
+      </section>
+
+      <div class="preview-toolbar" aria-label="Previewer actions">
+        <button class="preview-button preview-button--primary" type="button" data-load-rules>Load current rules</button>
+        <button class="preview-button" type="button" data-copy-markdown>Copy Markdown</button>
+        <button class="preview-button" type="button" data-download-markdown>Download .md</button>
+        <button class="preview-button preview-button--quiet" type="button" data-new-draft>New blank draft</button>
+        <p class="preview-status" data-preview-status role="status" aria-live="polite">Preparing the editor…</p>
+      </div>
+
+      <div class="preview-workspace">
+        <section class="preview-editor" aria-labelledby="editor-title">
+          <div class="preview-pane-heading">
+            <div>
+              <p class="preview-pane-heading__eyebrow">Write</p>
+              <h2 id="editor-title">Markdown</h2>
+            </div>
+            <span>Autosaved locally</span>
+          </div>
+          <label class="sr-only" for="markdown-editor">Rules Markdown</label>
+          <textarea id="markdown-editor" data-markdown-input spellcheck="true" autocapitalize="sentences" aria-describedby="editor-help"></textarea>
+          <p id="editor-help" class="preview-help">Tip: use <code>## Heading</code>, then <code>{: #anchor-name }</code> on the next line for a searchable section.</p>
+        </section>
+
+        <section class="preview-result" aria-labelledby="result-title">
+          <div class="preview-pane-heading">
+            <div>
+              <p class="preview-pane-heading__eyebrow">Review</p>
+              <h2 id="result-title">Page preview</h2>
+            </div>
+            <span>Live site styling</span>
+          </div>
+          <div class="preview-canvas">
+            <article class="rules-card" data-preview-output></article>
+          </div>
+        </section>
+      </div>
+
+      <noscript>
+        <p class="preview-error">This previewer needs JavaScript. Enable JavaScript and reload the page.</p>
+      </noscript>
+    </main>
+
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>Nothing here is public until you commit it to <code>rules.md</code>.</p>
+        <p><a href="{{ site.repository_url }}/edit/main/rules.md">Edit the published rules on GitHub</a></p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -136,3 +136,9 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 [![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
+
+{% comment %}
+## Draft section (hidden)
+
+Keep future rule text inside this block while it is not ready for players. Delete the opening and closing comment tags when the section is ready to publish, then give its heading a unique anchor.
+{% endcomment %}
