@@ -48,8 +48,9 @@ Score the most points by staying hidden or by finding Hiders.
 
 - **Every player** receives a ***Seeker Item***.
 - Only **Hiders** receive a ***Hider Item***.
-- *Wearable, easily distinguished items are best, such as hats, shirts, or necklaces.*
+- *Distinct, wearable items in two variations works best (hats, shirts, necklaces, etc).*
 {% comment %}
+
 - Each **Starting Seeker** receives a ***Seeker Item***.
 - Each **Hider** receives a ***Hider Item***, and a ***Seeker Item***.
   - *Use very visible, wearable items, such as hats, shirts, or necklaces.*
