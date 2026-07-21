@@ -83,7 +83,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 ### 15-minute Countdown
 
-- **Hiders** receive 15 minutes to choose a hiding location within the game area.
+- **Hiders** leave **Home Base**, and have 15 minutes to choose their hiding spot within the Map.
 - **Starting Seekers** must remain at **Home Base** during the Countdown.
 {% comment %}
 - [this phase could be called the Countdown maybe?]
@@ -92,7 +92,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 {% endcomment %}
 
 
-## 4. Locked hiding location
+## 4. Hiding Rules
 {: #locked-location }
 
 - Hiders may hide solo, in pairs, or in groups of up to three.
@@ -102,30 +102,9 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - Small adjustments are allowed. Re-hiding is not allowed.
 - **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
 
-## 5. Scoring
-{: #scoring }
 
-### Hider survival points
 
-| Result | Points |
-| --- | ---: |
-| Found between 0:00–0:35 | 2 |
-| Found between 0:35–1:10 | 4 |
-| Found between 1:10–1:45 | 6 |
-| Not found by 2:00 | 10 |
-
-### Seeker points
-
-- Starting Seekers do not earn survival points.
-- Starting Seekers score only by collecting Hider items.
-- Infected Seekers score **+1 point** for each Hider item collected.
-- Starting Seekers score:
-  - **6–10 players:** +3 points per Hider item
-  - **11+ players:** +2 points per Hider item
-
-> **Final score** = Hider items collected + survival points + any Starting Seeker bonus.
-
-## 6. Photo clues
+## 5. Photo clues
 {: #photo-clues }
 
 | Time | Event |
@@ -142,7 +121,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - Each photo must be from the Hider’s point of view. No zooming.
 - Hiders must submit photos on time. They may be asked to resubmit photos that are unclear.
 
-## 7. How a find works
+## 6. How a find works
 {: #finds }
 
 - A Seeker makes a valid find by reaching the Hider first, getting within about three metres, clearly identifying the Hider, and saying: **“Found—hand over your Hider item.”**
@@ -167,6 +146,30 @@ If you are not found by 2:00, post:
 SURVIVED
 Hider: [Name]
 ```
+
+## 7. Scoring
+{: #scoring }
+
+### Hider survival points
+
+| Result | Points |
+| --- | ---: |
+| Found between 0:00–0:35 | 2 |
+| Found between 0:35–1:10 | 4 |
+| Found between 1:10–1:45 | 6 |
+| Not found by 2:00 | 10 |
+
+### Seeker points
+
+- Starting Seekers do not earn survival points.
+- Starting Seekers score only by collecting Hider items.
+- Infected Seekers score **+1 point** for each Hider item collected.
+- Starting Seekers score:
+  - **6–10 players:** +3 points per Hider item
+  - **11+ players:** +2 points per Hider item
+
+> **Final score** = Hider items collected + survival points + any Starting Seeker bonus.
+
 
 ## 8. Boundaries & movement
 {: #boundaries }
