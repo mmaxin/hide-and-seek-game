@@ -30,8 +30,8 @@ Score the most points by staying hidden or by finding Hiders.
 {% endcomment %}
 
 
-### Roles & items
-{: #roles }
+### Hand Out Items
+{: #items }
 
 - Each Hider receives one Hider item and one Seeker item.
 - Hiders start wearing the Hider item and carrying the Seeker item.
