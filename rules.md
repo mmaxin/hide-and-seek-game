@@ -5,6 +5,15 @@
 
 Score the most points by staying hidden or by finding Hiders.
 
+| Time | Event | Description |
+| --- | --- | --- |
+| −0:15 | Hiders leave to hide |
+|  0:00 | Photo 1 due · Seekers released |
+| +0:35 | Photo 2 due |
+| +1:10 | Photo 3 due |
+| +1:45 | Photo 4 due |
+| +2:00 | Game ends |
+
 ## 2. Set Up
 ### Choose Teams
 {: #teams }
@@ -110,7 +119,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 | Time | Event |
 | --- | --- |
-| −15:00 | Hiders leave to hide |
+| −0:15 | Hiders leave to hide |
 | 0:00 | Photo 1 due · Seekers released |
 | 0:35 | Photo 2 due |
 | 1:10 | Photo 3 due |
