@@ -66,6 +66,10 @@ button:focus-visible {
   transform: translateY(0);
 }
 
+.print-only {
+  display: none;
+}
+
 .hero {
   color: white;
   background:
@@ -424,14 +428,22 @@ code {
 
 @media print {
   @page {
-    margin: 0.55in;
+    size: letter portrait;
+    margin: 0.34in 0.4in 0.4in;
+  }
+
+  @page game-map {
+    size: letter landscape;
+    margin: 0.34in 0.4in 0.4in;
   }
 
   body {
-    color: #111;
+    color: #182233;
     background: white;
-    font-size: 9.5pt;
-    line-height: 1.35;
+    font-size: 7.8pt;
+    line-height: 1.22;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
   }
 
   .skip-link,
@@ -441,16 +453,20 @@ code {
     display: none !important;
   }
 
+  .print-only {
+    display: block !important;
+  }
+
   .hero {
     color: var(--navy-950);
     background: white;
-    border-bottom: 3px solid var(--navy-900);
+    border-bottom: 2px solid var(--navy-900);
   }
 
   .hero__inner {
     display: block;
     width: 100%;
-    padding: 0 0 0.2in;
+    padding: 0 0 0.06in;
   }
 
   .hero__mark,
@@ -459,30 +475,95 @@ code {
   }
 
   .eyebrow {
+    margin: 0 0 0.01in;
     color: var(--navy-900);
+    font-size: 6.5pt;
+    letter-spacing: 0.13em;
   }
 
   .hero h1 {
     max-width: none;
-    font-size: 24pt;
+    font-size: 17pt;
+    line-height: 1.03;
+    letter-spacing: -0.025em;
+  }
+
+  .print-url {
+    margin: 0.025in 0 0;
+    color: #4c5d72;
+    font-size: 6.5pt;
+    font-weight: 650;
+    line-height: 1.1;
   }
 
   .page-shell {
     width: 100%;
-    margin: 0;
+    margin: 0.08in 0 0;
   }
 
   .rules-card {
+    column-count: 2;
+    column-gap: 0.25in;
+    column-rule: 1px solid #b8c5d4;
     padding: 0;
     border: 0;
+    border-radius: 0;
     box-shadow: none;
   }
 
+  .rules-card > blockquote:first-child {
+    column-span: all;
+    margin: 0 0 0.09in;
+    padding: 0.055in 0.1in;
+    color: var(--navy-950);
+    background: white;
+    border: 1.2px solid var(--navy-900);
+    border-radius: 0;
+    font-size: 8.8pt;
+    line-height: 1.12;
+    text-align: center;
+  }
+
   .rules-card h2 {
-    margin-top: 0.25in;
-    padding-top: 0.12in;
-    font-size: 15pt;
+    margin: 0.075in 0 0.035in;
+    padding: 0 0 0.025in;
+    color: var(--navy-900);
+    border-top: 0;
+    border-bottom: 1px solid #6f8299;
+    font-size: 10.5pt;
+    line-height: 1.08;
     break-after: avoid;
+    break-inside: avoid;
+  }
+
+  .rules-card h2:first-of-type {
+    margin-top: 0;
+  }
+
+  .rules-card h3 {
+    margin: 0.055in 0 0.025in;
+    font-size: 8.7pt;
+    line-height: 1.1;
+    break-after: avoid;
+  }
+
+  .rules-card p {
+    max-width: none;
+    margin: 0 0 0.045in;
+  }
+
+  .rules-card ul {
+    max-width: none;
+    margin: 0.02in 0 0.065in;
+    padding-left: 0.19in;
+  }
+
+  .rules-card li + li {
+    margin-top: 0.018in;
+  }
+
+  .rules-card li {
+    break-inside: avoid;
   }
 
   .rules-card h3,
@@ -490,6 +571,59 @@ code {
   pre,
   blockquote {
     break-inside: avoid;
+  }
+
+  .rules-card blockquote:not(:first-child) {
+    margin: 0.045in 0 0.07in;
+    padding: 0.05in 0.07in;
+    color: var(--navy-950);
+    background: white;
+    border: 1px solid #8799ae;
+    border-left: 3px solid var(--navy-800);
+  }
+
+  table {
+    width: 100%;
+    margin: 0.04in 0 0.075in;
+    border: 1px solid #8799ae;
+    border-collapse: collapse;
+    border-radius: 0;
+    font-size: 7pt;
+  }
+
+  thead {
+    display: table-header-group;
+  }
+
+  th,
+  td {
+    padding: 0.035in 0.05in;
+    border: 1px solid #b7c2cf;
+    line-height: 1.15;
+  }
+
+  th {
+    color: var(--navy-900) !important;
+    background: #edf2f7 !important;
+    font-size: 6.6pt;
+    letter-spacing: 0.035em;
+  }
+
+  tbody tr:nth-child(even) {
+    background: white;
+  }
+
+  pre {
+    max-width: none;
+    margin: 0.035in 0 0.065in;
+    padding: 0.055in 0.075in;
+    color: var(--navy-950);
+    background: white;
+    border: 1px solid #8799ae;
+    border-left: 3px solid var(--navy-800);
+    border-radius: 0;
+    font-size: 6.8pt;
+    line-height: 1.22;
   }
 
   .rules-card a {
@@ -501,8 +635,44 @@ code {
     content: "";
   }
 
+  #map,
+  #map ~ * {
+    column-span: all;
+    page: game-map;
+  }
+
   #map {
+    margin: 0;
+    padding: 0 0 0.045in;
+    border-top: 0;
+    border-bottom: 1.5px solid var(--navy-900);
+    font-size: 14pt;
     break-before: page;
+  }
+
+  #map + p {
+    margin: 0.08in 0 0.06in;
+    font-size: 8.8pt;
+    line-height: 1.25;
+  }
+
+  .rules-card img {
+    width: 100%;
+    max-height: 6.85in;
+    margin: 0.08in auto 0;
+    object-fit: contain;
+    border: 1px solid #8799ae;
+    border-radius: 0.04in;
+    box-shadow: none;
+  }
+
+  #map ~ p img {
+    width: auto;
+    max-width: 100%;
+    height: 6.35in;
+    max-height: 6.35in;
+    margin-right: auto;
+    margin-left: auto;
   }
 
   .map-button {
