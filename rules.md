@@ -20,7 +20,6 @@ Score the most points by staying hidden or by finding Hiders.
 - **Starting Seekers** = max(2, total players ÷ 6, rounded up)
 - **Starting Hiders** = total players − Starting Seekers
 {% endcomment %}
-- Hiders may hide solo, in pairs, or in groups of up to three.
 
 | Players | Starting Seekers |
 | --- | ---: |
@@ -41,6 +40,7 @@ Score the most points by staying hidden or by finding Hiders.
 ## 5. Locked hiding location
 {: #locked-location }
 
+- Hiders may hide solo, in pairs, or in groups of up to three.
 - The Hider’s location is locked in at 0:00, when they submit their first photo.
 - Hiders must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
 - Hiders must still be able to see the Photo 1 location from their current position.
