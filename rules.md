@@ -5,14 +5,14 @@
 
 Score the most points by staying hidden or by finding Hiders.
 
-| Time | Description | Points per Find |
-| ---:| --- | --- | 
-| −0:15 | Game Start · Hiders hide! | 0 |
-|  0:00 | Round 1 Photo due · Seekers released! | 2 |
+| Time | Description | Points |
+| ---:| --- |:---:| 
+| −0:15 | Game Start · **Hiders** hide! | 0 |
+|  0:00 | Round 1 Photo due · **Seekers** released! | 2 |
 | +0:35 | Round 2 Photo due | 4 |
 | +1:10 | Round 3 Photo due | 6 |
 | +1:45 | Round 4 Photo due | 10 |
-| +2:00 | Game End · Remaining Hiders win! | - |
+| +2:00 | Game End · Remaining **Hiders** win! | - |
 
 ## 2. Set Up
 ### Choose Teams
