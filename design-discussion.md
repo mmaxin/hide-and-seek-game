@@ -10,3 +10,18 @@ The biggest feedbacks I heard where
 ### Intended
 - Cut the game design in half: 30 min hide + 30 min x 4 rounds -> 15 hide + 45 seek
 - Lever: Starting Seekers accelerate the game.
+
+## Complaints
+- Groups accelerate the game.
+- Game too fast / unsatisfying narrative (hide->caught-> found).
+- Rounds too long/hider boredom.
+- Points imbalance.
+- Photos useless.
+
+## Talking with Rebecca
+- Some seekers were dramatically more competitive than others
+	- Recommend pre-selecting seeker list, so that all seekers are actually volunteering rather than voluntold-ing.
+		- Random selection from possible group is probably most fair, Meccha Chameleon analog.
+- Points were definitely unbalanced.
+- 
+		
