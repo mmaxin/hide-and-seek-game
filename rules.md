@@ -63,10 +63,15 @@ Score the most points by staying hidden or by finding Hiders.
 This could go first, but I always give players game objects as soon as possible lol.
 {% endcomment %}
 - See below section, but this should be talked about and defined before starting the game!
+
+#### Home Base: The Starting Area
+- [Platia Arionos (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48) is a small, central plaza with a tree and a well.
+{% comment %}
 - Home Base: The starting area.
   - Where exactly will Starting Seekers wait, while Hiders hide?
   - Where exactly must *all players* begin the game?
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
+{% endcomment %}
 - Map: The area for hiding.
 - Out of Bounds: Review the exact boundaries of the game.
   - Which streets, paths, fences, etc. mark the edges of the map?
