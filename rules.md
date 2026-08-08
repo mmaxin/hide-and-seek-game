@@ -7,10 +7,10 @@
 |       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |  |
 | −0:10 | **Countdown** | **Hiders** hide! |  |
 |  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
-| +0:35 | Round 2 · Photo due | | 4 |
-| +1:10 | Round 3 · Photo due | | 6 |
-| +1:45 | Round 4 · Photo due | | 10 |
-| +2:00 | Game End | Remaining **Hiders** win! |  |
+| +0:15 | Round 2 · Photo due | | 4 |
+| +0:30 | Round 3 · Photo due | | 6 |
+| +0:45 | Round 4 · Photo due | | 10 |
+| +1:00 | Game End | Remaining **Hiders** win! |  |
 
 ## 1. Objective
 {: #objective }
@@ -123,28 +123,30 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 
-## 5. Photo clues
+## 5. Rounds & Photo clues
 {: #photo-clues }
 
 | Time | Event |
 | --- | --- |
 | −0:10 | Hiders leave to hide |
 | 0:00 | Photo 1 due · Seekers released |
-| 0:35 | Photo 2 due |
-| 1:10 | Photo 3 due |
-| 1:45 | Photo 4 due |
-| 2:00 | Game ends |
+| 0:15 | Photo 2 due |
+| 0:30 | Photo 3 due |
+| 0:45 | Photo 4 due |
+| 1:00 | Game ends |
 
-- Each photo must be taken from the locked hiding location.
-- Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
-- Each photo must be from the **Hider’s** point of view. No zooming.
-- **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
+- Each game has 4 rounds, lasting 15 minutes each.
+- At the beginning of each round, all **Hiders** must submit a photo.
+- At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
+- At the end of each round, any *found* **Hiders** become **Seekers**. *(Hiders score 0 points on the round they're found.)*
+
+> Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
 
 ## 6. How a find works
 {: #finds }
 
 - A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying: **“Found—hand over your Hider Item.”**
-- When a **Hider** is found, they hand over their ***Hider Item***, put on their ***Seeker Item***, and immediately become a **Seeker**.
+- When a **Hider** is found, they hand over their ***Hider Item***, put on their ***Seeker Item***, and will become a **Seeker**.
 - **First Seeker rule:** if multiple Seekers arrive, the Hider Item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
 - No tagging, grabbing, or chasing.
 
@@ -177,6 +179,11 @@ Hider: [Name]
 | Found between 0:35–1:10 | 4 |
 | Found between 1:10–1:45 | 6 |
 | Not found by 2:00 | 10 |
+
+- Each photo must be taken from the locked hiding location.
+- Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
+- Each photo must be from the **Hider’s** point of view. No zooming.
+- **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
 
 ### Seeker points
 
@@ -228,6 +235,10 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 [![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
+
+
+## FAQ & Examples
+
 
 {% comment %}
 ## Draft section (hidden)
