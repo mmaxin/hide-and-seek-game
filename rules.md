@@ -79,7 +79,7 @@ This could go first, but I always give players game objects as soon as possible 
   - Which buildings, structures, areas, etc. must not be entered?
   - Which ones are allowed?
 
-
+<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
 ## 3. Start the Game
 {: #start }
