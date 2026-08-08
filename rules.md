@@ -65,7 +65,7 @@ This could go first, but I always give players game objects as soon as possible 
 - See below section, but this should be talked about and defined before starting the game!
 
 #### Home Base: The Starting Area
-- [Platia Arionos (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48) is a small, central plaza with a tree and a well.
+> **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk to the furthest map boundary.
 {% comment %}
 - Home Base: The starting area.
   - Where exactly will Starting Seekers wait, while Hiders hide?
