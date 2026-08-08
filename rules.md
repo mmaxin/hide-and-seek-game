@@ -148,10 +148,10 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | 15 min Round | Event |
 | ---:| --- |
 | 0:00 | Round Start |
-| 0:00 | Each Hider submits a photo. |
+| 0:01 | Hiders may submit a photo. |
 | 2:00 | Hiders now lose 1 pt per late minute. |
 | 12:00 | Hiders may reposition until the end of round. |
-| 15:00 | Surviving hiders score points! |
+| 14:59 | Surviving hiders score points! |
 | 15:00 | Found Hiders become seekers! |
 
 - Each game has 4 rounds, lasting 15 minutes each.
