@@ -115,7 +115,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 ### Reposition Rules
-- **Hiders** may reposition during the last 5 minutes of each round, choosing a new hiding spot.
+- **Hiders** may reposition during the last 3 minutes of each round, choosing a new hiding spot.
 - If a player repositions, they must include "REPOSITION!" when they send their next photo.
 - When a player repositions, points for their abandoned location are halved.
 
@@ -135,6 +135,25 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | 0:45 | Photo 4 due |
 | 1:00 | Game ends |
 
+| Time | Description | |
+| ---:| --- |:--- |
+|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
+| −0:10 | **Countdown** | **Hiders** hide! |
+|  0:00 | Round 1 · Photo due | **Seekers** released! |
+| +0:15 | Round 2 · Photo due | |
+| +0:30 | Round 3 · Photo due | |
+| +0:45 | Round 4 · Photo due | |
+| +1:00 | Game End | Remaining **Hiders** win! |
+
+| 15 min Round | Event |
+| ---:| --- |
+| 0:00 | Round Start |
+| 0:00 | Each Hider submits a photo. |
+| 2:00 | Hiders now lose 1 pt per late minute. |
+| 12:00 | Hiders may reposition until the end of round. |
+| 15:00 | Surviving hiders score points! |
+| 15:00 | Found Hiders become seekers! |
+
 - Each game has 4 rounds, lasting 15 minutes each.
 - At the beginning of each round, all **Hiders** must submit a photo.
 - At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
@@ -147,6 +166,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying: **“Found—hand over your Hider Item.”**
 - When a **Hider** is found, they hand over their ***Hider Item***, put on their ***Seeker Item***, and will become a **Seeker**.
+- **Hiders** need to stay put until round start. (This gives nearby hiders a chance to escape.)
 - **First Seeker rule:** if multiple Seekers arrive, the Hider Item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
 - No tagging, grabbing, or chasing.
 
@@ -223,6 +243,7 @@ Hider: [Name]
 - If all hiders are found too quickly, increase the Countdown from 10 minutes to 15 minutes.
 
 ### Hiders too strong
+- Reduce Reposition window from 3 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
 
 
 ## Game map & zones
