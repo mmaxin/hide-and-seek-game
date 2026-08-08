@@ -4,7 +4,7 @@
 
 | Time | Description | | Points |
 | ---:| --- |:--- |:---:| 
-|       | Meet at Home Base | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** | - |
+|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |  |
 | −0:15 | **Countdown** | **Hiders** hide! | - |
 |  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
 | +0:35 | Round 2 · Photo due | | 4 |
