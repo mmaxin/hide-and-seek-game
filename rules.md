@@ -202,7 +202,11 @@ Hider: [Name]
 - At 2:00, the game ends immediately. No late finds count.
 
 ## Adjusting the game
+### Seekers too strong
 - If all hiders are found too quickly, increase the Countdown from 10 minutes to 15 minutes.
+
+### Hiders too strong
+
 
 ## Game map & zones
 {: #map }
