@@ -5,7 +5,7 @@
 | Time | Description | | Points |
 | ---:| --- |:--- |:---:| 
 |       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |  |
-| −0:10 | **Countdown** | **Hiders** hide! |  |
+| −0:10 | **Hide Countdown** | **Hiders** hide! |  |
 |  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
 | +0:15 | Round 2 · Photo due | | 4 |
 | +0:30 | Round 3 · Photo due | | 6 |
@@ -87,7 +87,7 @@ This could go first, but I always give players game objects as soon as possible 
 - **Hiders** begin wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 - **Starting Seekers** begin wearing their ***Seeker Item***.
 
-### 10-minute Countdown
+### Hide Countdown: 10 minutes
 
 - **Hiders** leave **Home Base**, and have 10 minutes to choose their hiding spot within the Map.
 - **Starting Seekers** must remain at **Home Base** during the **Countdown**.
@@ -240,7 +240,7 @@ Hider: [Name]
 
 ## Adjusting the game
 ### Seekers too strong
-- If all hiders are found too quickly, increase the Countdown from 10 minutes to 15 minutes.
+- Increase the Hide Countdown from 10 minutes to 15 minutes. Note that Old Town Rhodes is 15 minutes across.
 
 ### Hiders too strong
 - Reduce Reposition window from 3 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
