@@ -115,11 +115,11 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 ### Reposition Rules
-- **Hiders** may reposition during the last 5 minutes of a round, choosing a new hiding spot.
+- **Hiders** may reposition during the last 5 minutes of each round, choosing a new hiding spot.
 - If a player repositions, they must include "REPOSITION!" when they send their next photo.
 - When a player repositions, points for their abandoned location are halved.
 
-> If you repositioned at the end of rounds 2 & 3, you'd score half points from your first location, half points from your second location, and full points for the final location. Best possible score would be 25 points (5 + 5 [REPOSITION] + 5 [REPOSITION] + 10).
+> If you repositioned at the end of rounds 2 & 3, you'd score half points in rounds 1 & 2, half points from your second location in round 3, and full points for the final location. Best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
 
 
 
