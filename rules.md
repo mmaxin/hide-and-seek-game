@@ -1,11 +1,11 @@
-> **At a glance:** 2-hour game · 15-minute hide period · 4 clue photos
+> **At a glance:** 2-hour game · 10-minute hide period · 4 clue photos
 
 ## 0. Timetable Summary
 
 | Time | Description | | Points |
 | ---:| --- |:--- |:---:| 
 |       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |  |
-| −0:15 | **Countdown** | **Hiders** hide! |  |
+| −0:10 | **Countdown** | **Hiders** hide! |  |
 |  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
 | +0:35 | Round 2 · Photo due | | 4 |
 | +1:10 | Round 3 · Photo due | | 6 |
@@ -87,9 +87,9 @@ This could go first, but I always give players game objects as soon as possible 
 - **Hiders** begin wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 - **Starting Seekers** begin wearing their ***Seeker Item***.
 
-### 15-minute Countdown
+### 10-minute Countdown
 
-- **Hiders** leave **Home Base**, and have 15 minutes to choose their hiding spot within the Map.
+- **Hiders** leave **Home Base**, and have 10 minutes to choose their hiding spot within the Map.
 - **Starting Seekers** must remain at **Home Base** during the **Countdown**.
 {% comment %}
 - [this phase could be called the Countdown maybe?]
@@ -97,6 +97,9 @@ This could go first, but I always give players game objects as soon as possible 
 and may not watch, follow, or track Hiders. < Optimistic lol.
 {% endcomment %}
 
+
+> It's a 10 minute walk from ***Platia Arionos*** to the furthest map boundary. 
+{% comment %}
 
 ## 4. Hiding Rules
 {: #locked-location }
@@ -115,7 +118,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 | Time | Event |
 | --- | --- |
-| −0:15 | Hiders leave to hide |
+| −0:10 | Hiders leave to hide |
 | 0:00 | Photo 1 due · Seekers released |
 | 0:35 | Photo 2 due |
 | 1:10 | Photo 3 due |
@@ -197,6 +200,9 @@ Hider: [Name]
 - No private property, roads, or washrooms.
 - The Organizer has final say on rulings and scoring.
 - At 2:00, the game ends immediately. No late finds count.
+
+## Adjusting the game
+- If all hiders are found too quickly, increase the Countdown from 10 minutes to 15 minutes.
 
 ## Game map & zones
 {: #map }
