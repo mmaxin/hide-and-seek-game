@@ -119,7 +119,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - If a player repositions, they must include "REPOSITION!" when they send their next photo.
 - When a player repositions, points for their abandoned location are halved.
 
-> If you repositioned at the end of rounds 2 & 3, you'd score half points in rounds 1 & 2, half points from your second location in round 3, and full points for the final location. Best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
+> If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and full points for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
 
 
 
