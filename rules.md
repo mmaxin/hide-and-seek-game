@@ -100,6 +100,8 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > It's a 10 minute walk from ***Platia Arionos*** to the furthest map boundary. 
 {% comment %}
+{% endcomment %}
+
 
 ## 4. Hiding Rules
 {: #locked-location }
