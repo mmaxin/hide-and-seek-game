@@ -220,7 +220,10 @@ button:focus-visible {
   gap: 0.25rem;
   min-width: 0;
   overflow-x: auto;
+  overscroll-behavior-x: contain;
+  scroll-snap-type: x proximity;
   scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
 }
 
 .section-nav__links::-webkit-scrollbar {
@@ -234,6 +237,7 @@ button:focus-visible {
   border-radius: 999px;
   font-size: 0.9rem;
   font-weight: 750;
+  scroll-snap-align: start;
   text-decoration: none;
 }
 
@@ -242,7 +246,11 @@ button:focus-visible {
 }
 
 .section-nav__search-toggle {
+  display: inline-flex;
   flex: 0 0 auto;
+  gap: 0.4rem;
+  align-items: center;
+  justify-content: center;
   min-height: 2.25rem;
   padding: 0.45rem 0.8rem;
   color: white;
@@ -253,6 +261,15 @@ button:focus-visible {
   font-size: 0.88rem;
   font-weight: 750;
   cursor: pointer;
+}
+
+.section-nav__search-toggle svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.section-nav__search-label--compact {
+  display: none;
 }
 
 .section-nav__search-toggle:hover,
@@ -727,6 +744,10 @@ code {
 }
 
 @media (max-width: 760px) {
+  html {
+    scroll-padding-top: 7.5rem;
+  }
+
   .hero__inner {
     grid-template-columns: auto 1fr;
     padding-block: 1.75rem 1.9rem;
@@ -758,20 +779,57 @@ code {
   }
 
   .section-nav__bar {
-    padding-inline: 0.5rem;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    padding: 0.45rem 0.5rem 0;
   }
 
   .page-switcher {
-    padding-right: 0.25rem;
+    order: 1;
+    padding-right: 0;
+    border-right: 0;
   }
 
   .page-switcher a {
-    padding-inline: 0.58rem;
-    font-size: 0.84rem;
+    min-height: 2.75rem;
+    padding: 0.65rem 0.72rem;
+    font-size: 0.86rem;
+  }
+
+  .section-nav__links {
+    order: 3;
+    flex-basis: calc(100% + 1rem);
+    gap: 0.15rem;
+    margin-inline: -0.5rem;
+    padding: 0.38rem 1.7rem 0.45rem 0.5rem;
+    border-top: 1px solid var(--line);
+  }
+
+  .section-nav__links a {
+    min-height: 2.75rem;
+    padding: 0.62rem 0.72rem;
+    font-size: 0.86rem;
   }
 
   .section-nav__search-toggle {
-    padding-inline: 0.65rem;
+    order: 2;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    margin-left: auto;
+    padding-inline: 0.72rem;
+    font-size: 0.86rem;
+  }
+
+  .section-nav__search-label--full {
+    display: none;
+  }
+
+  .section-nav__search-label--compact {
+    display: inline;
+  }
+
+  .section-nav__spacer {
+    order: 2;
   }
 
   .guide-search__inner {
