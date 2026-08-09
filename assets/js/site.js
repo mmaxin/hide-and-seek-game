@@ -12,7 +12,7 @@ if (shareButton) {
         if (canShare) {
           await navigator.share({
             title: document.title,
-            text: "Photo-Clue Infection Hide & Seek game rules",
+            text: shareButton.dataset.shareText || "Photo-Clue Infection Hide & Seek",
             url: window.location.href,
           });
           return;
