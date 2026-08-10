@@ -74,9 +74,9 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 {% endcomment %}
 - Map: The area for hiding.
-- Out of Bounds: Review the exact boundaries of the game.
-- **Hiders** must stay *within* the Old Town walls.
-> Please actually hide in the Old Town: Do not hide in the wall, on the wall, or outside the wall.
+#### Map Boundaries
+- **All Players** must stay within the Old Town walls during the entire game.
+> Please hide in the Old Town! Do not hide in the wall, on the wall, or outside the wall.
   - Which buildings, structures, areas, etc. must not be entered?
   - Which ones are allowed?
 
