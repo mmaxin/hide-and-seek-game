@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Rhodes Photo Examples
-description: Visual examples of strong and weak Hide & Seek clue photos in Rhodes.
+description: Rhodes clue-photo examples showing what earns full points and what remains valid for fewer points.
 page_type: examples
 main_id: photo-examples
 skip_label: the photo examples
 eyebrow: Photo clue guide
-hero_lede: See what earns full points, what needs another shot, and what does not qualify.
+hero_lede: See what earns full points, what remains valid for fewer points, and what must be retaken.
 share_label: examples
 share_text: Rhodes Hide & Seek photo clue examples
 ---
@@ -14,7 +14,7 @@ share_text: Rhodes Hide & Seek photo clue examples
 <section class="examples-intro" aria-labelledby="examples-intro-title">
   <p class="eyebrow eyebrow--dark">The frame is the evidence</p>
   <h2 id="examples-intro-title">Judge only what the photo clearly proves</h2>
-  <p class="examples-intro__lede">A door, road, or sign does not count just because it exists nearby. It must be clearly visible in the submitted, unzoomed photo. These examples show why a photo that looks attractive or detailed can still be a weak clue.</p>
+  <p class="examples-intro__lede">A photo can be valid and useful without earning full points. Full-point scoring depends only on what the submitted, unzoomed frame clearly shows—not what exists nearby or was obvious to the photographer.</p>
 
   <div class="example-rubric" aria-label="Full-points photo checklist">
     <div><strong>Whole door</strong><span>Show the complete doorway, not a cropped edge or fragment.</span></div>
@@ -24,13 +24,13 @@ share_text: Rhodes Hide & Seek photo clue examples
   </div>
 
   <aside class="examples-note">
-    <strong>Quick test:</strong> Could another player identify each claimed clue from this photo alone, without being told what is just outside the frame? If not, take another photo.
+    <strong>Quick test for full points:</strong> Could another player identify every claimed clue from this photo alone, without being told what is just outside the frame? If not, the photo may still be valid, but the missing or unclear item does not count toward full points.
   </aside>
 </section>
 
 {% assign full_examples = site.data.rhodes_photo_examples | where: "group", "full" %}
-{% assign improve_examples = site.data.rhodes_photo_examples | where: "group", "improve" %}
-{% assign failed_examples = site.data.rhodes_photo_examples | where: "group", "fail" %}
+{% assign partial_examples = site.data.rhodes_photo_examples | where: "group", "partial" %}
+{% assign review_examples = site.data.rhodes_photo_examples | where: "group", "review" %}
 
 <section class="example-section" aria-labelledby="full-points-heading">
   <div class="example-section__heading">
@@ -47,31 +47,31 @@ share_text: Rhodes Hide & Seek photo clue examples
   </div>
 </section>
 
-<section class="example-section" aria-labelledby="another-shot-heading">
+<section class="example-section" aria-labelledby="valid-not-full-heading">
   <div class="example-section__heading">
     <div>
-      <p class="eyebrow eyebrow--dark">Close, but incomplete</p>
-      <h2 id="another-shot-heading">Needs another shot</h2>
+      <p class="eyebrow eyebrow--dark">Useful clues with limits</p>
+      <h2 id="valid-not-full-heading">Valid, but not full points</h2>
     </div>
-    <p>These frames contain useful clues, but cropping removes information needed for full points.</p>
+    <p>These are usable clue photos. They simply do not show every required item clearly enough to receive full points.</p>
   </div>
   <div class="example-grid">
-    {% for example in improve_examples %}
+    {% for example in partial_examples %}
       {% include photo-example-card.html example=example %}
     {% endfor %}
   </div>
 </section>
 
-<section class="example-section" aria-labelledby="does-not-qualify-heading">
+<section class="example-section" aria-labelledby="retake-heading">
   <div class="example-section__heading">
     <div>
-      <p class="eyebrow eyebrow--dark">Misleading at first glance</p>
-      <h2 id="does-not-qualify-heading">Does not qualify</h2>
+      <p class="eyebrow eyebrow--dark">A rule issue, not bad photography</p>
+      <h2 id="retake-heading">Retake required</h2>
     </div>
-    <p>A clue can be present at the location and still be absent, ambiguous, or unusable in the photo.</p>
+    <p>Zoom can make a photo appear clearer while removing the wider context. Because clue photos must use the hider's natural point of view, a zoomed submission needs to be retaken.</p>
   </div>
   <div class="example-grid">
-    {% for example in failed_examples %}
+    {% for example in review_examples %}
       {% include photo-example-card.html example=example %}
     {% endfor %}
   </div>

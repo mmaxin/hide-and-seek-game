@@ -814,12 +814,12 @@ code {
   border-top: 5px solid #27734d;
 }
 
-.example-card--improve {
+.example-card--partial {
   border-top-color: var(--gold-500);
 }
 
-.example-card--fail {
-  border-top-color: #a43a3a;
+.example-card--review {
+  border-top-color: var(--navy-800);
 }
 
 .example-card figure {
@@ -888,14 +888,14 @@ code {
   text-transform: uppercase;
 }
 
-.example-card--improve .example-card__verdict {
+.example-card--partial .example-card__verdict {
   color: #704500;
   background: #fff0c8;
 }
 
-.example-card--fail .example-card__verdict {
-  color: #812929;
-  background: #fbeaea;
+.example-card--review .example-card__verdict {
+  color: var(--navy-900);
+  background: var(--blue-100);
 }
 
 .example-card h3 {

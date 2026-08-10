@@ -54,7 +54,7 @@ Equal scores share the same competition rank. Repeated submissions remain visibl
 
 ## Rhodes photo examples
 
-The separate [`/examples/`](https://mmaxin.github.io/hide-and-seek-game/examples/) page explains why clue photos earn full points, need another shot, or do not qualify. Example wording and image availability live in [`_data/rhodes_photo_examples.yml`](_data/rhodes_photo_examples.yml). Capture instructions and the required filenames live in [`assets/examples/rhodes/README.md`](assets/examples/rhodes/README.md).
+The separate [`/examples/`](https://mmaxin.github.io/hide-and-seek-game/examples/) page explains what earns full points, what remains valid for fewer points, and what must be retaken because it breaks a photo rule. Example wording and image availability live in [`_data/rhodes_photo_examples.yml`](_data/rhodes_photo_examples.yml). Capture instructions and the required filenames live in [`assets/examples/rhodes/README.md`](assets/examples/rhodes/README.md).
 
 To add or replace an example photo:
 

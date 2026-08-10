@@ -15,8 +15,8 @@
     <figcaption>
       {% case example.group %}
         {% when "full" %}<span class="example-card__verdict">Full points</span>
-        {% when "improve" %}<span class="example-card__verdict">Needs another shot</span>
-        {% else %}<span class="example-card__verdict">Does not qualify</span>
+        {% when "partial" %}<span class="example-card__verdict">Valid &middot; not full points</span>
+        {% else %}<span class="example-card__verdict">Retake required</span>
       {% endcase %}
       <h3>{{ example.title }}</h3>
       <p>{{ example.summary }}</p>

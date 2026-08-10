@@ -1,7 +1,7 @@
 - id: complete-scene-one
   group: full
-  image: "/assets/examples/rhodes/complete-scene-one.png"
-  capture_file: "complete-scene-one.png"
+  image: "/assets/examples/rhodes/complete-scene-one.webp"
+  capture_file: "complete-scene-one.webp"
   image_alt: "Narrow cobblestone street in Rhodes with a complete wooden doorway and a clear yellow sign visible on the right."
   title: "The whole scene is easy to verify"
   summary: "A strong clue lets a seeker understand how the door, road, and sign relate to one another without guessing."
@@ -20,8 +20,8 @@
 
 - id: complete-scene-two
   group: full
-  image: "/assets/examples/rhodes/complete-scene-two.png"
-  capture_file: "complete-scene-two.png"
+  image: "/assets/examples/rhodes/complete-scene-two.webp"
+  capture_file: "complete-scene-two.webp"
   image_alt: "Narrow Rhodes street with complete shop doors and a clear red workshop sign visible on the left."
   title: "Another full-points frame"
   summary: "The important details are not merely present at the location; they are visible and recognizable in the submitted frame."
@@ -39,14 +39,14 @@
       state: pass
 
 - id: cropped-sign
-  group: improve
-  image: "/assets/examples/rhodes/cropped-sign.png"
-  capture_file: "cropped-sign.png"
+  group: partial
+  image: "/assets/examples/rhodes/cropped-sign.webp"
+  capture_file: "cropped-sign.webp"
   image_alt: "Covered cobblestone lane in Rhodes with the Il Giardino sign cropped by the top and right edges of the frame."
-  title: "Almost there, but the sign is cropped"
-  summary: "This may look good at first because a sign appears in the frame, but only part of it is useful."
-  why: "A partial sign can hide the shape, wording, colour, or mounting details that would make it recognizable."
-  fix: "Step back or turn slightly so the complete sign is inside the frame while keeping the road and door visible."
+  title: "The sign is visible, but cropped"
+  summary: "This is still a valid clue photo, but it does not show the complete sign needed for full points."
+  why: "A partial sign cannot provide all of the shape, wording, colour, or mounting details that make the clue recognizable."
+  fix: "To earn full points, step back or turn slightly so the complete sign is inside the frame while keeping the road and door visible."
   source_url: "https://maps.app.goo.gl/1CMuUXssUnCxcpVLA"
   checks:
     - label: "Door visible"
@@ -59,14 +59,14 @@
       state: pass
 
 - id: cropped-door
-  group: improve
-  image: "/assets/examples/rhodes/cropped-door.png"
-  capture_file: "cropped-door.png"
+  group: partial
+  image: "/assets/examples/rhodes/cropped-door.webp"
+  capture_file: "cropped-door.webp"
   image_alt: "Narrow stone alley in Rhodes with large restaurant signs and an incomplete view of the doorway at the end."
   title: "A doorway fragment is not the full door"
-  summary: "The frame contains a door, but not enough of it to earn full points."
+  summary: "This is a valid clue photo, but the frame does not contain enough of the door to earn full points."
   why: "The complete outline, surrounding stonework, and relationship to the street are often the details that distinguish one doorway from another."
-  fix: "Use a wider, unzoomed frame that includes the entire door without losing the road and sign."
+  fix: "To earn full points, use a wider, unzoomed frame that includes the entire door without losing the road and sign."
   source_url: "https://maps.app.goo.gl/yHdib3PV7LbdyoH6A"
   checks:
     - label: "Door cropped"
@@ -79,14 +79,14 @@
       state: pass
 
 - id: zoom-hides-missing-sign
-  group: fail
-  image: "/assets/examples/rhodes/zoom-hides-missing-sign.png"
-  capture_file: "zoom-hides-missing-sign.png"
+  group: review
+  image: "/assets/examples/rhodes/zoom-hides-missing-sign.webp"
+  capture_file: "zoom-hides-missing-sign.webp"
   image_alt: "Zoomed view of a crowded stone street and arched doorway in Rhodes with no clear sign visible."
   title: "Zoom makes this look stronger than it is"
-  summary: "The door and road are visible, but the tight framing removes the sign and changes the hider's natural point of view."
-  why: "Sharpness is not the same as clue quality. Zoom can make one detail look impressive while hiding the wider context seekers need."
-  fix: "Retake the photo without zoom and include a clear sign along with the door and road."
+  summary: "The scene may still be useful, but the zoomed framing changes the hider's natural point of view and requires a retake."
+  why: "Sharpness is not the same as full-point evidence. Zoom can make one detail look impressive while hiding the wider context seekers need."
+  fix: "Retake the photo without zoom. Include a clear sign with the door and road if aiming for full points."
   source_url: "https://github.com/user-attachments/assets/84f4cb33-dfb4-4024-a125-d50cb09d53b7"
   checks:
     - label: "Door visible"
@@ -94,19 +94,19 @@
     - label: "Road visible"
       state: pass
     - label: "Sign missing"
-      state: fail
+      state: warn
     - label: "Zoomed"
       state: fail
 
 - id: unclear-sign
-  group: fail
-  image: "/assets/examples/rhodes/unclear-sign.png"
-  capture_file: "unclear-sign.png"
+  group: partial
+  image: "/assets/examples/rhodes/unclear-sign.webp"
+  capture_file: "unclear-sign.webp"
   image_alt: "Stone path beside ruins in Rhodes with a doorway and a sign high on the left that is difficult to read clearly."
-  title: "A sign being present is not enough"
-  summary: "There is a sign somewhere in the scene, but it is not clearly visible enough to use as a clue."
-  why: "Players judge what the submitted photo proves. A tiny, blocked, blurred, or indistinct sign does not provide reliable information."
-  fix: "Reframe from the natural point of view so the sign is unobstructed and recognizable without zoom."
+  title: "A visible sign may still not count for full points"
+  summary: "This remains a valid clue photo, but the sign is not clear enough to count as the full-point sign requirement."
+  why: "Players score what the submitted photo proves. A tiny, blocked, blurred, or indistinct sign does not provide reliable sign evidence."
+  fix: "To earn full points, reframe from the natural point of view so the sign is unobstructed and recognizable without zoom."
   source_url: "https://maps.app.goo.gl/rkh1LCdoxfKuEZj48"
   checks:
     - label: "Door visible"
@@ -114,38 +114,38 @@
     - label: "Road visible"
       state: pass
     - label: "Sign unclear"
-      state: fail
+      state: warn
     - label: "No zoom"
       state: pass
 
 - id: road-out-of-frame-one
-  group: fail
-  image: "/assets/examples/rhodes/road-out-of-frame-one.png"
-  capture_file: "road-out-of-frame-one.png"
+  group: partial
+  image: "/assets/examples/rhodes/road-out-of-frame-one.webp"
+  capture_file: "road-out-of-frame-one.webp"
   image_alt: "Rhodes square at night with a lit Christmas tree and fountain but no connecting road visible in the frame."
-  title: "A nearby road does not count if it is out of frame"
-  summary: "The location is a square with roads around it, but the submitted view does not actually show a clear road."
-  why: "Knowledge about the surrounding map cannot replace visible evidence in the photo. Seekers should not have to infer that a road exists nearby."
-  fix: "Turn or reposition the camera so a recognizable stretch of road is clearly inside the frame."
+  title: "A nearby road does not count toward full points"
+  summary: "This is a valid photo of the square, but the submitted view does not show a clear road."
+  why: "Knowledge about the surrounding map cannot replace visible evidence when awarding full points. The road requirement must be proven by the frame itself."
+  fix: "To earn full points, turn or reposition the camera so a recognizable stretch of road is clearly inside the frame."
   source_url: "https://maps.app.goo.gl/Vg89YvqMhTAoztnBA"
   checks:
     - label: "Road not shown"
-      state: fail
+      state: warn
     - label: "Context implied"
       state: warn
 
 - id: road-out-of-frame-two
-  group: fail
-  image: "/assets/examples/rhodes/road-out-of-frame-two.png"
-  capture_file: "road-out-of-frame-two.png"
+  group: partial
+  image: "/assets/examples/rhodes/road-out-of-frame-two.webp"
+  capture_file: "road-out-of-frame-two.webp"
   image_alt: "Open stone courtyard in Rhodes surrounded by historic buildings with no clear road visible."
   title: "The setting suggests a road, but the frame does not prove it"
-  summary: "Open space or paving can resemble a street, yet the road itself remains ambiguous."
-  why: "A clue has to be clear on its own. If reasonable players could disagree about whether they are seeing a road, the photo is too weak."
-  fix: "Include an unmistakable road edge, direction of travel, or connected street in the unzoomed frame."
+  summary: "This can still be a valid clue photo, but open space or paving is not clear enough to receive the full-point road credit."
+  why: "If reasonable players could disagree about whether the frame shows a road, that requirement has not been proven for full points."
+  fix: "To earn full points, include an unmistakable road edge, direction of travel, or connected street in the unzoomed frame."
   source_url: "https://maps.app.goo.gl/TbHmC5wUcNk6S24SA"
   checks:
     - label: "Road unclear"
-      state: fail
+      state: warn
     - label: "Context ambiguous"
       state: warn
