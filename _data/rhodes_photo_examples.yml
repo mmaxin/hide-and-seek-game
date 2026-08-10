@@ -1,8 +1,8 @@
 - id: complete-scene-one
   group: full
-  image: ""
-  capture_file: "complete-scene-one.jpg"
-  image_alt: "Rhodes photo showing a complete doorway, a visible road, and a clear sign in one unzoomed frame."
+  image: "/assets/examples/rhodes/complete-scene-one.png"
+  capture_file: "complete-scene-one.png"
+  image_alt: "Narrow cobblestone street in Rhodes with a complete wooden doorway and a clear yellow sign visible on the right."
   title: "The whole scene is easy to verify"
   summary: "A strong clue lets a seeker understand how the door, road, and sign relate to one another without guessing."
   why: "All three useful clues are clearly visible together, and the natural field of view gives honest spatial context."
@@ -20,9 +20,9 @@
 
 - id: complete-scene-two
   group: full
-  image: ""
-  capture_file: "complete-scene-two.jpg"
-  image_alt: "Second Rhodes example with the full door, road, and sign clearly visible without zoom."
+  image: "/assets/examples/rhodes/complete-scene-two.png"
+  capture_file: "complete-scene-two.png"
+  image_alt: "Narrow Rhodes street with complete shop doors and a clear red workshop sign visible on the left."
   title: "Another full-points frame"
   summary: "The important details are not merely present at the location; they are visible and recognizable in the submitted frame."
   why: "Nothing important is cropped or hidden, so seekers can use every clue the photo claims to show."
@@ -40,9 +40,9 @@
 
 - id: cropped-sign
   group: improve
-  image: ""
-  capture_file: "cropped-sign.jpg"
-  image_alt: "Rhodes clue photo that is almost strong but crops part of the sign."
+  image: "/assets/examples/rhodes/cropped-sign.png"
+  capture_file: "cropped-sign.png"
+  image_alt: "Covered cobblestone lane in Rhodes with the Il Giardino sign cropped by the top and right edges of the frame."
   title: "Almost there, but the sign is cropped"
   summary: "This may look good at first because a sign appears in the frame, but only part of it is useful."
   why: "A partial sign can hide the shape, wording, colour, or mounting details that would make it recognizable."
@@ -60,9 +60,9 @@
 
 - id: cropped-door
   group: improve
-  image: ""
-  capture_file: "cropped-door.jpg"
-  image_alt: "Rhodes clue photo that crops part of the doorway and needs a wider frame."
+  image: "/assets/examples/rhodes/cropped-door.png"
+  capture_file: "cropped-door.png"
+  image_alt: "Narrow stone alley in Rhodes with large restaurant signs and an incomplete view of the doorway at the end."
   title: "A doorway fragment is not the full door"
   summary: "The frame contains a door, but not enough of it to earn full points."
   why: "The complete outline, surrounding stonework, and relationship to the street are often the details that distinguish one doorway from another."
@@ -80,9 +80,9 @@
 
 - id: zoom-hides-missing-sign
   group: fail
-  image: ""
-  capture_file: "zoom-hides-missing-sign.jpg"
-  image_alt: "Zoomed clue photo showing a door and road but no clear sign."
+  image: "/assets/examples/rhodes/zoom-hides-missing-sign.png"
+  capture_file: "zoom-hides-missing-sign.png"
+  image_alt: "Zoomed view of a crowded stone street and arched doorway in Rhodes with no clear sign visible."
   title: "Zoom makes this look stronger than it is"
   summary: "The door and road are visible, but the tight framing removes the sign and changes the hider's natural point of view."
   why: "Sharpness is not the same as clue quality. Zoom can make one detail look impressive while hiding the wider context seekers need."
@@ -100,9 +100,9 @@
 
 - id: unclear-sign
   group: fail
-  image: ""
-  capture_file: "unclear-sign.jpg"
-  image_alt: "Rhodes clue photo with a door and road but a sign that is too unclear to recognize."
+  image: "/assets/examples/rhodes/unclear-sign.png"
+  capture_file: "unclear-sign.png"
+  image_alt: "Stone path beside ruins in Rhodes with a doorway and a sign high on the left that is difficult to read clearly."
   title: "A sign being present is not enough"
   summary: "There is a sign somewhere in the scene, but it is not clearly visible enough to use as a clue."
   why: "Players judge what the submitted photo proves. A tiny, blocked, blurred, or indistinct sign does not provide reliable information."
@@ -120,9 +120,9 @@
 
 - id: road-out-of-frame-one
   group: fail
-  image: ""
-  capture_file: "road-out-of-frame-one.jpg"
-  image_alt: "Rhodes square where nearby roads are not clearly visible in the clue photo."
+  image: "/assets/examples/rhodes/road-out-of-frame-one.png"
+  capture_file: "road-out-of-frame-one.png"
+  image_alt: "Rhodes square at night with a lit Christmas tree and fountain but no connecting road visible in the frame."
   title: "A nearby road does not count if it is out of frame"
   summary: "The location is a square with roads around it, but the submitted view does not actually show a clear road."
   why: "Knowledge about the surrounding map cannot replace visible evidence in the photo. Seekers should not have to infer that a road exists nearby."
@@ -136,9 +136,9 @@
 
 - id: road-out-of-frame-two
   group: fail
-  image: ""
-  capture_file: "road-out-of-frame-two.jpg"
-  image_alt: "Second Rhodes square example where the photo implies roads nearby but does not clearly show one."
+  image: "/assets/examples/rhodes/road-out-of-frame-two.png"
+  capture_file: "road-out-of-frame-two.png"
+  image_alt: "Open stone courtyard in Rhodes surrounded by historic buildings with no clear road visible."
   title: "The setting suggests a road, but the frame does not prove it"
   summary: "Open space or paving can resemble a street, yet the road itself remains ambiguous."
   why: "A clue has to be clear on its own. If reasonable players could disagree about whether they are seeing a road, the photo is too weak."

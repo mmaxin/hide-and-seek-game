@@ -4,14 +4,14 @@ The Examples page is ready for eight local image files. Capture or export the ex
 
 | File | Source |
 | --- | --- |
-| `complete-scene-one.jpg` | https://maps.app.goo.gl/BDgJaVZrNfLYPu5E7 |
-| `complete-scene-two.jpg` | https://maps.app.goo.gl/eyxECpM2pVsxTZvM6 |
-| `cropped-sign.jpg` | https://maps.app.goo.gl/1CMuUXssUnCxcpVLA |
-| `cropped-door.jpg` | https://maps.app.goo.gl/yHdib3PV7LbdyoH6A |
-| `zoom-hides-missing-sign.jpg` | https://github.com/user-attachments/assets/84f4cb33-dfb4-4024-a125-d50cb09d53b7 |
-| `unclear-sign.jpg` | https://maps.app.goo.gl/rkh1LCdoxfKuEZj48 |
-| `road-out-of-frame-one.jpg` | https://maps.app.goo.gl/Vg89YvqMhTAoztnBA |
-| `road-out-of-frame-two.jpg` | https://maps.app.goo.gl/TbHmC5wUcNk6S24SA |
+| `complete-scene-one.png` | Added from the supplied image |
+| `complete-scene-two.png` | Added from the supplied image |
+| `cropped-sign.png` | Added from the supplied image |
+| `cropped-door.png` | Added from the supplied image |
+| `zoom-hides-missing-sign.png` | Added from the issue attachment |
+| `unclear-sign.png` | Added from the supplied image |
+| `road-out-of-frame-one.png` | Added from the supplied image |
+| `road-out-of-frame-two.png` | Added from the supplied image |
 
 ## Capture requirements
 
@@ -23,3 +23,5 @@ The Examples page is ready for eight local image files. Capture or export the ex
 - Set that example's `image` value to `/assets/examples/rhodes/FILENAME.jpg` in `_data/rhodes_photo_examples.yml`.
 
 The page displays a labelled placeholder until the `image` value is filled in, so missing files never render as broken images.
+
+All eight example images are installed and connected to their cards.
