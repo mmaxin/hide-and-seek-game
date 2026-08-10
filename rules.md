@@ -78,6 +78,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 > Please hide in the Old Town! Do not hide in the wall, on the wall, or outside the wall.
 
+#### Play Area
 
 - **All Players** must stay outdoors during the entire game.
 
