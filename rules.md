@@ -76,9 +76,30 @@ This could go first, but I always give players game objects as soon as possible 
 - Map: The area for hiding.
 #### Map Boundaries
 - **All Players** must stay within the Old Town walls during the entire game.
+
 > Please hide in the Old Town! Do not hide in the wall, on the wall, or outside the wall.
+
+
+- **All Players** must stay outdoors during the entire game.
+
+> If a door could close behind you, you're probably indoors! Most buildings and shops are indoors, and outdoor spaces that require going indoors to reach are also not allowed.
+
+- Landmarks with free public access are allowed, as long as they are outdoors.
+
+
+- Tresspassing is illegal *and* against the rules, you hooligans.
+
+{% comment %}
+
+- Paid establishment, ticket entry, private invitations, shops, restaurants
+- Private property (Do not tresspass, Tiffany.)
+- approved
+- Outdoors is always allowed.
+- Do not hide indoors, or in any outdoor location that requires going indoors to access.
   - Which buildings, structures, areas, etc. must not be entered?
   - Which ones are allowed?
+{% endcomment %}
+
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
