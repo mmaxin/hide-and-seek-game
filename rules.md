@@ -83,13 +83,16 @@ This could go first, but I always give players game objects as soon as possible 
 - **All Players** must stay outdoors during the entire game.
 
 > If a door could close behind you, you're probably indoors!
->
-> Most buildings and shops are indoors, and outdoor spaces that require going indoors to reach are also not allowed.
+
 
 - Landmarks with free public access are allowed, as long as they are outdoors.
 
+> Most buildings and shops are indoors, and outdoor spaces that require going indoors to reach are also not allowed.
+
+
 
 - Trespassing is both illegal *and* against the rules, you hooligans.
+
 
 
 {% comment %}
