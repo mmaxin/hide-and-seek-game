@@ -22,6 +22,40 @@ Open the [Rules Markdown Previewer](https://mmaxin.github.io/hide-and-seek-game/
 
 The previewer autosaves one draft in the current browser. That draft never leaves the device and does not publish automatically. **New blank draft** clears it, while **Download .md** saves a backup file. Potentially unsafe HTML is removed from previews; the existing map-button HTML is supported.
 
+## Leaderboards
+
+The separate [`/leaderboard/`](https://mmaxin.github.io/hide-and-seek-game/leaderboard/) page reads public-safe results from Google Sheets and splits each game into Hider and Seeker rankings. GitHub Pages never receives the private response sheet or the shared game code.
+
+### One-time Google setup
+
+1. Open the **Hide & Seek Score Submission** Form in the dedicated Google account.
+2. Confirm the questions are in this exact order: Game, Display name or nickname, Final role, Final score, Game code.
+3. Set Game to one required dropdown option, Final role to required `Hider` / `Seeker` choices, and Final score to a required non-negative whole number.
+4. Add exact-match response validation to Game code. Treat this as a casual deterrent, not secure authentication.
+5. In the Form's **Responses** tab, select **Link to Sheets** and create or choose **Hide & Seek Responses**. Keep that workbook private.
+6. In **Hide & Seek Public Leaderboard**, put this formula in `Public Leaderboard!A2`, replacing the placeholder with the private response spreadsheet ID:
+
+   ```gs
+   =IFERROR(QUERY(IMPORTRANGE("PRIVATE_RESPONSE_SHEET_ID","Form Responses 1!B2:E"),"select Col1, Col2, Col3, Col4 where Col1 is not null",0),"")
+   ```
+
+7. Select **Allow access** when Sheets asks to connect the workbooks.
+8. Share only **Hide & Seek Public Leaderboard** as **Anyone with the link · Viewer**. Never share **Hide & Seek Responses**.
+9. Publish the Form for anyone with the link. The public Form and Sheet identifiers live under `leaderboard` in `_config.yml`; no password, email address, or credential belongs there.
+
+### Before each game
+
+1. Replace the Form's single Game option with `YYYY-MM-DD HH:MM — Friendly name`.
+2. Change the Game code validation if the previous code was shared too widely.
+3. After the game, correct or remove invalid rows in the private `Form Responses 1` tab.
+4. Check the public leaderboard after a few minutes. The page automatically discovers new game names and shows the newest one first.
+
+Equal scores share the same competition rank. Repeated submissions remain visible until the organizer removes the unwanted row.
+
+### Tear down
+
+When the temporary game site is finished, stop Form responses and remove public access from **Hide & Seek Public Leaderboard**. The leaderboard page will then show a safe unavailable-results message.
+
 ## Keep a draft section hidden
 
 Wrap an unfinished section in Jekyll comment tags to keep it in `rules.md` without rendering it on the site:
@@ -241,9 +275,12 @@ Use this only when a prominent action button is needed. It is raw HTML rather th
 | `index.md` | Loads the rules onto the home page |
 | `_layouts/default.html` | Page frame, navigation, search panel, and share/print actions |
 | `_layouts/testing.html` | Page frame for the `/testing/` Markdown previewer |
+| `leaderboard/index.md` | Player-facing game selector, submit link, and two role leaderboards |
 | `assets/css/style.css` | Mobile, desktop, and print styling |
 | `assets/css/testing.css` | Previewer layout and editor styling |
 | `assets/js/site.js` | Share button and automatic guide search |
+| `assets/js/leaderboard-core.js` | Score validation, grouping, sorting, and ranking logic |
+| `assets/js/leaderboard.js` | Public Google Sheet loading and leaderboard rendering |
 | `assets/js/testing.js` | Local Markdown rendering, autosave, copy, and download tools |
 | `assets/vendor/marked.umd.js` | Vendored Markdown parser used only by the previewer |
 | `assets/game-map.png` | Static map preview shown in the rules |

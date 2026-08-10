@@ -3,6 +3,10 @@ description: Rules, scoring, clue schedule, and boundary map for the game.
 url: "https://mmaxin.github.io"
 baseurl: "/hide-and-seek-game"
 repository_url: "https://github.com/mmaxin/hide-and-seek-game"
+leaderboard:
+  sheet_id: "1sz4jGYgFuMf7Zf_wTVw3Ott7g7fjNT7ppEjoDJxkfpw"
+  sheet_name: "Public Leaderboard"
+  form_url: "https://docs.google.com/forms/d/e/1FAIpQLSfoopNS0B5v_Z-E5Ozh228IcsEl9hGKqiT9hh2c77hybsjZLA/viewform"
 markdown: kramdown
 kramdown:
   input: GFM
