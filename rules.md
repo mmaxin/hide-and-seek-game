@@ -73,7 +73,6 @@ This could go first, but I always give players game objects as soon as possible 
   - Where exactly must *all players* begin the game?
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 {% endcomment %}
-- Map: The area for hiding.
 #### Map Boundaries
 - **All Players** must stay within the Old Town walls during the entire game.
 
@@ -83,12 +82,14 @@ This could go first, but I always give players game objects as soon as possible 
 - **All Players** must stay outdoors during the entire game.
 
 > If a door could close behind you, you're probably indoors!
+>
 > Most buildings and shops are indoors, and outdoor spaces that require going indoors to reach are also not allowed.
 
 - Landmarks with free public access are allowed, as long as they are outdoors.
 
 
 - Trespassing is both illegal *and* against the rules, you hooligans.
+
 
 {% comment %}
 
