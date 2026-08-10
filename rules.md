@@ -87,7 +87,7 @@ This could go first, but I always give players game objects as soon as possible 
 - Landmarks with free public access are allowed, as long as they are outdoors.
 
 
-- Tresspassing is illegal *and* against the rules, you hooligans.
+- Trespassing is both illegal *and* against the rules, you hooligans.
 
 {% comment %}
 
