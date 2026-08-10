@@ -43,6 +43,7 @@
       <div class="section-nav__bar">
         <div class="page-switcher" aria-label="Pages">
           <a href="{{ '/' | relative_url }}"{% if page.page_type == 'rules' %} aria-current="page"{% endif %}>Rules</a>
+          <a href="{{ '/examples/' | relative_url }}"{% if page.page_type == 'examples' %} aria-current="page"{% endif %}>Examples</a>
           <a href="{{ '/leaderboard/' | relative_url }}"{% if page.page_type == 'leaderboard' %} aria-current="page"{% endif %}>Leaderboards</a>
         </div>
         {% if page.page_type == 'rules' %}
@@ -86,7 +87,7 @@
       {% endif %}
     </nav>
 
-    <main class="page-shell{% if page.page_type == 'leaderboard' %} page-shell--wide{% endif %}" id="{{ page.main_id | default: 'content' }}">
+    <main class="page-shell{% if page.page_type == 'leaderboard' or page.page_type == 'examples' %} page-shell--wide{% endif %}" id="{{ page.main_id | default: 'content' }}">
       {% if page.page_type == 'rules' %}
       <article class="rules-card">
         {{ content }}
@@ -106,8 +107,10 @@
           ·
           <a href="{{ site.repository_url }}/edit/main/rules.md">edit on GitHub</a>
         </p>
-        {% else %}
+        {% elsif page.page_type == 'leaderboard' %}
         <p class="maintainer-link">Results are submitted by players and corrected by the organizer.</p>
+        {% else %}
+        <p class="maintainer-link">Judge only what is clearly visible in the submitted photo.</p>
         {% endif %}
       </div>
     </footer>

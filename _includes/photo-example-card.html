@@ -1,0 +1,35 @@
+{% assign example = include.example %}
+<article class="example-card example-card--{{ example.group }}">
+  <figure>
+    {% if example.image != empty %}
+      <a class="example-card__image-link" href="{{ example.image | relative_url }}" aria-label="Open the full-size photo for {{ example.title }}">
+        <img src="{{ example.image | relative_url }}" alt="{{ example.image_alt }}" loading="lazy" decoding="async">
+      </a>
+    {% else %}
+      <div class="example-card__placeholder" role="img" aria-label="Photo not added yet. Capture {{ example.capture_file }} from the linked source.">
+        <span>Photo needed</span>
+        <strong>{{ example.capture_file }}</strong>
+        <small>Capture the original frame from the source link below.</small>
+      </div>
+    {% endif %}
+    <figcaption>
+      {% case example.group %}
+        {% when "full" %}<span class="example-card__verdict">Full points</span>
+        {% when "improve" %}<span class="example-card__verdict">Needs another shot</span>
+        {% else %}<span class="example-card__verdict">Does not qualify</span>
+      {% endcase %}
+      <h3>{{ example.title }}</h3>
+      <p>{{ example.summary }}</p>
+      <ul class="example-checks" aria-label="Photo checklist">
+        {% for check in example.checks %}
+          <li class="example-checks__item example-checks__item--{{ check.state }}">{{ check.label }}</li>
+        {% endfor %}
+      </ul>
+      <p class="example-card__reason"><strong>Why:</strong> {{ example.why }}</p>
+      {% if example.fix != empty %}
+        <p class="example-card__fix"><strong>How to improve it:</strong> {{ example.fix }}</p>
+      {% endif %}
+      <a class="example-card__source" href="{{ example.source_url }}" target="_blank" rel="noopener">Open the source photo <span aria-hidden="true">&#8599;</span></a>
+    </figcaption>
+  </figure>
+</article>

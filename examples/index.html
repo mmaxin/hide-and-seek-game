@@ -1,0 +1,78 @@
+---
+layout: default
+title: Rhodes Photo Examples
+description: Visual examples of strong and weak Hide & Seek clue photos in Rhodes.
+page_type: examples
+main_id: photo-examples
+skip_label: the photo examples
+eyebrow: Photo clue guide
+hero_lede: See what earns full points, what needs another shot, and what does not qualify.
+share_label: examples
+share_text: Rhodes Hide & Seek photo clue examples
+---
+
+<section class="examples-intro" aria-labelledby="examples-intro-title">
+  <p class="eyebrow eyebrow--dark">The frame is the evidence</p>
+  <h2 id="examples-intro-title">Judge only what the photo clearly proves</h2>
+  <p class="examples-intro__lede">A door, road, or sign does not count just because it exists nearby. It must be clearly visible in the submitted, unzoomed photo. These examples show why a photo that looks attractive or detailed can still be a weak clue.</p>
+
+  <div class="example-rubric" aria-label="Full-points photo checklist">
+    <div><strong>Whole door</strong><span>Show the complete doorway, not a cropped edge or fragment.</span></div>
+    <div><strong>Visible road</strong><span>The road must appear in the frame, not merely connect to the square nearby.</span></div>
+    <div><strong>Clear sign</strong><span>The sign must be unobstructed and recognizable, not tiny or partial.</span></div>
+    <div><strong>Natural view</strong><span>Use the hider's point of view without zooming or artificially tightening the frame.</span></div>
+  </div>
+
+  <aside class="examples-note">
+    <strong>Quick test:</strong> Could another player identify each claimed clue from this photo alone, without being told what is just outside the frame? If not, take another photo.
+  </aside>
+</section>
+
+{% assign full_examples = site.data.rhodes_photo_examples | where: "group", "full" %}
+{% assign improve_examples = site.data.rhodes_photo_examples | where: "group", "improve" %}
+{% assign failed_examples = site.data.rhodes_photo_examples | where: "group", "fail" %}
+
+<section class="example-section" aria-labelledby="full-points-heading">
+  <div class="example-section__heading">
+    <div>
+      <p class="eyebrow eyebrow--dark">Strong photos</p>
+      <h2 id="full-points-heading">Full-points examples</h2>
+    </div>
+    <p>Every important clue is visible together, with enough context to be useful.</p>
+  </div>
+  <div class="example-grid">
+    {% for example in full_examples %}
+      {% include photo-example-card.html example=example %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="example-section" aria-labelledby="another-shot-heading">
+  <div class="example-section__heading">
+    <div>
+      <p class="eyebrow eyebrow--dark">Close, but incomplete</p>
+      <h2 id="another-shot-heading">Needs another shot</h2>
+    </div>
+    <p>These frames contain useful clues, but cropping removes information needed for full points.</p>
+  </div>
+  <div class="example-grid">
+    {% for example in improve_examples %}
+      {% include photo-example-card.html example=example %}
+    {% endfor %}
+  </div>
+</section>
+
+<section class="example-section" aria-labelledby="does-not-qualify-heading">
+  <div class="example-section__heading">
+    <div>
+      <p class="eyebrow eyebrow--dark">Misleading at first glance</p>
+      <h2 id="does-not-qualify-heading">Does not qualify</h2>
+    </div>
+    <p>A clue can be present at the location and still be absent, ambiguous, or unusable in the photo.</p>
+  </div>
+  <div class="example-grid">
+    {% for example in failed_examples %}
+      {% include photo-example-card.html example=example %}
+    {% endfor %}
+  </div>
+</section>

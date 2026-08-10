@@ -52,6 +52,19 @@ The separate [`/leaderboard/`](https://mmaxin.github.io/hide-and-seek-game/leade
 
 Equal scores share the same competition rank. Repeated submissions remain visible until the organizer removes the unwanted row.
 
+## Rhodes photo examples
+
+The separate [`/examples/`](https://mmaxin.github.io/hide-and-seek-game/examples/) page explains why clue photos earn full points, need another shot, or do not qualify. Example wording and image availability live in [`_data/rhodes_photo_examples.yml`](_data/rhodes_photo_examples.yml). Capture instructions and the required filenames live in [`assets/examples/rhodes/README.md`](assets/examples/rhodes/README.md).
+
+To add or replace an example photo:
+
+1. Save the authorized, web-optimized image in `assets/examples/rhodes/` using the filename in the capture list.
+2. Open `_data/rhodes_photo_examples.yml` and find the matching example.
+3. Set `image` to `/assets/examples/rhodes/FILENAME.jpg`.
+4. Check that `image_alt` accurately describes the actual image.
+
+An empty `image` value deliberately displays a labelled placeholder instead of a broken image.
+
 ### Tear down
 
 When the temporary game site is finished, stop Form responses and remove public access from **Hide & Seek Public Leaderboard**. The leaderboard page will then show a safe unavailable-results message.
@@ -276,6 +289,9 @@ Use this only when a prominent action button is needed. It is raw HTML rather th
 | `_layouts/default.html` | Page frame, navigation, search panel, and share/print actions |
 | `_layouts/testing.html` | Page frame for the `/testing/` Markdown previewer |
 | `leaderboard/index.md` | Player-facing game selector, submit link, and two role leaderboards |
+| `examples/index.html` | Rhodes photo rubric and grouped example cards |
+| `_data/rhodes_photo_examples.yml` | Example verdicts, explanations, checklists, source links, and image paths |
+| `_includes/photo-example-card.html` | Reusable visual card for each photo example |
 | `assets/css/style.css` | Mobile, desktop, and print styling |
 | `assets/css/testing.css` | Previewer layout and editor styling |
 | `assets/js/site.js` | Share button and automatic guide search |

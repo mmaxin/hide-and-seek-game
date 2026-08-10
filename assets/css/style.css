@@ -717,6 +717,275 @@ code {
   margin-top: 0.15rem;
 }
 
+.examples-intro,
+.example-card {
+  background: var(--paper);
+  border: 1px solid rgb(11 42 85 / 10%);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.examples-intro {
+  padding: clamp(1.35rem, 4vw, 2.4rem);
+}
+
+.examples-intro h2,
+.example-section h2 {
+  margin: 0;
+  color: var(--navy-900);
+  font-size: clamp(1.55rem, 3vw, 2.2rem);
+  line-height: 1.15;
+  letter-spacing: -0.03em;
+}
+
+.examples-intro__lede {
+  max-width: 72ch;
+  margin: 0.65rem 0 0;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.example-rubric {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin-top: 1.5rem;
+}
+
+.example-rubric > div {
+  padding: 1rem;
+  background: var(--blue-50);
+  border: 1px solid var(--line);
+  border-radius: 0.8rem;
+}
+
+.example-rubric strong,
+.example-rubric span {
+  display: block;
+}
+
+.example-rubric strong {
+  color: var(--navy-900);
+}
+
+.example-rubric span {
+  margin-top: 0.25rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  line-height: 1.45;
+}
+
+.examples-note {
+  margin-top: 1rem;
+  padding: 0.9rem 1rem;
+  color: var(--navy-950);
+  background: linear-gradient(135deg, #fff8e5, #ffedbd);
+  border-left: 4px solid var(--gold-500);
+  border-radius: 0.7rem;
+}
+
+.example-section {
+  margin-top: 2.4rem;
+}
+
+.example-section__heading {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: end;
+  margin-bottom: 1rem;
+}
+
+.example-section__heading > p {
+  max-width: 52ch;
+  margin: 0;
+  color: var(--muted);
+}
+
+.example-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.25rem;
+}
+
+.example-card {
+  min-width: 0;
+  overflow: hidden;
+  border-top: 5px solid #27734d;
+}
+
+.example-card--improve {
+  border-top-color: var(--gold-500);
+}
+
+.example-card--fail {
+  border-top-color: #a43a3a;
+}
+
+.example-card figure {
+  margin: 0;
+}
+
+.example-card__image-link,
+.example-card__placeholder {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  background: #dfe9f4;
+  place-items: center;
+}
+
+.example-card__image-link img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.example-card__placeholder {
+  align-content: center;
+  gap: 0.35rem;
+  padding: 1.5rem;
+  color: var(--navy-800);
+  background:
+    linear-gradient(135deg, rgb(255 255 255 / 72%), rgb(234 242 251 / 72%)),
+    repeating-linear-gradient(-45deg, #dce8f4 0 12px, #eef4fa 12px 24px);
+  text-align: center;
+}
+
+.example-card__placeholder span {
+  color: #704500;
+  font-size: 0.78rem;
+  font-weight: 850;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.example-card__placeholder strong {
+  overflow-wrap: anywhere;
+}
+
+.example-card__placeholder small {
+  max-width: 30ch;
+  color: var(--muted);
+  line-height: 1.4;
+}
+
+.example-card figcaption {
+  padding: 1.25rem;
+}
+
+.example-card__verdict {
+  display: inline-flex;
+  padding: 0.3rem 0.58rem;
+  color: #155438;
+  background: #e6f5ed;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 850;
+  letter-spacing: 0.06em;
+  line-height: 1.2;
+  text-transform: uppercase;
+}
+
+.example-card--improve .example-card__verdict {
+  color: #704500;
+  background: #fff0c8;
+}
+
+.example-card--fail .example-card__verdict {
+  color: #812929;
+  background: #fbeaea;
+}
+
+.example-card h3 {
+  margin: 0.75rem 0 0;
+  color: var(--navy-900);
+  font-size: 1.25rem;
+  line-height: 1.25;
+}
+
+.example-card figcaption > p {
+  margin: 0.55rem 0 0;
+}
+
+.example-card figcaption > p:not(.example-card__fix) {
+  color: var(--muted);
+}
+
+.example-checks {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 1rem 0;
+  padding: 0;
+  list-style: none;
+}
+
+.example-checks__item {
+  display: inline-flex;
+  gap: 0.35rem;
+  align-items: center;
+  padding: 0.35rem 0.58rem;
+  border: 1px solid currentColor;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  line-height: 1.15;
+}
+
+.example-checks__item::before {
+  font-size: 0.9em;
+  font-weight: 900;
+}
+
+.example-checks__item--pass {
+  color: #17603f;
+  background: #edf8f2;
+}
+
+.example-checks__item--pass::before {
+  content: "\2713";
+}
+
+.example-checks__item--warn {
+  color: #704500;
+  background: #fff8e5;
+}
+
+.example-checks__item--warn::before {
+  content: "!";
+}
+
+.example-checks__item--fail {
+  color: #812929;
+  background: #fff2f2;
+}
+
+.example-checks__item--fail::before {
+  content: "\00D7";
+}
+
+.example-card__reason,
+.example-card__fix {
+  padding-top: 0.75rem;
+  border-top: 1px solid var(--line);
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.example-card__reason strong,
+.example-card__fix strong {
+  color: var(--navy-900);
+}
+
+.example-card__source {
+  display: inline-flex;
+  gap: 0.25rem;
+  margin-top: 1rem;
+  font-weight: 800;
+}
+
 .site-footer {
   color: #cfdef0;
   background: var(--navy-950);
@@ -786,6 +1055,7 @@ code {
 
   .page-switcher {
     order: 1;
+    min-width: 0;
     padding-right: 0;
     border-right: 0;
   }
@@ -867,6 +1137,20 @@ code {
     grid-template-columns: 1fr;
   }
 
+  .example-rubric {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .example-section__heading {
+    align-items: start;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+
+  .example-grid {
+    grid-template-columns: 1fr;
+  }
+
   th,
   td {
     padding: 0.6rem;
@@ -875,6 +1159,21 @@ code {
 
   .site-footer__inner {
     flex-direction: column;
+  }
+}
+
+@media (max-width: 380px) {
+  .page-switcher a {
+    padding-inline: 0.55rem;
+    font-size: 0.82rem;
+  }
+
+  .section-nav__search-label--compact {
+    display: none;
+  }
+
+  .example-rubric {
+    grid-template-columns: 1fr;
   }
 }
 
@@ -1126,6 +1425,15 @@ code {
     border: 1px solid #8799ae;
     border-radius: 0.04in;
     box-shadow: none;
+  }
+
+  .examples-intro,
+  .example-card {
+    box-shadow: none;
+  }
+
+  .example-card {
+    break-inside: avoid;
   }
 
   #map ~ p img {
