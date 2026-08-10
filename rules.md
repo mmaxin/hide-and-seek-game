@@ -209,9 +209,9 @@ Hider: [Name]
 - Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
 - Each photo must be from the **Hider’s** point of view. No zooming.
 - **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
-- Points are only earned for unique features per player.
+- Each player scores points *once* for each unique feature they include in all their photos.
 
-> You will need to be at a crossroads to send four unique roads!
+> You will need to be at a crossroads to send four unique roads in a single game!
 
 
 ### Seeker points
