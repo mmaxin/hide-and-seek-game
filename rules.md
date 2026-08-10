@@ -75,6 +75,9 @@ This could go first, but I always give players game objects as soon as possible 
 {% endcomment %}
 - Map: The area for hiding.
 - Out of Bounds: Review the exact boundaries of the game.
+  - NO HIDING ON THE WALL
+  - NO CROSSING THE WALL
+  - (Hiding in the wall is technically allowed, but probs low points and we hate you.)
   - Which streets, paths, fences, etc. mark the edges of the map?
   - Which buildings, structures, areas, etc. must not be entered?
   - Which ones are allowed?
@@ -161,6 +164,8 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
 
+
+
 ## 6. How a find works
 {: #finds }
 
@@ -204,6 +209,10 @@ Hider: [Name]
 - Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
 - Each photo must be from the **Hider’s** point of view. No zooming.
 - **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
+- Points are only earned for unique features per player.
+
+> You will need to be at a crossroads to send four unique roads!
+
 
 ### Seeker points
 
