@@ -74,9 +74,9 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 {% endcomment %}
 #### Map Boundaries
-- **All Players** must stay within the Old Town walls during the entire game.
+- **All Players** must stay *within* the Old Town walls during the entire game.
 
-> Please hide in the Old Town! Do not hide in the wall, on the wall, or outside the wall.
+> Please do not hide in the walls, on the walls, or outside the walls.
 
 #### Play Area
 
