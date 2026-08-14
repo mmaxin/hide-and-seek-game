@@ -115,6 +115,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 - **Hiders** begin wearing their ***Hider Item***, and must carry their ***Seeker Item***.
 - **Starting Seekers** begin wearing their ***Seeker Item***.
+- **All Players** must wear their role items for the entire game.
 
 ### Hide Countdown: 10 minutes
 
