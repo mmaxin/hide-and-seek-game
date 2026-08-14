@@ -15,16 +15,16 @@
 ## 1. Objective
 {: #objective }
 
-Score the most points by staying hidden or by finding Hiders.
+- Score the most points by staying hidden or finding Hiders.
 
 
 
 ## 2. Set Up
-### Choose Teams
+### Hider or Seeker
 {: #teams }
 
 - **Starting Seekers** will spend the entire game searching for **Hiders**.
-- **Hiders** begin the game hiding, and become **Seekers** if found.
+- All other players are **Hiders**, who begin the game hiding, and become **Seekers** if found.
 
 
 {% comment %}
@@ -35,11 +35,12 @@ Score the most points by staying hidden or by finding Hiders.
 
 | Total Players | Starting Seekers |
 |---:|:---:|
-| 6–10 | 2 |
-| 11–15 | 3 |
-| 16–22 | 4 |
-| 23–30 | 5 |
-| 31-40 | 6 |
+| 8–10 | 2 |
+| 11–14 | 3 |
+| 15–19 | 4 |
+| 20–25 | 5 |
+| 26-32 | 6 |
+| 33-40 | 7 |
 {% comment %}
 | 31+ | 6+ or split into two games |
 {% endcomment %}
