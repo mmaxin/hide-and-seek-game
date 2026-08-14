@@ -1,4 +1,4 @@
-> **At a glance:** 1-hour game · 10-minute hide period · 4 clue photos
+> **10 minutes to hide** · **1 hour seeking** · **4 clue photos**
 
 ## 0. Timetable Summary
 
