@@ -20,6 +20,11 @@
 
 
 ## 2. Set Up
+
+### Join the Group Chat!
+> **All Players** must join the group chat before starting the game.
+
+- *Each player will require a cell phone with a camera and a data plan!*
 ### Choose Hiders and Seekers!
 {: #teams }
 
@@ -54,6 +59,8 @@
 > Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
 
 - *If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!*
+
+
 
 {% comment %}
 | 33-40 | 7 |
@@ -139,7 +146,7 @@ This could go first, but I always give players game objects as soon as possible 
 {% endcomment %}
 > All **Players** must start the game at **Home Base**.
 
-- ****[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
+- **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
 
 
@@ -149,6 +156,7 @@ This could go first, but I always give players game objects as soon as possible 
 > **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
 
 
+
 > **Players** must wear one of their necklaces until the game ends.
 
 
@@ -156,8 +164,14 @@ This could go first, but I always give players game objects as soon as possible 
 
 > **Hiders** leave Home Base, and have 10 minutes to choose their hiding spot within the Map.
 
+- *It's a 9 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose!*
 
 > **Starting Seekers** must remain at **Home Base** during the **Countdown**.
+
+
+> To begin Round 1, each **Starting Seeker** must begin a 1-hour live location-share with the group.
+
+
 {% comment %}
 - [this phase could be called the Countdown maybe?]
 - **Starting Seekers** must remain at the start area during the hide period.
@@ -165,7 +179,6 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 {% endcomment %}
 
 
-- *It's a 10 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose.*
 
 
 
