@@ -47,7 +47,7 @@
 
 > **Starting Seekers** will spend the entire game searching for **Hiders**.
 
-> Every **Starting Seeker** needs an ***Orange Seeker Necklace***.
+> Every **Starting Seeker** needs an ***Orange Seeker necklace***.
 
 > All other players begin the game as **Hiders**, and become **Seekers** if found.
 
@@ -65,8 +65,9 @@
 ### Role Necklaces
 {: #items }
 
-- **Every player** receives a ***Orange Seeker necklace***.
-- Only **Hiders** receive an ***Green Hider necklace***.
+> **Every player** receives an ***Orange Seeker necklace***.
+
+> Only **Hiders** receive an ***Green Hider necklace***.
 
 > Distinct, wearable items in two variations work best! Use hats, shirts, big necklaces, etc.
 
@@ -89,30 +90,30 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 #### Map Boundaries
 {% endcomment %}
-- All **Players** must stay *within* the Old Town walls during the entire game.
+> All **Players** must stay *within* the Old Town walls during the entire game.
 
-> Please do not hide in the walls, on the walls, or outside the walls.
+- *Please do not hide in the walls, on the walls, or outside the walls.*
 
 {% comment %}
 #### Play Area
 {% endcomment %}
-- All **Players** must stay outdoors.
+> All **Players** must stay outdoors.
 
-> If a door could close behind you, you're probably indoors. This includes most shops!
-
-
-> Outdoor spaces that require going indoors to access are also not allowed.
-
-- All **Players** must stay in public spaces.
-
-> Trespassing on private property is both illegal *and* against the rules, you hooligans.
+- *If a door could close behind you, you're probably indoors. This includes most shops!*
 
 
-- **Hiders** may not pay for access to private spaces.
+- *Outdoor spaces that require going indoors to access are also not allowed.*
 
-> Please do not spend money or promise favours for a better hiding spot.
+> All **Players** must stay in public spaces.
 
-> Landmarks with free public access are allowed, as long as they are outdoors.
+- *Trespassing on private property is both illegal and against the rules, you hooligans.*
+
+
+> **Hiders** may not pay for access to private spaces.
+
+- *Please do not spend money or promise favours for a better hiding spot.*
+
+- *Landmarks with free public access are allowed, as long as they are outdoors.*
 
 
 
