@@ -15,7 +15,7 @@
 ## 1. Objective
 {: #objective }
 
-- Score the most points by staying hidden or finding Hiders.
+> Score the most points by staying hidden or finding Hiders.
 
 
 
@@ -45,12 +45,15 @@
 | 20–25 | 5 |
 | 26-32 | 6 |
 
-- **Starting Seekers** will spend the entire game searching for **Hiders**.
-- Every **Starting Seeker** needs a ***Orange Seeker Necklace***.
-- All other players begin the game as **Hiders**, and become **Seekers** if found.
-- Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
+> **Starting Seekers** will spend the entire game searching for **Hiders**.
 
-> If you want to hide in pairs, you must hold hands the entire game, and both people count as one player. Please let the other players know you're doing this!
+> Every **Starting Seeker** needs an ***Orange Seeker Necklace***.
+
+> All other players begin the game as **Hiders**, and become **Seekers** if found.
+
+> Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
+
+- If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!
 
 {% comment %}
 | 33-40 | 7 |
@@ -73,39 +76,34 @@
 {% endcomment %}
 
 
-### Review Map & Boundaries WIP
+### Review Home Base & Map Boundaries
 {% comment %}
 This could go first, but I always give players game objects as soon as possible lol.
 - See below section, but this should be talked about and defined before starting the game!
 {% endcomment %}
-
-#### Home Base: The Starting Area
-- **Players** must start the game at **Home Base**.
-
-> **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk from here to the furthest map boundary.
-
 
 {% comment %}
 - Home Base: The starting area.
   - Where exactly will Starting Seekers wait, while Hiders hide?
   - Where exactly must *all players* begin the game?
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
-{% endcomment %}
 #### Map Boundaries
-- **Players** must stay *within* the Old Town walls during the entire game.
+{% endcomment %}
+- All **Players** must stay *within* the Old Town walls during the entire game.
 
 > Please do not hide in the walls, on the walls, or outside the walls.
 
+{% comment %}
 #### Play Area
-
-- **Players** must stay outdoors.
+{% endcomment %}
+- All **Players** must stay outdoors.
 
 > If a door could close behind you, you're probably indoors. This includes most shops!
 
 
 > Outdoor spaces that require going indoors to access are also not allowed.
 
-- **Players** must stay in public spaces.
+- All **Players** must stay in public spaces.
 
 > Trespassing on private property is both illegal *and* against the rules, you hooligans.
 
@@ -135,9 +133,22 @@ This could go first, but I always give players game objects as soon as possible 
 ## 3. Starting the Game
 {: #start }
 
-- **Hiders** begin wearing their ***Green Hider necklace***, and must carry their ***Orange Seeker necklace***.
-- **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
-- **Players** must wear one of their role until the game ends.
+{% comment %}
+#### Home Base: The Starting Area
+{% endcomment %}
+> All **Players** must start the game at **Home Base**.
+
+- **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk from here to the furthest map boundary.
+
+
+
+> **Hiders** begin wearing their ***Green Hider necklace***, and must carry their ***Orange Seeker necklace***.
+
+
+> **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
+
+
+> **Players** must wear one of their role until the game ends.
 
 ### Hide Countdown: 10 minutes
 
