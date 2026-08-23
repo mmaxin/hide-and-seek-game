@@ -20,7 +20,7 @@
 
 
 ## 2. Set Up
-### Hiders and Seekers
+### Choose Hiders and Seekers!
 {: #teams }
 
 
@@ -53,7 +53,7 @@
 
 > Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
 
-- If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!
+- *If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!*
 
 {% comment %}
 | 33-40 | 7 |
@@ -77,7 +77,7 @@
 {% endcomment %}
 
 
-### Review Home Base & Map Boundaries
+### Review Map and Boundaries!
 {% comment %}
 This could go first, but I always give players game objects as soon as possible lol.
 - See below section, but this should be talked about and defined before starting the game!
@@ -106,7 +106,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 > All **Players** must stay in public spaces.
 
-- *Trespassing on private property is both illegal and against the rules, you hooligans.*
+- *Trespassing on private property is both illegal **and** against the rules, you hooligans.*
 
 
 > **Hiders** may not pay for access to private spaces.
@@ -135,11 +135,11 @@ This could go first, but I always give players game objects as soon as possible 
 {: #start }
 
 {% comment %}
-#### Home Base: The Starting Area
+### Meet at Home Base!
 {% endcomment %}
 > All **Players** must start the game at **Home Base**.
 
-- **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk from here to the furthest map boundary.
+- ****[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
 
 
@@ -149,12 +149,15 @@ This could go first, but I always give players game objects as soon as possible 
 > **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
 
 
-> **Players** must wear one of their role until the game ends.
+> **Players** must wear one of their necklaces until the game ends.
 
-### Hide Countdown: 10 minutes
 
-- **Hiders** leave **Home Base**, and have 10 minutes to choose their hiding spot within the Map.
-- **Starting Seekers** must remain at **Home Base** during the **Countdown**.
+### Start the Countdown: 10 minutes
+
+> **Hiders** leave Home Base, and have 10 minutes to choose their hiding spot within the Map.
+
+
+> **Starting Seekers** must remain at **Home Base** during the **Countdown**.
 {% comment %}
 - [this phase could be called the Countdown maybe?]
 - **Starting Seekers** must remain at the start area during the hide period.
@@ -162,7 +165,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 {% endcomment %}
 
 
-> It's a 10 minute walk from ***Platia Arionos*** to the furthest map boundary. 
+- *It's a 10 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose.*
 
 
 
