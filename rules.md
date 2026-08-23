@@ -20,11 +20,9 @@
 
 
 ## 2. Set Up
-### Hider or Seeker
+### Hiders and Seekers
 {: #teams }
 
-- **Starting Seekers** will spend the entire game searching for **Hiders**.
-- All other players are **Hiders**, who begin the game hiding, and become **Seekers** if found.
 
 
 {% comment %}
@@ -33,6 +31,12 @@
 ·
 {% endcomment %}
 
+
+
+
+
+
+
 | Total Players | Starting Seekers |
 |---:|:---:|
 | 8–10 | 2 |
@@ -40,19 +44,28 @@
 | 15–19 | 4 |
 | 20–25 | 5 |
 | 26-32 | 6 |
-| 33-40 | 7 |
+
+- **Starting Seekers** will spend the entire game searching for **Hiders**.
+- Every **Starting Seeker** needs a ***Orange Seeker Necklace***.
+- All other players begin the game as **Hiders**, and become **Seekers** if found.
+- Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
+
+> If you want to hide in pairs, you must hold hands the entire game, and both people count as one player. Please let the other players know you're doing this!
+
 {% comment %}
+| 33-40 | 7 |
 | 31+ | 6+ or split into two games |
 {% endcomment %}
 
 
-### Hand-out Role Items
+{% comment %}
+### Role Necklaces
 {: #items }
 
-- **Every player** receives a ***Seeker Item***.
-- Only **Hiders** receive a ***Hider Item***.
+- **Every player** receives a ***Orange Seeker necklace***.
+- Only **Hiders** receive an ***Green Hider necklace***.
+
 > Distinct, wearable items in two variations work best! Use hats, shirts, big necklaces, etc.
-{% comment %}
 
 - Each **Starting Seeker** receives a ***Seeker Item***.
 - Each **Hider** receives a ***Hider Item***, and a ***Seeker Item***.
@@ -63,11 +76,15 @@
 ### Review Map & Boundaries WIP
 {% comment %}
 This could go first, but I always give players game objects as soon as possible lol.
-{% endcomment %}
 - See below section, but this should be talked about and defined before starting the game!
+{% endcomment %}
 
 #### Home Base: The Starting Area
-> **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk to the furthest map boundary.
+- **Players** must start the game at **Home Base**.
+
+> **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** is a small, central plaza with a tree and a well. It's a 10 minute walk from here to the furthest map boundary.
+
+
 {% comment %}
 - Home Base: The starting area.
   - Where exactly will Starting Seekers wait, while Hiders hide?
@@ -75,24 +92,29 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 {% endcomment %}
 #### Map Boundaries
-- **All Players** must stay *within* the Old Town walls during the entire game.
+- **Players** must stay *within* the Old Town walls during the entire game.
 
 > Please do not hide in the walls, on the walls, or outside the walls.
 
 #### Play Area
 
-- **All Players** must stay outdoors during the entire game.
+- **Players** must stay outdoors.
 
-> If a door could close behind you, you're probably indoors!
-
-
-- Landmarks with free public access are allowed, as long as they are outdoors.
-
-> Most buildings and shops are indoors, and outdoor spaces that require going indoors to reach are also not allowed.
+> If a door could close behind you, you're probably indoors. This includes most shops!
 
 
+> Outdoor spaces that require going indoors to access are also not allowed.
 
-- Trespassing is both illegal *and* against the rules, you hooligans.
+- **Players** must stay in public spaces.
+
+> Trespassing on private property is both illegal *and* against the rules, you hooligans.
+
+
+- **Hiders** may not pay for access to private spaces.
+
+> Please do not spend money or promise favours for a better hiding spot.
+
+> Landmarks with free public access are allowed, as long as they are outdoors.
 
 
 
@@ -110,12 +132,12 @@ This could go first, but I always give players game objects as soon as possible 
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
-## 3. Start the Game
+## 3. Starting the Game
 {: #start }
 
-- **Hiders** begin wearing their ***Hider Item***, and must carry their ***Seeker Item***.
-- **Starting Seekers** begin wearing their ***Seeker Item***.
-- **All Players** must wear their role items for the entire game.
+- **Hiders** begin wearing their ***Green Hider necklace***, and must carry their ***Orange Seeker necklace***.
+- **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
+- **Players** must wear one of their role until the game ends.
 
 ### Hide Countdown: 10 minutes
 
@@ -129,32 +151,27 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 > It's a 10 minute walk from ***Platia Arionos*** to the furthest map boundary. 
+
+
+
+## 4. Rounds & Photo Window
+{: #photo-clues }
+
+- Each game has 4 rounds, lasting 15 minutes each.
+- The first 2 minutes of each round is called the Photo Window. Hiders may submit their photos during this time for points!
 {% comment %}
+- At the beginning of each round, all **Hiders** must submit a photo.
+
+- At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
+- At the end of each round, any *found* **Hiders** become **Seekers**. *(Hiders score 0 points on the round they're found.)*
+
 {% endcomment %}
 
 
-## 4. Hiding Rules
-{: #locked-location }
-
-- **Hiders** may hide solo, in pairs, or in groups of up to three.
-- The **Hider’s** location is locked in at 0:00, when they submit their first photo.
-- **Hiders** must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
-- **Hiders** must still be able to see the Photo 1 location from their current position.
-- Small adjustments are allowed. Re-hiding is not allowed.
-- **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
-
-
-### Reposition Rules
-- **Hiders** may reposition during the last 3 minutes of each round, choosing a new hiding spot.
-- If a player repositions, they must include "REPOSITION!" when they send their next photo.
-- When a player repositions, points for their abandoned location are halved.
-
-> If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and full points for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
+> Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
 
 
 
-## 5. Rounds & Photo clues
-{: #photo-clues }
 
 | Time | Event |
 | --- | --- |
@@ -184,12 +201,27 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | 14:59 | Surviving hiders score points! |
 | 15:00 | Found Hiders become seekers! |
 
-- Each game has 4 rounds, lasting 15 minutes each.
-- At the beginning of each round, all **Hiders** must submit a photo.
-- At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
-- At the end of each round, any *found* **Hiders** become **Seekers**. *(Hiders score 0 points on the round they're found.)*
 
-> Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
+
+## 4. Hiding Rules
+{: #locked-location }
+
+{% comment %}
+- **Hiders** may hide solo, in pairs, or in groups of up to three.
+{% endcomment %}
+- The **Hider’s** location is locked in at 0:00, when they submit their first photo.
+- **Hiders** must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
+- **Hiders** must still be able to see the Photo 1 location from their current position.
+- Small adjustments are allowed. Re-hiding is not allowed.
+- **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
+
+
+### Reposition Rules
+- **Hiders** may reposition during the last 3 minutes of each round, choosing a new hiding spot.
+- If a player repositions, they must include "REPOSITION!" when they send their next photo.
+- When a player repositions, points for their abandoned location are halved.
+
+> If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and full points for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
 
 
 
@@ -232,7 +264,7 @@ Hider: [Name]
 | Found between 1:10–1:45 | 6 |
 | Not found by 2:00 | 10 |
 
-- Each photo must be taken from the locked hiding location.
+- Each photo must be taken from the exact hiding location.
 - Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
 - Each photo must be from the **Hider’s** point of view. No zooming.
 - **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
@@ -302,3 +334,5 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 
 Keep future rule text inside this block while it is not ready for players. Delete the opening and closing comment tags when the section is ready to publish, then give its heading a unique anchor.
 {% endcomment %}
+
+
