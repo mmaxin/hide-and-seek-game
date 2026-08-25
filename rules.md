@@ -24,7 +24,8 @@
 ### Join the Group Chat!
 > **All Players** must join the group chat before starting the game.
 
-- *Each player will require a cell phone with a camera and a data plan!*
+- *Each player needs a cell phone with a camera and a data plan!*
+- *We might use up to 0.2 gigs, depending on player count.*
 ### Choose Hiders and Seekers!
 {: #teams }
 
@@ -162,15 +163,22 @@ This could go first, but I always give players game objects as soon as possible 
 
 ### Start the Countdown: 10 minutes
 
+> **Hiders** send a selfie from Home Base.
+
+- *Some of you are meeting for the first time today!*
+
 > **Hiders** leave Home Base, and have 10 minutes to choose their hiding spot within the Map.
 
 - *It's a 9 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose!*
 
 > **Starting Seekers** must remain at **Home Base** during the **Countdown**.
 
+### Start the Hunt: 4 Rounds x 15 min
+
 
 > To begin Round 1, each **Starting Seeker** must begin a 1-hour live location-share with the group.
 
+> Each game has 4 rounds, lasting 15 minutes each.
 
 {% comment %}
 - [this phase could be called the Countdown maybe?]
@@ -182,11 +190,17 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 
-## 4. Rounds & Photo Window
+## 4. Photo Window
 {: #photo-clues }
 
-- Each game has 4 rounds, lasting 15 minutes each.
-- The first 2 minutes of each round is called the Photo Window. Hiders may submit their photos during this time for points!
+
+
+> The first 2 minutes of each round is called the Photo Window. Hiders submit their photos during this time!
+
+- *See Photo Scoring below for points.*
+
+
+
 {% comment %}
 - At the beginning of each round, all **Hiders** must submit a photo.
 
@@ -220,37 +234,95 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | +0:45 | Round 4 · Photo due | |
 | +1:00 | Game End | Remaining **Hiders** win! |
 
-| 15 min Round | Event |
-| ---:| --- |
-| 0:00 | Round Start |
-| 0:01 | Hiders may submit a photo. |
-| 2:00 | Hiders now lose 1 pt per late minute. |
-| 12:00 | Hiders may reposition until the end of round. |
-| 14:59 | Surviving hiders score points! |
-| 15:00 | Found Hiders become seekers! |
-
+| 15 min Round | Event                                         |
+| -----------: | --------------------------------------------- |
+|         0:00 | Hiders submit their photos.                   |
+|         2:00 | Hiders now lose 1 pt per late minute.         |
+|        12:00 | Hiders may reposition until the end of round. |
+|        14:59 | Surviving hiders score points!                |
+|        15:00 | Found Hiders become seekers!                  |
+|              |                                               |
+|              |                                               |
 
 
 ## 4. Hiding Rules
 {: #locked-location }
 
+> **Hiders** must take their photo from the exact location they intend to stay.
+
+
+- *If you move more than 5 steps, that counts as a reposition. Avoid hiding spots where you might be asked to move!*
+- *If you could no longer take your photo again (e.g. you stepped around a corner), you've repositioned.
+
+
 {% comment %}
 - **Hiders** may hide solo, in pairs, or in groups of up to three.
-{% endcomment %}
 - The **Hider’s** location is locked in at 0:00, when they submit their first photo.
 - **Hiders** must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
+
+
 - **Hiders** must still be able to see the Photo 1 location from their current position.
 - Small adjustments are allowed. Re-hiding is not allowed.
 - **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
+{% endcomment %}
 
 
 ### Reposition Rules
-- **Hiders** may reposition during the last 3 minutes of each round, choosing a new hiding spot.
-- If a player repositions, they must include "REPOSITION!" when they send their next photo.
-- When a player repositions, points for their abandoned location are halved.
+> **Hiders** may reposition during the Photo Window (the first 2 minutes of each round), abandoning their current location and moving to a new hiding spot.
 
-> If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and full points for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
+- *You can still be found while repositioning!*
 
+> **Hiders** who must include "REPOSITION!" when they send their photo for that round.
+
+> Points scored for all abandoned location are halved!
+
+- *Just do the math once at the end of the game. If you reposition more than once, **don't** start mathing half of half of half lol.
+
+{% comment %}
+- If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and  for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
+{% endcomment %}
+
+## Photo Scoring: Door, Sign, Road
+
+
+> Hiders score points *once* for each unique feature they include in their photos.
+
+- *A photo with a dozen doors in it still only scores 2 points, not 24 points.*
+
+- *Features only count if they're obviously visible without zooming in on my phone. There might be a tiny sign in the back there, but I won't be squinting to confirm it!*
+
+> Each feature can only be used to score points in one photo.
+
+- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take more unique photos!*
+
+
+- *Yes, this is all fully subjective to what Jo thinks counts. Assume I'm unconvinced by your shenanigans!*
+
+### Door: 2 points
+
+- *Partial doors don't count, you need the full door to be visible.*
+
+- *I'll probably accept gates, garage doors, and distinct historical archways with a path.*
+
+- *I'll probably reject vehicle doors, windows, and open doorways that don't show the full door.*
+
+### Unique Sign: 4 points
+
+- *Partial signs don't count, you need the full sign to be visible.*
+
+- *I'll probably accept street names, store brands, and distinct artworks (even without text if it's large enough).*
+
+- *I'll probably reject stickers, posters, generic street signs (i.e. stop sign), and signs without legible text.*
+
+### End of the Road: 6 points
+
+- *Partial roads don't count, you need the end of the road to be visible.*
+
+- *I'll probably accept any path, hallway, alley, or road where both sides walls are visible (you won't see the end of a curving road, but both walls is good enough).*
+
+- *I'll probably reject plazas, and roads where only one wall is visible,*
+
+- *You will need to be at a crossroads to send multiple unique roads from a single location!
 
 
 ## 6. How a find works
