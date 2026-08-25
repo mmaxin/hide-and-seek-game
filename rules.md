@@ -2,15 +2,15 @@
 
 ## 0. Timetable Summary
 
-| Time | Description | | Points |
-| ---:| --- |:--- |:---:| 
-|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |  |
-| −0:10 | **Hide Countdown** | **Hiders** hide! |  |
-|  0:00 | Round 1 · Photo due | **Seekers** released! | 2 |
-| +0:15 | Round 2 · Photo due | | 4 |
-| +0:30 | Round 3 · Photo due | | 6 |
-| +0:45 | Round 4 · Photo due | | 10 |
-| +1:00 | Game End | Remaining **Hiders** win! |  |
+|  Time | Description         |                                                                   | Points |
+| ----: | ------------------- | :---------------------------------------------------------------- | :----: |
+|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |        |
+| −0:10 | **Hide Countdown**  | **Hiders** hide!                                                  |        |
+|  0:00 | Round 1 · Photo due | **Seekers** released!                                             |   2    |
+| +0:15 | Round 2 · Photo due |                                                                   |   4    |
+| +0:30 | Round 3 · Photo due |                                                                   |   6    |
+| +0:45 | Round 4 · Photo due |                                                                   |   10   |
+| +1:00 | Game End            | Remaining **Hiders** win!                                         |        |
 
 ## 1. Objective
 {: #objective }
@@ -24,7 +24,7 @@
 ### Join the Group Chat!
 > **All Players** must join the group chat before starting the game.
 
-- *Each player needs a cell phone with a camera and a data plan!*
+- *Each player needs a cell phone with a full battery, a camera, and a data plan!*
 - *We might use up to 0.2 gigs, depending on player count.*
 ### Choose Hiders and Seekers!
 {: #teams }
@@ -272,11 +272,11 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - *You can still be found while repositioning!*
 
-> **Hiders** who must include "REPOSITION!" when they send their photo for that round.
+> **Hiders** must include "REPOSITION!" when they send their photo for that round.
 
 > Points scored for all abandoned location are halved!
 
-- *Just do the math once at the end of the game. If you reposition more than once, **don't** start mathing half of half of half lol.
+- *Just do the half once at the end of the game. If you reposition more than once, **don't** start mathing half of half of half lol.
 
 {% comment %}
 - If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and  for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
@@ -284,12 +284,16 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 ## Photo Scoring: Door, Sign, Road
 
+> Hiders score points by including Doors, Signs, and Roads in the photo.
+
+- *Up to 12 points can be earned per photo (door, sign, AND road). Up to 48 points can be earned per game (4 rounds).*
 
 > Hiders score points *once* for each unique feature they include in their photos.
 
+
 - *A photo with a dozen doors in it still only scores 2 points, not 24 points.*
 
-- *Features only count if they're obviously visible without zooming in on my phone. There might be a tiny sign in the back there, but I won't be squinting to confirm it!*
+- *Features only count if they're obviously visible without zooming in on a phone. There might be a tiny sign in the back there, but I won't be squinting to find it!*
 
 > Each feature can only be used to score points in one photo.
 
@@ -298,31 +302,37 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - *Yes, this is all fully subjective to what Jo thinks counts. Assume I'm unconvinced by your shenanigans!*
 
+> Photos submitted late score -1 point for arriving outside the Photo Window, and a further -1 for every minute late. 
+
+- *If you don't submit a photo at all, it's 0 points. You'll need to send photos to win!*
+
+- *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. The seekers need to actually receive it!*
+
 ### Door: 2 points
 
-- *Partial doors don't count, you need the full door to be visible.*
+- *The entire door must be visible, partial doors don't count.*
 
-- *I'll probably accept gates, garage doors, and distinct historical archways with a path.*
+- *I'll probably accept gates, garage doors, and distinct historical archways with a path (even if there isn't an actual door).*
 
 - *I'll probably reject vehicle doors, windows, and open doorways that don't show the full door.*
 
 ### Unique Sign: 4 points
 
-- *Partial signs don't count, you need the full sign to be visible.*
+- *The entire sign must be visible, partial signs don't count.*
 
-- *I'll probably accept street names, store brands, and distinct artworks (even without text if it's large enough).*
+- *I'll probably accept street names, store signs, and distinct artworks (if it's large enough, I might even accept it without text).*
 
-- *I'll probably reject stickers, posters, generic street signs (i.e. stop sign), and signs without legible text.*
+- *I'll probably reject stickers, posters, generic road signs (i.e. stop sign), and signs without legible text.*
 
 ### End of the Road: 6 points
 
-- *Partial roads don't count, you need the end of the road to be visible.*
+- *The end of the road must be visible: Down the line, not across the road!*
 
-- *I'll probably accept any path, hallway, alley, or road where both sides walls are visible (you won't see the end of a curving road, but both walls is good enough).*
+- *I'll probably accept any path, alley, or road where both side walls are visible (you won't see the end of a curving road, but both walls is good enough).*
 
-- *I'll probably reject plazas, and roads where only one wall is visible,*
+- *I'll probably reject plazas, hallways (that's indoors!) and roads where only one wall is visible (that's across the road).*
 
-- *You will need to be at a crossroads to send multiple unique roads from a single location!
+- *You will need to be at a crossroads to send multiple unique roads from a single location!*
 
 
 ## 6. How a find works
