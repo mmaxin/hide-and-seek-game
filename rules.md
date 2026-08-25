@@ -2,15 +2,15 @@
 
 ## 0. Timetable Summary
 
-|  Time | Description         |                                                                   | Points |
-| ----: | ------------------- | :---------------------------------------------------------------- | :----: |
-|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |        |
-| −0:10 | **Hide Countdown**  | **Hiders** hide!                                                  |        |
-|  0:00 | Round 1 · Photo due | **Seekers** released!                                             |   2    |
-| +0:15 | Round 2 · Photo due |                                                                   |   4    |
-| +0:30 | Round 3 · Photo due |                                                                   |   6    |
-| +0:45 | Round 4 · Photo due |                                                                   |   10   |
-| +1:00 | Game End            | Remaining **Hiders** win!                                         |        |
+|  Time | Description         |                                                                   |
+| ----: | ------------------- | :---------------------------------------------------------------- | 
+|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
+| −0:10 | **Hide Countdown**  | **Hiders** hide!                                                  |
+|  0:00 | Round 1 · Photo due | **Seekers** released!                                             |
+| +0:15 | Round 2 · Photo due |                                                                   |
+| +0:30 | Round 3 · Photo due |                                                                   |
+| +0:45 | Round 4 · Photo due |                                                                   |
+| +1:00 | Game End            | Remaining **Hiders** win!                                         |
 
 ## 1. Objective
 {: #objective }
@@ -51,13 +51,9 @@
 | 20–25 | 5 |
 | 26-32 | 6 |
 
-> **Starting Seekers** will spend the entire game searching for **Hiders**.
+> **Starting Seekers** will spend the entire game searching for **Hiders**. Every **Starting Seeker** needs an ***Orange Seeker necklace***.
 
-> Every **Starting Seeker** needs an ***Orange Seeker necklace***.
-
-> All other players begin the game as **Hiders**, and become **Seekers** if found.
-
-> Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
+> All other players begin the game as **Hiders**, and become **Seekers** if found. Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
 
 - *If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!*
 
@@ -98,26 +94,26 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 #### Map Boundaries
 {% endcomment %}
-> All **Players** must stay *within* the Old Town walls during the entire game.
+> All Players must stay *within* the Old Town walls during the entire game.
 
 - *Please do not hide in the walls, on the walls, or outside the walls.*
 
 {% comment %}
 #### Play Area
 {% endcomment %}
-> All **Players** must stay outdoors.
+> All Players must stay outdoors.
 
 - *If a door could close behind you, you're probably indoors. This includes most shops!*
 
 
 - *Outdoor spaces that require going indoors to access are also not allowed.*
 
-> All **Players** must stay in public spaces.
+> All Players must stay in public spaces.
 
 - *Trespassing on private property is both illegal **and** against the rules, you hooligans.*
 
 
-> **Hiders** may not pay for access to private spaces.
+> All players must not pay for access to private spaces.
 
 - *Please do not spend money or promise favours for a better hiding spot.*
 
@@ -145,7 +141,7 @@ This could go first, but I always give players game objects as soon as possible 
 {% comment %}
 ### Meet at Home Base!
 {% endcomment %}
-> All **Players** must start the game at **Home Base**.
+> All Players must start the game at **Home Base**.
 
 - **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
@@ -195,7 +191,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 
-> The first 2 minutes of each round is called the Photo Window. Hiders submit their photos during this time!
+> The first 2 minutes of each round is the Photo Window. Hiders must submit their photos during this time!
 
 - *See Photo Scoring below for points.*
 
@@ -207,10 +203,9 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
 - At the end of each round, any *found* **Hiders** become **Seekers**. *(Hiders score 0 points on the round they're found.)*
 
-{% endcomment %}
 
 
-> Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
+- *Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
 
 
 
@@ -224,6 +219,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | 0:45 | Photo 4 due |
 | 1:00 | Game ends |
 
+
 | Time | Description | |
 | ---:| --- |:--- |
 |       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
@@ -232,17 +228,16 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | +0:15 | Round 2 · Photo due | |
 | +0:30 | Round 3 · Photo due | |
 | +0:45 | Round 4 · Photo due | |
-| +1:00 | Game End | Remaining **Hiders** win! |
+| +1:00 | Game End | Remaining **Hiders** win! 
+
+{% endcomment %}
 
 | 15 min Round | Event                                         |
 | -----------: | --------------------------------------------- |
-|         0:00 | Hiders submit their photos.                   |
-|         2:00 | Hiders now lose 1 pt per late minute.         |
-|        12:00 | Hiders may reposition until the end of round. |
+|         0:00 | Hiders may submit their photos, and may reposition!                   |
+|         2:00 | Hiders now lose 1 pt per late minute. New locations locked in!         |
 |        14:59 | Surviving hiders score points!                |
-|        15:00 | Found Hiders become seekers!                  |
-|              |                                               |
-|              |                                               |
+
 
 
 ## 4. Hiding Rules
@@ -272,11 +267,13 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - *You can still be found while repositioning!*
 
+- *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there. 
+
 > **Hiders** must include "REPOSITION!" when they send their photo for that round.
 
-> Points scored for all abandoned location are halved!
+> **Points scored for all abandoned location are halved!**
 
-- *Just do the half once at the end of the game. If you reposition more than once, **don't** start mathing half of half of half lol.
+- *Just do the math once at the end of the game. If you reposition more than once, **don't** start working out half of half of half lol.
 
 {% comment %}
 - If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and  for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
@@ -286,7 +283,14 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > Hiders score points by including Doors, Signs, and Roads in the photo.
 
-- *Up to 12 points can be earned per photo (door, sign, AND road). Up to 48 points can be earned per game (4 rounds).*
+
+> Please send "DOOR", "SIGN", and/or "ROAD" with your photo to indicate which features you included!
+
+- *Up to 12 points can be earned per photo (for a door, a sign, AND a road). Up to 48 points can be earned per game (4 rounds).*
+
+- *You're welcome to do the math during the game, but honestly just give me "DOOR SIGN ROAD".
+
+- *Yes, this is all fully subjective to what Jo decides counts. Assume I'm unconvinced by your shenanigans!*
 
 > Hiders score points *once* for each unique feature they include in their photos.
 
@@ -297,28 +301,27 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > Each feature can only be used to score points in one photo.
 
-- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take more unique photos!*
+- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take more unique photos please!*
 
 
-- *Yes, this is all fully subjective to what Jo thinks counts. Assume I'm unconvinced by your shenanigans!*
 
-> Photos submitted late score -1 point for arriving outside the Photo Window, and a further -1 for every minute late. 
+> Photos submitted late score -1 point for arriving outside the Photo Window, and a further -1 point for every minute late. 
 
 - *If you don't submit a photo at all, it's 0 points. You'll need to send photos to win!*
 
-- *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. The seekers need to actually receive it!*
+- *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. The seekers do need to actually receive it!*
 
 ### Door: 2 points
 
-- *The entire door must be visible, partial doors don't count.*
+- *The entire door must be visible; partial doors don't count.*
 
 - *I'll probably accept gates, garage doors, and distinct historical archways with a path (even if there isn't an actual door).*
 
-- *I'll probably reject vehicle doors, windows, and open doorways that don't show the full door.*
+- *I'll probably reject vehicle doors, windows, and open doorways that don't show the full door (especially if it's not a cool archway).*
 
 ### Unique Sign: 4 points
 
-- *The entire sign must be visible, partial signs don't count.*
+- *The entire sign must be visible; partial signs don't count.*
 
 - *I'll probably accept street names, store signs, and distinct artworks (if it's large enough, I might even accept it without text).*
 
@@ -326,13 +329,13 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 ### End of the Road: 6 points
 
-- *The end of the road must be visible: Down the line, not across the road!*
+- *The **end** of the road must be visible: Down the line, not across the road!*
 
 - *I'll probably accept any path, alley, or road where both side walls are visible (you won't see the end of a curving road, but both walls is good enough).*
 
-- *I'll probably reject plazas, hallways (that's indoors!) and roads where only one wall is visible (that's across the road).*
+- *I'll probably reject plazas, hallways (indoors is illegal!), and roads where only one wall is visible (that's not looking down the line!).*
 
-- *You will need to be at a crossroads to send multiple unique roads from a single location!*
+- *You will need to be at an intersection to send multiple unique roads from a single location! Send them each in a different photo for full points.
 
 
 ## 6. How a find works
