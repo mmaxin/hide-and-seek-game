@@ -1,11 +1,11 @@
-> **10 minutes to hide** · **4 rounds × 15 minutes**  · **1 photo clue each round!**
+> **10 min to hide** · **4 rounds × 15 min**  · **1 photo clue each round!**
 
 ## 0. Timetable Summary
 
 |    Time | Description         |                                                                   |
 | ------: | ------------------- | :---------------------------------------------------------------- |
 |         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
-| −10 min | **Hide Countdown**  | **Hiders** hide!                                                  |
+| -10 min | **Hide Countdown**  | **Hiders** hide!                                                  |
 |   0 min | Round 1 · Photo due | **Seekers** released!                                             |
 |  15 min | Round 2 · Photo due | Hiders score points!                                              |
 |  30 min | Round 3 · Photo due | Hiders score points!                                              |
@@ -27,10 +27,12 @@
 ## 2. Set Up
 
 ### Join the Group Chat!
-> **All Players** must join the group chat before starting the game.
+> **All Players must join the group chat before starting the game.**
 
 - *Each player needs a cell phone with a full battery, a camera, and a data plan!*
 - *We might use up to 0.2 gigs, depending on player count.*
+
+
 ### Choose Hiders and Seekers!
 {: #teams }
 
@@ -56,9 +58,13 @@
 | 20–25 | 5 |
 | 26-32 | 6 |
 
-> **Starting Seekers** will spend the entire game searching for **Hiders**. Every **Starting Seeker** needs an ***Orange Seeker necklace***.
+> **Starting Seekers** will spend the entire game searching for Hiders.
+> 
+> Each Starting Seeker needs an **Orange Seeker necklace**.
 
-> All other players begin the game as **Hiders**, and become **Seekers** if found. Every **Hider** needs both a ***Green Hider necklace*** and an ***Orange Seeker necklace***.
+> All other players begin the game as **Hiders**, and become Seekers if found.
+> 
+> Each Hider needs a **Green Hider necklace**, *and* an **Orange Seeker necklace**.
 
 - *If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!*
 
@@ -86,7 +92,7 @@
 {% endcomment %}
 
 
-### Review Map and Boundaries!
+### Review Map Boundaries!
 {% comment %}
 This could go first, but I always give players game objects as soon as possible lol.
 - See below section, but this should be talked about and defined before starting the game!
