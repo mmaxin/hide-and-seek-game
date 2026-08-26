@@ -364,7 +364,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 ## 6. Getting Found
 {: #finds }
 
-> **Seekers score 20 points per Hider found!**
+> **Seekers score 20 points for each Hider found!**
 
 - *Surviving Hiders can score up to 48 points. If you can find 3 hiders, you'll score 60 points!*
 
@@ -374,25 +374,29 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying:
 {% endcomment %}
 
-> **Seekers who find a Hider should shake their hand and say “Found you!” Then, take a selfie with them!
+> **Seekers who find a Hider should shake their hand and say “Found you!”**
+> 
+> **Then, take a selfie with them!**
 
 - *Please don't scare random locals.*
 
 > **Please send your selfie to the group as evidence of your find, including "[NAME] FOUND!"**
 
-- *The find time is determined by the photo's time stamp for this one, not by send or arrival time (in case of close calls like a find at 59 minutes). But do send it promptly please!
+- *The find time is determined by the photo's time stamp for this, not by send time or arrival time (in case of close calls, like a find at 59 minutes). But do send it promptly please!*
 
-> **Then graciously receive your reward, their *Green Hider necklace!*
+> **Then graciously receive your reward, their *Green Hider necklace!***
 
 ### Hiders Getting Found
 
 > **When a Hider is found, they must shake the Seekers hand, then take the selfie with them.**
 
-- *If multiple Seekers arrive at the same time, the Hider chooses whose hand to shake for the win.
+- *If multiple Seekers arrive around the same time, the Hider chooses whose hand to shake for the win.*
 
-> **Then give the Seeker your *Green Hider necklace,* and put on your *Orange Seeker necklace* instead!
+> **Then give the Seeker your *Green Hider necklace,* and put on your *Orange Seeker necklace* instead!**
 
 > **To begin seeking, please begin a 1-hour live location share with the group!**
+> 
+> **You are now a Seeker!**
 
 
 {% comment %}
@@ -468,7 +472,6 @@ Hider: [Name]
 - The Organizer has final say on rulings and scoring.
 - At 2:00, the game ends immediately. No late finds count.
 
-{% endcomment %}
 
 ## Adjusting the game
 ### Seekers too strong
@@ -477,6 +480,7 @@ Hider: [Name]
 ### Hiders too strong
 - Reduce Reposition window from 3 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
 
+{% endcomment %}
 
 ## Game map & zones
 {: #map }
@@ -490,10 +494,10 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
 
+{% comment %}
 ## FAQ & Examples
 
 
-{% comment %}
 ## Draft section (hidden)
 
 Keep future rule text inside this block while it is not ready for players. Delete the opening and closing comment tags when the section is ready to publish, then give its heading a unique anchor.
