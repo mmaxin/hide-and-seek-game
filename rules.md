@@ -24,7 +24,7 @@
 
 
 
-## 2. Set Up
+## 2. Setting Up
 
 ### Join the Group Chat!
 > **All Players must join the group chat before starting the game.**
@@ -33,7 +33,7 @@
 - *We might use up to 0.2 gigs, depending on player count.*
 
 
-### Choose Hiders and Seekers!
+### Choose Hiders & Seekers!
 {: #teams }
 
 
@@ -58,12 +58,11 @@
 | 20–25 | 5 |
 | 26-32 | 6 |
 
-> **Starting Seekers** will spend the entire game searching for Hiders.
-> 
-> 
+> **Starting Seekers will spend the entire game searching for Hiders.**
+>
 > Each Starting Seeker needs an **Orange Seeker necklace**.
 
-> All other players begin the game as **Hiders**, and become Seekers if found.
+> **All other players begin the game as Hiders, and become Seekers if found.**
 > 
 > Each Hider needs a **Green Hider necklace**, *and* an **Orange Seeker necklace**.
 
@@ -93,7 +92,7 @@
 {% endcomment %}
 
 
-### Review Map Boundaries!
+### Review the Map Boundaries!
 {% comment %}
 This could go first, but I always give players game objects as soon as possible lol.
 - See below section, but this should be talked about and defined before starting the game!
@@ -106,26 +105,26 @@ This could go first, but I always give players game objects as soon as possible 
   - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
 #### Map Boundaries
 {% endcomment %}
-> All Players must stay *within* the Old Town walls during the entire game.
+> **All Players must stay *within* the Old Town walls during the entire game.**
 
 - *Please do not hide in the walls, on the walls, or outside the walls.*
 
 {% comment %}
 #### Play Area
 {% endcomment %}
-> All Players must stay outdoors.
+> **All Players must stay outdoors.**
 
 - *If a door could close behind you, you're probably indoors. This includes most shops!*
 
 
 - *Outdoor spaces that require going indoors to access are also not allowed.*
 
-> All Players must stay in public spaces.
+> **All Players must stay in public spaces.**
 
 - *Trespassing on private property is both illegal **and** against the rules, you hooligans.*
 
 
-> All players must not pay for access to private spaces.
+> **All players must not pay for access to private spaces.**
 
 - *Please do not spend money or promise favours for a better hiding spot.*
 
@@ -147,52 +146,55 @@ This could go first, but I always give players game objects as soon as possible 
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
+{% comment %}
 ## 3. Starting the Game
 {: #start }
 
-{% comment %}
-### Meet at Home Base!
 {% endcomment %}
-> All Players must start the game at **Home Base**.
+### Meet at Home Base!
+> **All Players must start the game at Home Base**.
 
 - **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
 
 
-> **Hiders** begin wearing their ***Green Hider necklace***, and must carry their ***Orange Seeker necklace***.
+> **Hiders begin wearing their *Green Hider necklace*, and must carry their *Orange Seeker necklace.***
 
 
-> **Starting Seekers** begin wearing their ***Orange Seeker necklace***.
+> **Starting Seekers begin wearing their *Orange Seeker necklace.***
 
 
 
-> **Players** must wear one of their necklaces until the game ends.
+> **All Players must wear one of their necklaces until the game ends.**
 
+- *Don't take your necklace off, it's already hard enough to find you as it is!*
+
+## 3. Playing the Game
+{: #start }
 
 ### Start the Countdown: 10 minutes
 
-> **Hiders** send a selfie from Home Base.
+> **Each Hider sends a selfie from Home Base.**
 
-- *Some of you are meeting for the first time today!*
+- *Some of you are meeting for the first time today! Give everyone a reference picture!*
 
-> **Hiders** leave Home Base, and have 10 minutes to choose their hiding spot within the Map.
+> **Hiders leave Home Base, and have a 10 minute Countdown to choose their hiding spot within the Map boundaries.**
 
 - *It's a 9 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose!*
 
-> **Starting Seekers** must remain at **Home Base** during the **Countdown**.
+> **Starting Seekers must remain at Home Base during the 10 minute Countdown.**
 
-### Start the Hunt: 4 Rounds x 15 min
+### Start the Hunt: 4 Rounds × 15 min
 
 
-> To begin Round 1, each **Starting Seeker** must begin a 1-hour live location-share with the group.
+> **To begin Round 1, each Starting Seeker must begin a 1-hour live location-share with the group.**
 
-> Each game has 4 rounds, lasting 15 minutes each.
+> **Each game has 4 rounds, lasting 15 minutes each.**
 
 {% comment %}
 - [this phase could be called the Countdown maybe?]
 - **Starting Seekers** must remain at the start area during the hide period.
 and may not watch, follow, or track Hiders. < Optimistic lol.
-{% endcomment %}
 
 
 
@@ -200,10 +202,15 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 ## 4. Photo Window
 {: #photo-clues }
+{% endcomment %}
 
+### Photo Windows: First 2 min / Round
 
+> **The first 2 minutes of each round is the Photo Window.**
+> 
+> **Hiders must submit their photos during this time!**
 
-> The first 2 minutes of each round is the Photo Window. Hiders must submit their photos during this time!
+- *This includes the first round, just as the Seekers are being released!*
 
 - *See Photo Scoring below for points.*
 
