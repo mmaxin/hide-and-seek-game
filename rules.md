@@ -1,21 +1,26 @@
-> **10 minutes to hide** · **1 hour seeking** · **4 clue photos**
+> **10 minutes to hide** · **4 rounds × 15 minutes**  · **1 photo clue each round!**
 
 ## 0. Timetable Summary
 
-|  Time | Description         |                                                                   |
-| ----: | ------------------- | :---------------------------------------------------------------- | 
-|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
-| −0:10 | **Hide Countdown**  | **Hiders** hide!                                                  |
-|  0:00 | Round 1 · Photo due | **Seekers** released!                                             |
-| +0:15 | Round 2 · Photo due |                                                                   |
-| +0:30 | Round 3 · Photo due |                                                                   |
-| +0:45 | Round 4 · Photo due |                                                                   |
-| +1:00 | Game End            | Remaining **Hiders** win!                                         |
+|    Time | Description         |                                                                   |
+| ------: | ------------------- | :---------------------------------------------------------------- |
+|         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
+| −10 min | **Hide Countdown**  | **Hiders** hide!                                                  |
+|   0 min | Round 1 · Photo due | **Seekers** released!                                             |
+|  15 min | Round 2 · Photo due | Hiders score points!                                              |
+|  30 min | Round 3 · Photo due | Hiders score points!                                              |
+|  45 min | Round 4 · Photo due | Hiders score points!                                              |
+|  60 min | Game End            | Hiders score points!                                              |
+|         |                     | Surviving Hiders win!                                             |
 
 ## 1. Objective
 {: #objective }
 
-> Score the most points by staying hidden or finding Hiders.
+### Hiders
+> Send photos to score the most points while staying hidden! 
+
+### Seekers
+> Find Hiders to score points!
 
 
 
@@ -208,7 +213,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - *Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
 
 
-
+ 
 
 | Time | Event |
 | --- | --- |
@@ -220,24 +225,24 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 | 1:00 | Game ends |
 
 
-| Time | Description | |
-| ---:| --- |:--- |
-|       | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
-| −0:10 | **Countdown** | **Hiders** hide! |
-|  0:00 | Round 1 · Photo due | **Seekers** released! |
-| +0:15 | Round 2 · Photo due | |
-| +0:30 | Round 3 · Photo due | |
-| +0:45 | Round 4 · Photo due | |
-| +1:00 | Game End | Remaining **Hiders** win! 
+|    Time | Description         |                                                                   |
+| ------: | ------------------- | :---------------------------------------------------------------- |
+|         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
+| -10 min | **Countdown**       | **Hiders** hide!                                                  |
+|   0 min | Round 1 · Photo due | **Seekers** released!                                             |
+|  15 min | Round 2 · Photo due | Hiders score points!                                              |
+|  30 min | Round 3 · Photo due | Hiders score points!                                              |
+|  45 min | Round 4 · Photo due | Hiders score points!                                              |
+|  60 min | Game End            | Hiders score points! Remaining **Hiders** win!                    |
 
-{% endcomment %}
+
 
 | 15 min Round | Event                                         |
 | -----------: | --------------------------------------------- |
 |         0:00 | Hiders may submit their photos, and may reposition!                   |
 |         2:00 | Hiders now lose 1 pt per late minute. New locations locked in!         |
 |        14:59 | Surviving hiders score points!                |
-
+{% endcomment %}
 
 
 ## 4. Hiding Rules
@@ -271,7 +276,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > **Hiders** must include "REPOSITION!" when they send their photo for that round.
 
-> **Points scored for all abandoned location are halved!**
+> **Points scored for all abandoned locations are halved!**
 
 - *Just do the math once at the end of the game. If you reposition more than once, **don't** start working out half of half of half lol.
 
@@ -329,7 +334,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 ### End of the Road: 6 points
 
-- *The **end** of the road must be visible: Down the line, not across the road!*
+- *The **end** of the road must be visible: We need to see down the line, not across the road!*
 
 - *I'll probably accept any path, alley, or road where both side walls are visible (you won't see the end of a curving road, but both walls is good enough).*
 
