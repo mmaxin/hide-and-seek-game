@@ -60,6 +60,7 @@
 
 > **Starting Seekers** will spend the entire game searching for Hiders.
 > 
+> 
 > Each Starting Seeker needs an **Orange Seeker necklace**.
 
 > All other players begin the game as **Hiders**, and become Seekers if found.
