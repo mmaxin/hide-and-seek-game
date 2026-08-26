@@ -157,11 +157,15 @@ This could go first, but I always give players game objects as soon as possible 
 - **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
 
+> **Starting Seekers begin wearing their *Orange Seeker necklace.***
+
 
 > **Hiders begin wearing their *Green Hider necklace*, and must carry their *Orange Seeker necklace.***
 
 
-> **Starting Seekers begin wearing their *Orange Seeker necklace.***
+> **All Players must send a selfie from Home Base.**
+
+- *Some of you are meeting for the first time today! Give everyone a reference picture!*
 
 
 
@@ -174,9 +178,6 @@ This could go first, but I always give players game objects as soon as possible 
 
 ### Start the Countdown: 10 minutes
 
-> **Each Hider sends a selfie from Home Base.**
-
-- *Some of you are meeting for the first time today! Give everyone a reference picture!*
 
 > **Hiders leave Home Base, and have a 10 minute Countdown to choose their hiding spot within the Map boundaries.**
 
@@ -189,7 +190,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 > **To begin Round 1, each Starting Seeker must begin a 1-hour live location-share with the group.**
 
-> **Each game has 4 rounds, lasting 15 minutes each.**
+> **A game has 4 rounds, lasting 15 minutes each.**
 
 {% comment %}
 - [this phase could be called the Countdown maybe?]
@@ -262,11 +263,12 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 ## 4. Hiding Rules
 {: #locked-location }
 
-> **Hiders** must take their photo from the exact location they intend to stay.
+> **Hiders must take their photo from the exact location they intend to stay.**
 
 
-- *If you move more than 5 steps, that counts as a reposition. Avoid hiding spots where you might be asked to move!*
-- *If you could no longer take your photo again (e.g. you stepped around a corner), you've repositioned.
+- *If you move more than 5 steps, that counts as a Reposition! Please avoid hiding spots where you might be asked to move.*
+
+- *If you could no longer take your photo again (such as by stepping around a corner), you've Repositioned!
 
 
 {% comment %}
@@ -282,17 +284,19 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 ### Reposition Rules
-> **Hiders** may reposition during the Photo Window (the first 2 minutes of each round), abandoning their current location and moving to a new hiding spot.
+> **Hiders may reposition during the Photo Window *(the first 2 minutes of each round),* abandoning their current location and moving to a new hiding spot.**
 
 - *You can still be found while repositioning!*
 
 - *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there. 
 
-> **Hiders** must include "REPOSITION!" when they send their photo for that round.
+> **Hiders must include "REPOSITION!" when they send their photo for that round.**
+
+- *REPOSITION! Door Sign Road!*
 
 > **Points scored for all abandoned locations are halved!**
 
-- *Just do the math once at the end of the game. If you reposition more than once, **don't** start working out half of half of half lol.
+- *Just do the math once at the end of the game. If you reposition more than once, **don't** start working out half of half of half lol.*
 
 {% comment %}
 - If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and  for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
@@ -300,43 +304,43 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 ## Photo Scoring: Door, Sign, Road
 
-> Hiders score points by including Doors, Signs, and Roads in the photo.
+> **Hiders score points by including Doors, Signs, and Roads in the photo.**
 
 
-> Please send "DOOR", "SIGN", and/or "ROAD" with your photo to indicate which features you included!
+> **Please send "DOOR", "SIGN", and/or "ROAD" with your photo to indicate which features you included!**
 
 - *Up to 12 points can be earned per photo (for a door, a sign, AND a road). Up to 48 points can be earned per game (4 rounds).*
 
-- *You're welcome to do the math during the game, but honestly just give me "DOOR SIGN ROAD".
+- *You're welcome to do the math during the game, but honestly just give me "DOOR SIGN ROAD".*
 
 - *Yes, this is all fully subjective to what Jo decides counts. Assume I'm unconvinced by your shenanigans!*
 
-> Hiders score points *once* for each unique feature they include in their photos.
+> **Hiders score points *once* for each unique feature they include in their photos.**
 
 
 - *A photo with a dozen doors in it still only scores 2 points, not 24 points.*
 
 - *Features only count if they're obviously visible without zooming in on a phone. There might be a tiny sign in the back there, but I won't be squinting to find it!*
 
-> Each feature can only be used to score points in one photo.
+> **Each feature can only be used to score points in one photo.**
 
-- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take more unique photos please!*
+- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take unique photos please!*
 
 
 
-> Photos submitted late score -1 point for arriving outside the Photo Window, and a further -1 point for every minute late. 
+> **Photos submitted late score -1 point for arriving outside the Photo Window, and -1 point for every additional minute late. **
 
-- *If you don't submit a photo at all, it's 0 points. You'll need to send photos to win!*
+- *If you don't submit a photo at all, it's 0 points. You need to send photos to win!*
 
-- *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. The seekers do need to actually receive it!*
+- *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. Seekers need to have actually received your photo!*
 
 ### Door: 2 points
 
 - *The entire door must be visible; partial doors don't count.*
 
-- *I'll probably accept gates, garage doors, and distinct historical archways with a path (even if there isn't an actual door).*
+- *I'll probably accept gates, garage doors, and distinctly historical archways with a through-path (despite many not having an actual door, they're just cool).*
 
-- *I'll probably reject vehicle doors, windows, and open doorways that don't show the full door (especially if it's not a cool archway).*
+- *I'll probably reject vehicle doors, windows, and open doorways that don't show their door in full (especially if it's not even a cool archway).*
 
 ### Unique Sign: 4 points
 
@@ -344,28 +348,54 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 - *I'll probably accept street names, store signs, and distinct artworks (if it's large enough, I might even accept it without text).*
 
-- *I'll probably reject stickers, posters, generic road signs (i.e. stop sign), and signs without legible text.*
+- *I'll probably reject stickers, posters, generic road signs (i.e. stop sign), and signs without legible text (faded signs, information panels).*
 
 ### End of the Road: 6 points
 
 - *The **end** of the road must be visible: We need to see down the line, not across the road!*
 
-- *I'll probably accept any path, alley, or road where both side walls are visible (you won't see the end of a curving road, but both walls is good enough).*
+- *I'll probably accept any path, alley, or road where both interior walls are visible (you can't see the end of a curving road, but both walls is good enough).*
 
 - *I'll probably reject plazas, hallways (indoors is illegal!), and roads where only one wall is visible (that's not looking down the line!).*
 
-- *You will need to be at an intersection to send multiple unique roads from a single location! Send them each in a different photo for full points.
+- *For maximum points, you'll need to be at an intersection to be able to send multiple photos of unique roads from a single location!*
 
 
-## 6. How a find works
+## 6. Getting Found
 {: #finds }
 
-- A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying: **“Found—hand over your Hider Item.”**
-- When a **Hider** is found, they hand over their ***Hider Item***, put on their ***Seeker Item***, and will become a **Seeker**.
-- **Hiders** need to stay put until round start. (This gives nearby hiders a chance to escape.)
-- **First Seeker rule:** if multiple Seekers arrive, the Hider Item goes to the first Seeker who reaches the Hider without sprinting and clearly makes the find call.
-- No tagging, grabbing, or chasing.
+> **Seekers score 20 points per Hider found!**
 
+- *Surviving Hiders can score up to 48 points. If you can find 3 hiders, you'll score 60 points!*
+
+### Seekers Finding Hiders
+
+{% comment %}
+- A **Seeker** makes a valid find by reaching the **Hider** first, getting within about three metres, clearly identifying the **Hider**, and saying:
+{% endcomment %}
+
+> **Seekers who find a Hider should shake their hand and say “Found you!” Then, take a selfie with them!
+
+- *Please don't scare random locals.*
+
+> **Please send your selfie to the group as evidence of your find, including "[NAME] FOUND!"**
+
+- *The find time is determined by the photo's time stamp for this one, not by send or arrival time (in case of close calls like a find at 59 minutes). But do send it promptly please!
+
+> **Then graciously receive your reward, their *Green Hider necklace!*
+
+### Hiders Getting Found
+
+> **When a Hider is found, they must shake the Seekers hand, then take the selfie with them.**
+
+- *If multiple Seekers arrive at the same time, the Hider chooses whose hand to shake for the win.
+
+> **Then give the Seeker your *Green Hider necklace,* and put on your *Orange Seeker necklace* instead!
+
+> **To begin seeking, please begin a 1-hour live location share with the group!**
+
+
+{% comment %}
 ### Posting rules
 
 After a valid find, the found **Hider** posts in WhatsApp:
@@ -437,6 +467,8 @@ Hider: [Name]
 - No private property, roads, or washrooms.
 - The Organizer has final say on rulings and scoring.
 - At 2:00, the game ends immediately. No late finds count.
+
+{% endcomment %}
 
 ## Adjusting the game
 ### Seekers too strong
