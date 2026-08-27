@@ -13,6 +13,13 @@
 |  60 min | Game End            | Hiders score points!                                              |
 |         |                     | Surviving Hiders win!                                             |
 
+> **Bold text is rules. Please read this.**
+
+
+- *Italics is optional explanation. Read this if you're confused!*
+
+
+
 ## 1. Objective
 {: #objective }
 
@@ -129,6 +136,11 @@ This could go first, but I always give players game objects as soon as possible 
 - *Please do not spend money or promise favours for a better hiding spot.*
 
 - *Landmarks with free public access are allowed, as long as they are outdoors.*
+
+
+> **No running!**
+
+- *We can't police this at all, but Mike will be very disappointed in you.*
 
 
 
@@ -284,11 +296,19 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 ### Reposition Rules
+
 > **Hiders may reposition during the Photo Window *(the first 2 minutes of each round),* abandoning their current location and moving to a new hiding spot.**
+
+
+- *Consider Repositioning when it seems like Seekers have figured out exactly where you are. That 2-minute window is your chance for survival!*
 
 - *You can still be found while repositioning!*
 
+
+> **Hiders are not allowed to reposition during the remaining 13 minutes of each round.**
+
 - *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there. 
+
 
 > **Hiders must include "REPOSITION!" when they send their photo for that round.**
 
