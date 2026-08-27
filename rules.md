@@ -14,7 +14,7 @@
 |  60 min | Game End            | Hiders score points!                                              |
 |         |                     | Surviving Hiders win!                                             |
 
-> **Bold text is rules. Please read the bold!**
+> **Rules are Rules are bold. Please read the bold text text!**
 
 
 - *Italics is for optional explanation. Read these for more info, hints, and context!*
@@ -28,6 +28,9 @@
 > **All surviving Hiders win the game, regardless of score!**
 
 > **Otherwise, score the most points to win!**
+
+
+
 ### Hiders
 
 
@@ -133,7 +136,7 @@
 
 
 
-> **All players must wear one of their necklaces until the game ends.**
+> **All players must continue wearing one of their necklaces until the game ends.**
 
 - *Don't take your necklace off, it's already hard enough to find you as it is!*
 
@@ -144,7 +147,7 @@
 ### Start the Countdown: 10 minutes
 
 
-> **Hiders leave Home Base, and have a 10 minute Countdown to choose their hiding spot within the Map boundaries.**
+> **Hiders have a 10 minute Countdown to choose their hiding spot anywhere within the Map boundaries.**
 
 - *It's a 9 minute walk from **Platia Arionos** to the furthest map boundary. No need to run, just walk with purpose!*
 
@@ -326,7 +329,7 @@
 
 > **Seekers score 20 points for each Hider they find!**
 
-- *Surviving Hiders can score up to 48 points. If you can find 3 hiders, you'll score 60 points!*
+- *Surviving Hiders can score up to 48 points. If you find 3 hiders, you'll score 60 points!*
 
 ### Seekers Finding Hiders
 
