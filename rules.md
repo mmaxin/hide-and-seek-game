@@ -1,6 +1,7 @@
 > **10 min to hide** · **4 rounds × 15 min**  · **1 photo clue each round!**
 
-## 0. Timetable Summary
+## 0. Summary
+{: #time } {: #schedule }
 
 |    Time | Description         |                                                                   |
 | ------: | ------------------- | :---------------------------------------------------------------- |
@@ -13,23 +14,24 @@
 |  60 min | Game End            | Hiders score points!                                              |
 |         |                     | Surviving Hiders win!                                             |
 
-> **Bold text is rules. Please read this.**
+> **Bold text is rules. Please read the bold!**
 
 
-- *Italics is optional explanation. Read this if you're confused!*
+- *Italics is for optional explanation. Read these for more info, hints, and context!*
 
 
 
 ## 1. Objective
 {: #objective }
 
+
 > **All surviving Hiders win the game, regardless of score!**
 
-
+> **Otherwise, score the most points to win!**
 ### Hiders
 
 
-> **Send photos to score the most points while staying hidden!**
+> **Send photos to score points while staying hidden!**
 
 
 ### Seekers
@@ -37,10 +39,13 @@
 
 
 
-## 2. Setting Up
+## 2. Set Up
 
 ### Join the Group Chat!
-> **All Players must join the group chat before starting the game.**
+
+
+
+> **All players must join the group chat before starting the game.**
 
 - *Each player needs a cell phone with a full battery, a camera, and a data plan!*
 - *We might use up to 0.2 gigs, depending on player count.*
