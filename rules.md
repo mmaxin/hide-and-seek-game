@@ -8,11 +8,13 @@
 |         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
 | -10 min | **Hide Countdown**  | **Hiders** hide!                                                  |
 |   0 min | Round 1 · Photo due | **Seekers** released!                                             |
-|  15 min | Round 2 · Photo due | Hiders score points!                                              |
-|  30 min | Round 3 · Photo due | Hiders score points!                                              |
-|  45 min | Round 4 · Photo due | Hiders score points!                                              |
-|  60 min | Game End            | Hiders score points!                                              |
-|         |                     | Surviving Hiders win!                                             |
+|  15 min | Round 2 · Photo due |                                                                   |
+|  30 min | Round 3 · Photo due |                                                                   |
+|  45 min | Round 4 · Photo due |                                                                   |
+|  60 min | Game End            | Surviving Hiders win!                                             |
+|         |                     |                                                                   |
+
+
 
 > **Rules are Rules are bold. Please read the bold text text!**
 
@@ -274,6 +276,13 @@
 - *You're welcome to do the math during the game, but honestly just give me "DOOR SIGN ROAD".*
 
 - *Yes, this is all fully subjective to what Jo decides counts. Assume I'm unconvinced by your shenanigans!*
+
+> **Hiders score their points as soon as Mike receives their photo.**
+
+
+- *Your effort is rewarded immediately!*
+
+
 
 > **Hiders score points *once* for each unique feature they include in their photos.**
 
