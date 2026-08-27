@@ -1,7 +1,7 @@
 > **10 min to hide** · **4 rounds × 15 min**  · **1 photo clue each round!**
 
 ## 0. Summary
-{: #time, #schedule }
+{: #summary }
 
 |    Time | Description         |                                                                   |
 | ------: | ------------------- | :---------------------------------------------------------------- |
@@ -40,8 +40,10 @@
 
 
 ## 2. Set Up
+{: #setup }
 
 ### Join the Group Chat!
+{: #chat }
 
 
 
@@ -56,18 +58,6 @@
 
 
 
-{% comment %}
-- **Starting Seekers** = max(2, total players ÷ 6, rounded up)
-- **Starting Hiders** = total players − Starting Seekers
-·
-{% endcomment %}
-
-
-
-
-
-
-
 | Total Players | Starting Seekers |
 |---:|:---:|
 | 8–10 | 2 |
@@ -78,71 +68,39 @@
 
 > **Starting Seekers will spend the entire game searching for Hiders.**
 >
-> Each Starting Seeker needs an **Orange Seeker necklace**.
+> **Each Starting Seeker needs an *Orange Seeker necklace.***
 
 > **All other players begin the game as Hiders, and become Seekers if found.**
 > 
-> Each Hider needs a **Green Hider necklace**, *and* an **Orange Seeker necklace**.
+> **Each Hider needs a *Green Hider necklace,* and an *Orange Seeker necklace.***
 
 - *If you want to hide in pairs, you'll both count as one player, and you must hold hands the entire game! Please let everyone know you're doing this!*
 
 
 
-{% comment %}
-| 33-40 | 7 |
-| 31+ | 6+ or split into two games |
-{% endcomment %}
-
-
-{% comment %}
-### Role Necklaces
-{: #items }
-
-> **Every player** receives an ***Orange Seeker necklace***.
-
-> Only **Hiders** receive an ***Green Hider necklace***.
-
-> Distinct, wearable items in two variations work best! Use hats, shirts, big necklaces, etc.
-
-- Each **Starting Seeker** receives a ***Seeker Item***.
-- Each **Hider** receives a ***Hider Item***, and a ***Seeker Item***.
-  - *Use very visible, wearable items, such as hats, shirts, or necklaces.*
-{% endcomment %}
-
-
 ### Review the Map Boundaries!
-{% comment %}
-This could go first, but I always give players game objects as soon as possible lol.
-- See below section, but this should be talked about and defined before starting the game!
-{% endcomment %}
+{: #boundaries }
 
-{% comment %}
-- Home Base: The starting area.
-  - Where exactly will Starting Seekers wait, while Hiders hide?
-  - Where exactly must *all players* begin the game?
-  - Recommend picking a well-defined area, or require touching a specific landmark. Seekers *will* try to watch lol, that's expected.
-#### Map Boundaries
-{% endcomment %}
-> **All Players must stay *within* the Old Town walls during the entire game.**
+
+> **All players must stay *within* the Old Town walls during the entire game.**
 
 - *Please do not hide in the walls, on the walls, or outside the walls.*
 
-{% comment %}
-#### Play Area
-{% endcomment %}
-> **All Players must stay outdoors.**
+
+> **All players must stay outdoors.**
+
 
 - *If a door could close behind you, you're probably indoors. This includes most shops!*
 
 
 - *Outdoor spaces that require going indoors to access are also not allowed.*
 
-> **All Players must stay in public spaces.**
+> **All players must stay in public spaces.**
 
 - *Trespassing on private property is both illegal **and** against the rules, you hooligans.*
 
 
-> **All players must not pay for access to private spaces.**
+> **All players must not pay for access to exclusive spaces.**
 
 - *Please do not spend money or promise favours for a better hiding spot.*
 
@@ -151,31 +109,14 @@ This could go first, but I always give players game objects as soon as possible 
 
 > **No running!**
 
-- *We can't police this at all, but Mike will be very disappointed in you.*
+- *We can't really police this, but Mike will be very disappointed in you.*
 
-
-
-{% comment %}
-
-- Paid establishment, ticket entry, private invitations, shops, restaurants
-- Private property (Do not tresspass, Tiffany.)
-- approved
-- Outdoors is always allowed.
-- Do not hide indoors, or in any outdoor location that requires going indoors to access.
-  - Which buildings, structures, areas, etc. must not be entered?
-  - Which ones are allowed?
-{% endcomment %}
 
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
-{% comment %}
-## 3. Starting the Game
-{: #start }
-
-{% endcomment %}
 ### Meet at Home Base!
-> **All Players must start the game at Home Base**.
+> **All players must start the game at Home Base**.
 
 - **[*Platia Arionos* (Πλατεία Αρίωνος)](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** *is a small, central plaza with a tree and a well.* 
 
@@ -186,15 +127,16 @@ This could go first, but I always give players game objects as soon as possible 
 > **Hiders begin wearing their *Green Hider necklace*, and must carry their *Orange Seeker necklace.***
 
 
-> **All Players must send a selfie from Home Base.**
+> **All players must send a selfie from Home Base.**
 
 - *Some of you are meeting for the first time today! Give everyone a reference picture!*
 
 
 
-> **All Players must wear one of their necklaces until the game ends.**
+> **All players must wear one of their necklaces until the game ends.**
 
 - *Don't take your necklace off, it's already hard enough to find you as it is!*
+
 
 ## 3. Playing the Game
 {: #start }
@@ -215,18 +157,7 @@ This could go first, but I always give players game objects as soon as possible 
 
 > **A game has 4 rounds, lasting 15 minutes each.**
 
-{% comment %}
-- [this phase could be called the Countdown maybe?]
-- **Starting Seekers** must remain at the start area during the hide period.
-and may not watch, follow, or track Hiders. < Optimistic lol.
 
-
-
-
-
-## 4. Photo Window
-{: #photo-clues }
-{% endcomment %}
 
 ### Photo Windows: First 2 min / Round
 
@@ -284,29 +215,23 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 ## 4. Hiding Rules
-{: #locked-location }
+{: #hiding }
 
 > **Hiders must take their photo from the exact location they intend to stay.**
 
 
-- *If you move more than 5 steps, that counts as a Reposition! Please avoid hiding spots where you might be asked to move.*
+- *If you move more than 5 steps, that counts as a Reposition! Please avoid hiding anywhere you might be asked to move.*
 
-- *If you could no longer take your photo again (such as by stepping around a corner), you've Repositioned!
+- *If you could no longer take your photo again (such as by stepping around a corner), you've Repositioned!*
 
 
 {% comment %}
-- **Hiders** may hide solo, in pairs, or in groups of up to three.
-- The **Hider’s** location is locked in at 0:00, when they submit their first photo.
-- **Hiders** must remain within 10 metres—approximately 13–15 normal walking steps—of where Photo 1 was taken.
-
-
-- **Hiders** must still be able to see the Photo 1 location from their current position.
-- Small adjustments are allowed. Re-hiding is not allowed.
-- **Simple test:** if you can no longer see where Photo 1 was taken, you moved too far.
+- This used to be 13-15 steps, or 10 meters. That's like a tennis court, a lot of room for shenanigans.
 {% endcomment %}
 
 
 ### Reposition Rules
+{: #reposition }
 
 > **Hiders may reposition during the Photo Window *(the first 2 minutes of each round),* abandoning their current location and moving to a new hiding spot.**
 
@@ -316,9 +241,9 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - *You can still be found while repositioning!*
 
 
-> **Hiders are not allowed to reposition during the remaining 13 minutes of each round.**
+> **Hiders may *not* reposition after the Photo Window ends for that round.**
 
-- *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there. 
+- *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there.*
 
 
 > **Hiders must include "REPOSITION!" when they send their photo for that round.**
@@ -333,14 +258,15 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - If you repositioned at the end of round 2 and round 3, you'd score half points for rounds 1 & 2, half points from your second location in round 3, and  for your final location. Your best possible score would be 25 points (5 + 5 [REPOSITION!] + 5 [REPOSITION!] + 10).
 {% endcomment %}
 
-## Photo Scoring: Door, Sign, Road
+## 5. Photo Scoring: Door, Sign, Road
+{: #scoring }
 
 > **Hiders score points by including Doors, Signs, and Roads in the photo.**
 
 
 > **Please send "DOOR", "SIGN", and/or "ROAD" with your photo to indicate which features you included!**
 
-- *Up to 12 points can be earned per photo (for a door, a sign, AND a road). Up to 48 points can be earned per game (4 rounds).*
+- *Each photo can score up to 12 points (with a door, a sign, and a road). Up to 48 points can be earned per game.*
 
 - *You're welcome to do the math during the game, but honestly just give me "DOOR SIGN ROAD".*
 
@@ -359,13 +285,14 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 
 
-> **Photos submitted late score -1 point for arriving outside the Photo Window, and -1 point for every additional minute late. **
+> **Photos submitted late score -1 point for arriving outside the Photo Window, and -1 point for every additional minute late.**
 
 - *If you don't submit a photo at all, it's 0 points. You need to send photos to win!*
 
 - *Late penalties are determined by the photo's arrival time to Mike's phone, not by sender time. Seekers need to have actually received your photo!*
 
 ### Door: 2 points
+{: #door}
 
 - *The entire door must be visible; partial doors don't count.*
 
@@ -374,6 +301,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - *I'll probably reject vehicle doors, windows, and open doorways that don't show their door in full (especially if it's not even a cool archway).*
 
 ### Unique Sign: 4 points
+{: #sign }
 
 - *The entire sign must be visible; partial signs don't count.*
 
@@ -382,6 +310,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 - *I'll probably reject stickers, posters, generic road signs (i.e. stop sign), and signs without legible text (faded signs, information panels).*
 
 ### End of the Road: 6 points
+{: #road }
 
 - *The **end** of the road must be visible: We need to see down the line, not across the road!*
 
@@ -395,7 +324,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 ## 6. Getting Found
 {: #finds }
 
-> **Seekers score 20 points for each Hider found!**
+> **Seekers score 20 points for each Hider they find!**
 
 - *Surviving Hiders can score up to 48 points. If you can find 3 hiders, you'll score 60 points!*
 
@@ -413,7 +342,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 
 > **Please send your selfie to the group as evidence of your find, including "[NAME] FOUND!"**
 
-- *The find time is determined by the photo's time stamp for this, not by send time or arrival time (in case of close calls, like a find at 59 minutes). But do send it promptly please!*
+- *The find time is determined by your selfie photo's time stamp, not by send time or arrival time (in case of close calls, like a find at 59 minutes). But do send it promptly please!*
 
 > **Then graciously receive your reward, their *Green Hider necklace!***
 
@@ -429,6 +358,7 @@ and may not watch, follow, or track Hiders. < Optimistic lol.
 > 
 > **You are now a Seeker!**
 
+- *Found Hiders become Seekers pretty quickly. Avoid hiding in sight of other Hiders!*
 
 {% comment %}
 ### Posting rules
@@ -511,12 +441,12 @@ Hider: [Name]
 ### Hiders too strong
 - Reduce Reposition window from 3 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
 
+The live game map will continue to be updated as zones are added. For now, **Entire Zone** is the full playable area outlined in blue below. Remember that boundary streets count only on the inside sidewalk.
 {% endcomment %}
 
-## Game map & zones
+## 7. Live Map
 {: #map }
 
-The live game map will continue to be updated as zones are added. For now, **Entire Zone** is the full playable area outlined in blue below. Remember that boundary streets count only on the inside sidewalk.
 
 > **On game day:** use the live map as the source of truth. The image below is a quick reference for the current Entire Zone.
 
@@ -525,13 +455,5 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
 
-{% comment %}
-## FAQ & Examples
-
-
-## Draft section (hidden)
-
-Keep future rule text inside this block while it is not ready for players. Delete the opening and closing comment tags when the section is ready to publish, then give its heading a unique anchor.
-{% endcomment %}
 
 
