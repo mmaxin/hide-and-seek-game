@@ -1,7 +1,7 @@
 > **10 min to hide** · **4 rounds × 15 min**  · **1 photo clue each round!**
 
 ## 0. Summary
-{: #time } {: #schedule }
+{: #time, #schedule }
 
 |    Time | Description         |                                                                   |
 | ------: | ------------------- | :---------------------------------------------------------------- |
