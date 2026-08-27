@@ -23,11 +23,17 @@
 ## 1. Objective
 {: #objective }
 
+> **All surviving Hiders win the game, regardless of score!**
+
+
 ### Hiders
-> Send photos to score the most points while staying hidden! 
+
+
+> **Send photos to score the most points while staying hidden!**
+
 
 ### Seekers
-> Find Hiders to score points!
+> **Find Hiders to score points!**
 
 
 
