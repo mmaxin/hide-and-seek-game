@@ -14,7 +14,8 @@ We're playing Hide-and-Seek inside the walled Old Town of Rhodes! It's a big, bu
 |  30 min | Round 3 · Photo due |                                                                   |
 |  45 min | Round 4 · Photo due |                                                                   |
 |  60 min | Game End            | Surviving Hiders win!                                             |
-|         |                     |                                                                   |
+
+
 
 [![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
 
@@ -360,7 +361,7 @@ We're playing Hide-and-Seek inside the walled Old Town of Rhodes! It's a big, bu
 
 ## 7. Winning the Game!
 
-> **After 4 rounds (60 minutes), all remaining Hiders win the game! Please send a selfie revealing your hiding spot, along with "I WIN!"
+> **After 4 rounds (60 minutes), all remaining Hiders win the game! Please send a selfie revealing your hiding spot, along with "I WIN!"**
 
 
 > **All players should return to Home Base now.**
@@ -393,7 +394,7 @@ The live game map will continue to be updated as zones are added. For now, **Ent
 
 [![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
 
-<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
+<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Game Boundaries on Google Maps →</a>
 
 
 
