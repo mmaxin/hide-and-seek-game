@@ -3,6 +3,8 @@
 ## 0. Summary
 {: #summary }
 
+We're playing Hide-and-Seek inside the walled Old Town of Rhodes! It's a big, bustling neighborhood, so Hiders will send photo clues to the Seekers!
+
 |    Time | Description         |                                                                   |
 | ------: | ------------------- | :---------------------------------------------------------------- |
 |         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
@@ -14,6 +16,9 @@
 |  60 min | Game End            | Surviving Hiders win!                                             |
 |         |                     |                                                                   |
 
+[![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
+
+<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Google Maps →</a>
 
 
 > **Rules are Rules are bold. Please read the bold text text!**
@@ -52,16 +57,20 @@
 
 
 
-> **All players must join the group chat before starting the game.**
+> **All players must join the Hide & Seek WhatsApp group chat before starting the game.**
 
 - *Each player needs a cell phone with a full battery, a camera, and a data plan!*
-- *We might use up to 0.2 gigs, depending on player count.*
+- *We might use up to 0.3 gigs, depending on player count.*
 
 
 ### Choose Hiders & Seekers!
 {: #teams }
 
+> **Starting Seeker is an opt-in position. But found Hiders become Seekers too!**
 
+- *Let us know if you're excited to be a Starting Seeker!*
+
+- *The game is not over when you're found, you just switch teams!*
 
 | Total Players | Starting Seekers |
 |---:|:---:|
@@ -92,6 +101,12 @@
 - *Please do not hide in the walls, on the walls, or outside the walls.*
 
 
+[![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)
+
+
+<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Google Maps →</a>
+
+
 > **All players must stay outdoors.**
 
 
@@ -112,13 +127,25 @@
 - *Landmarks with free public access are allowed, as long as they are outdoors.*
 
 
+### Safety Always!
+{: #safety }
+
+
+
+> **All players must act in a safe, polite, and respectful manner at all times!**
+
+
+- *Please please don't act shady while hiding! Make sure the locals don't think you're about to mug them from behind a bush.*
+
+
+- *Please please be careful near cars, and avoid injuries of any kind!*
+
+
 > **No running!**
 
-- *We can't really police this, but Mike will be very disappointed in you.*
 
+- *If you see anyone running, tell them Mike will be very disappointed in them.*
 
-
-<a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Open the live game map →</a>
 
 ### Meet at Home Base!
 > **All players must start the game at Home Base**.
@@ -176,48 +203,6 @@
 
 
 
-{% comment %}
-- At the beginning of each round, all **Hiders** must submit a photo.
-
-- At the end of each round, all *surviving* **Hiders** score points according to the photo they submitted (see below).
-- At the end of each round, any *found* **Hiders** become **Seekers**. *(Hiders score 0 points on the round they're found.)*
-
-
-
-- *Walking across Old Town Rhodes takes 15 minutes (east-west or north-south). 
-
-
- 
-
-| Time | Event |
-| --- | --- |
-| −0:10 | Hiders leave to hide |
-| 0:00 | Photo 1 due · Seekers released |
-| 0:15 | Photo 2 due |
-| 0:30 | Photo 3 due |
-| 0:45 | Photo 4 due |
-| 1:00 | Game ends |
-
-
-|    Time | Description         |                                                                   |
-| ------: | ------------------- | :---------------------------------------------------------------- |
-|         | *Meet at Home Base* | **[*Platia Arionos*](https://maps.app.goo.gl/dgDLizPcn8gEu1z48)** |
-| -10 min | **Countdown**       | **Hiders** hide!                                                  |
-|   0 min | Round 1 · Photo due | **Seekers** released!                                             |
-|  15 min | Round 2 · Photo due | Hiders score points!                                              |
-|  30 min | Round 3 · Photo due | Hiders score points!                                              |
-|  45 min | Round 4 · Photo due | Hiders score points!                                              |
-|  60 min | Game End            | Hiders score points! Remaining **Hiders** win!                    |
-
-
-
-| 15 min Round | Event                                         |
-| -----------: | --------------------------------------------- |
-|         0:00 | Hiders may submit their photos, and may reposition!                   |
-|         2:00 | Hiders now lose 1 pt per late minute. New locations locked in!         |
-|        14:59 | Surviving hiders score points!                |
-{% endcomment %}
-
 
 ## 4. Hiding Rules
 {: #hiding }
@@ -225,7 +210,7 @@
 > **Hiders must take their photo from the exact location they intend to stay.**
 
 
-- *If you move more than 5 steps, that counts as a Reposition! Please avoid hiding anywhere you might be asked to move.*
+- *If you move more than 5 steps for any reason, that counts as a Reposition! Avoid hiding anywhere you might be told to move.*
 
 - *If you could no longer take your photo again (such as by stepping around a corner), you've Repositioned!*
 
@@ -238,7 +223,7 @@
 ### Reposition Rules
 {: #reposition }
 
-> **Hiders may reposition during the Photo Window *(the first 2 minutes of each round),* abandoning their current location and moving to a new hiding spot.**
+> **Hiders may Reposition during the Photo Window *(the first 2 minutes of each round),* abandoning their current location and moving to a new hiding spot.**
 
 
 - *Consider Repositioning when it seems like Seekers have figured out exactly where you are. That 2-minute window is your chance for survival!*
@@ -246,7 +231,7 @@
 - *You can still be found while repositioning!*
 
 
-> **Hiders may *not* reposition after the Photo Window ends for that round.**
+> **Hiders may *not* Reposition after the Photo Window ends for that round.**
 
 - *Wherever you are at the 2 minute mark is your new location! You must stop moving, and send your photo from there.*
 
@@ -266,7 +251,7 @@
 ## 5. Photo Scoring: Door, Sign, Road
 {: #scoring }
 
-> **Hiders score points by including Doors, Signs, and Roads in the photo.**
+> **Hiders score points by including Doors, Signs, and Roads in their photo.**
 
 
 > **Please send "DOOR", "SIGN", and/or "ROAD" with your photo to indicate which features you included!**
@@ -284,16 +269,16 @@
 
 
 
-> **Hiders score points *once* for each unique feature they include in their photos.**
+> **Hiders score points *once* for each feature category they include in their photos.**
 
 
 - *A photo with a dozen doors in it still only scores 2 points, not 24 points.*
 
 - *Features only count if they're obviously visible without zooming in on a phone. There might be a tiny sign in the back there, but I won't be squinting to find it!*
 
-> **Each feature can only be used to score points in one photo.**
+> **Each unique feature can only be used to score points in one photo.**
 
-- *Sending the same feature multiple times (i.e. same door twice) still only scores once. Take unique photos please!*
+- *Sending the same door in two photos scores only once. Take unique photos please!*
 
 
 
@@ -324,11 +309,11 @@
 ### End of the Road: 6 points
 {: #road }
 
-- *The **end** of the road must be visible: We need to see down the line, not across the road!*
+- *The **end** of the road must be visible: We need to see down the road, not across the road!*
 
 - *I'll probably accept any path, alley, or road where both interior walls are visible (you can't see the end of a curving road, but both walls is good enough).*
 
-- *I'll probably reject plazas, hallways (indoors is illegal!), and roads where only one wall is visible (that's not looking down the line!).*
+- *I'll probably reject plazas, hallways (indoors is illegal!), and roads where only one wall is visible (that's looking across the road!).*
 
 - *For maximum points, you'll need to be at an intersection to be able to send multiple photos of unique roads from a single location!*
 
@@ -372,91 +357,35 @@
 
 - *Found Hiders become Seekers pretty quickly. Avoid hiding in sight of other Hiders!*
 
+
+## 7. Winning the Game!
+
+> **After 4 rounds (60 minutes), all remaining Hiders win the game! Please send a selfie revealing your hiding spot, along with "I WIN!"
+
+
+> **All players should return to Home Base now.**
+
+
+> **If no Hiders remain, the player with the highest score wins the game!**
+
+
+> **Please submit your score on the Leaderboard to see your ranking!**
+
+- *We'll be reviewing the scores for the top players to confirm their wins!*
+
 {% comment %}
-### Posting rules
-
-After a valid find, the found **Hider** posts in WhatsApp:
-
-```text
-FOUND
-Hider: [Name]
-Found by: [Name]
-Time: [H:MM]
-```
-
-If you are not found by 2:00, post:
-
-```text
-SURVIVED
-Hider: [Name]
-```
-
-## 7. Scoring
-{: #scoring }
-
-### Hider survival points
-
-| Result | Points |
-| --- | ---: |
-| Found between 0:00–0:35 | 2 |
-| Found between 0:35–1:10 | 4 |
-| Found between 1:10–1:45 | 6 |
-| Not found by 2:00 | 10 |
-
-- Each photo must be taken from the exact hiding location.
-- Each photo should clearly show the ground, an upper view, and at least one clear, mostly unobstructed location clue.
-- Each photo must be from the **Hider’s** point of view. No zooming.
-- **Hiders** must submit photos on time. They may be asked to resubmit photos that are unclear.
-- Each player scores points *once* for each unique feature they include in all their photos.
-
-> You will need to be at a crossroads to send four unique roads in a single game!
-
-
-### Seeker points
-
-- Starting Seekers do not earn survival points.
-- Starting Seekers score only by collecting Hider items.
-- Infected Seekers score **+1 point** for each Hider item collected.
-- Starting Seekers score:
-  - **6–10 players:** +3 points per Hider item
-  - **11+ players:** +2 points per Hider item
-
-> **Final score** = Hider items collected + survival points + any Starting Seeker bonus.
-
-
-## 8. Boundaries & movement
-{: #boundaries }
-
-- The entire game is played inside the approved area.
-- Boundary streets count only on the inside sidewalk.
-- If a **Hider** is asked by ***any non-player*** to move, they must move the minimum amount necessary and remain as close as possible to their locked hiding location.
-{% comment %}
-- If a Hider is asked by staff, a resident, or the public to move, they must move the minimum amount necessary and remain as close as possible to their locked hiding location.
-{% endcomment %}
-- **Honour system:** if a **Hider** is forced to move, they must honestly stay within the spirit of the same hiding location and continue using that location for future photo clues.
-
-## 9. Safety, rulings & end of game
-{: #safety }
-
-- Walking only. No running.
-- Stay in public, legal, safe areas only. Public service buildings are allowed if no membership or payment is required.
-- Do not block sidewalks, doors, patios, or paths.
-- No private property, roads, or washrooms.
-- The Organizer has final say on rulings and scoring.
-- At 2:00, the game ends immediately. No late finds count.
-
 
 ## Adjusting the game
 ### Seekers too strong
 - Increase the Hide Countdown from 10 minutes to 15 minutes. Note that Old Town Rhodes is 15 minutes across.
 
 ### Hiders too strong
-- Reduce Reposition window from 3 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
+- Reduce Reposition window from 2 minutes to 1 minute. Avoid reducing to 0 minutes, to prevent new Seekers from immediately catching nearby Hiders.
 
 The live game map will continue to be updated as zones are added. For now, **Entire Zone** is the full playable area outlined in blue below. Remember that boundary streets count only on the inside sidewalk.
 {% endcomment %}
 
-## 7. Live Map
+## 8. Live Map
 {: #map }
 
 
