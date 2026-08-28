@@ -1,4 +1,4 @@
-# Photo-Clue Infection Hide & Seek
+# Photo-Clue Hide & Seek
 
 A one-page, mobile-friendly rules site for the game. GitHub Pages publishes the site automatically from the `main` branch.
 

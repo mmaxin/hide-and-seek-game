@@ -34,7 +34,7 @@
           {% if page.page_type == 'rules' %}<p class="print-only print-url">Latest rules &amp; live map: mmaxin.github.io/hide-and-seek-game/</p>{% endif %}
         </div>
         <div class="hero__actions" aria-label="Page actions">
-          <button class="action-button" type="button" data-share data-share-text="{{ page.share_text | default: 'Photo-Clue Infection Hide & Seek game rules' }}">Share {{ page.share_label | default: 'rules' }}</button>
+          <button class="action-button" type="button" data-share data-share-text="{{ page.share_text | default: 'Photo-Clue Hide & Seek game rules' }}">Share {{ page.share_label | default: 'rules' }}</button>
           {% if page.page_type == 'rules' %}<button class="action-button action-button--quiet" type="button" onclick="window.print()">Print / save PDF</button>{% endif %}
         </div>
       </div>
@@ -45,6 +45,7 @@
         <div class="page-switcher" aria-label="Pages">
           <a href="{{ '/' | relative_url }}"{% if page.page_type == 'rules' %} aria-current="page"{% endif %}>Rules</a>
           <a href="{{ '/examples/' | relative_url }}"{% if page.page_type == 'examples' %} aria-current="page"{% endif %}>Examples</a>
+          <a href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Maps</a>
           <a href="{{ '/leaderboard/' | relative_url }}"{% if page.page_type == 'leaderboard' %} aria-current="page"{% endif %}>Leaderboards</a>
         </div>
         {% if page.page_type == 'rules' %}

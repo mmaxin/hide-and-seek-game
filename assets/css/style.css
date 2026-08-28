@@ -1177,6 +1177,40 @@ code {
   }
 }
 
+@media (max-width: 360px) {
+  .section-nav__spacer {
+    display: none;
+  }
+
+  .page-switcher {
+    flex-basis: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.25rem;
+  }
+
+  .page-switcher a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.5rem;
+    padding-inline: 0.45rem;
+    text-align: center;
+  }
+
+  .section-nav__links {
+    order: 2;
+    flex: 1 1 calc(100% - 3.2rem);
+    margin-inline: 0;
+    padding-right: 0.5rem;
+  }
+
+  .section-nav__search-toggle {
+    order: 2;
+    margin-left: 0;
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   html {
     scroll-behavior: auto;
