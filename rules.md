@@ -102,7 +102,7 @@ We're playing Hide-and-Seek inside the walled Old Town of Rhodes! It's a big, bu
 - *Please do not hide in the walls, on the walls, or outside the walls.*
 
 
-[![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)
+[![Satellite map of Rhodes Old Town showing the Entire Zone outlined in blue](assets/game-map.png)](https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&usp=sharing)
 
 
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Google Maps →</a>
