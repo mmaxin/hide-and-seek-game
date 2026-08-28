@@ -41,14 +41,16 @@
     </header>
 
     <nav class="section-nav" aria-label="Site and page navigation">
-      <div class="section-nav__bar">
+      <div class="section-nav__bar section-nav__bar--pages">
         <div class="page-switcher" aria-label="Pages">
           <a href="{{ '/' | relative_url }}"{% if page.page_type == 'rules' %} aria-current="page"{% endif %}>Rules</a>
           <a href="{{ '/examples/' | relative_url }}"{% if page.page_type == 'examples' %} aria-current="page"{% endif %}>Examples</a>
           <a href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Map</a>
           <a href="{{ '/leaderboard/' | relative_url }}"{% if page.page_type == 'leaderboard' %} aria-current="page"{% endif %}>Leaderboards</a>
         </div>
-        {% if page.page_type == 'rules' %}
+      </div>
+      {% if page.page_type == 'rules' %}
+        <div class="section-nav__bar section-nav__bar--sections">
           <div class="section-nav__links">
             <a href="#top">Overview</a>
             <a href="#objective">Start</a>
@@ -67,10 +69,8 @@
             <span class="section-nav__search-label section-nav__search-label--full">Search guide</span>
             <span class="section-nav__search-label section-nav__search-label--compact">Search</span>
           </button>
-        {% else %}
-          <span class="section-nav__spacer" aria-hidden="true"></span>
-        {% endif %}
-      </div>
+        </div>
+      {% endif %}
       {% if page.page_type == 'rules' %}
       <div class="guide-search" id="guide-search" data-search-panel hidden>
         <div class="guide-search__inner">
