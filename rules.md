@@ -21,7 +21,7 @@ We're playing Hide-and-Seek inside the walled Old Town of Rhodes! It's a big, bu
 <a class="button map-button" href="https://www.google.com/maps/d/viewer?mid=1K333qr3YPDbJbKSe0Sf76sPG-eI42dM&amp;usp=sharing" target="_blank" rel="noopener">Google Maps →</a>
 
 
-> **Rules are Rules are bold. Please read the bold text text!**
+> **Rules are bold. Please read the bold text!**
 
 
 - *Italics is for optional explanation. Read these for more info, hints, and context!*
